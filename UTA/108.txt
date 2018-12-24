@@ -1,0 +1,40 @@
+Privacy and Security Policy
+The Texas Department of State Health Services (DSHS) maintains websites as a public service. This policy describes DSHS' privacy and security practices regarding information collected from visitors to DSHS websites, including what information is collected and how that information is used. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. This information will not be sold to a third party. This information will not be shared with a third-party unless required by law or as stated in this policy. All information collected from DSHS websites, including the summary server log information, e-mails sent to websites, and information collected from web-based forms, is subject to the Texas Public Information Act. This policy applies to all pages ending in dshs.texas.gov and other DSHS-maintained websites and properties.
+
+Analytics
+For site management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information. DSHS uses website analytics tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas.
+
+Security
+For site security purposes and to ensure that sites remains available to all users, the Department uses software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on DSHS websites are strictly prohibited and may be punishable under applicable state and federal laws.
+
+Cookies
+Cookies may be used to collect information about the number and types of visitors to DSHS websites. This information is not reported or used in any manner that would reveal personally identifiable information, but rather it is used by DSHS to facilitate the display of information to the web user.
+
+GovDelivery, Inc.
+DSHS contracts with a company called GovDelivery, Inc., to provide email updates. When you sign up for email updates, you are giving your information to both DSHS and GovDelivery. When DSHS has your information, it is subject to DSHS’s privacy policy. When GovDelivery has your information, it is subject to their privacy policy. Click here to go to the GovDelivery privacy policy.
+
+Request for Records
+Anyone may ask for any information about themselves collected by DSHS. The request should be put in writing and mailed, hand-delivered, faxed or emailed to DSHS. Consult the Open Records Policy for more details about how to ask DSHS for information.
+
+Request to Correct Information
+Individuals may also ask DSHS to correct information it collects about them. A request to correct information must be in writing and must:
+
+identify the individual asking for the correction;
+identify the information that is allegedly wrong;
+state why the information is wrong;
+include any proof that shows the information is wrong; and
+provide information that will allow HHS to contact the subject of the information.
+A request to correct information should be sent to the portion of DSHS with whom the subject of the information does business. Anyone who does not know where to send a request to correct information should call 1-888-963-7111 (toll-free). People who are deaf, hard of hearing or speech impaired should call 7-1-1 or 800-735-2989 (toll-free).
+
+Third Party Content
+DSHS is not responsible for the privacy policies, or lack of policies, in place at any site linked to or from the DSHS site and not within the domain of dshs.texas.gov.
+
+E-mail
+If you send us an electronic mail message with a question or comment that contains personally identifying information or fill out a form that e-mails us this information, DSHS will only use the personally-identifiable information to respond to your request and analyze trends. We may also redirect your message to another government agency or person who is in a better position to answer your question.
+
+Web-Based Forms
+Any forms submitted via DSHS websites containing personally identifiable information will be sent via secured transmission. Personally identifiable information collected from these forms has a specified use (e.g. registration, survey response, order, etc.) and the information is used by DSHS only for that purpose. Each form contains a link to this privacy policy.
+
+You have the right to request and be informed about information that DSHS collects about you. You are entitled to receive and review the information upon request. You also have the right to ask DSHS to correct any information that is determined to be incorrect.
+
+Last updated June 20, 2018

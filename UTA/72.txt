@@ -1,0 +1,77 @@
+Privacy Policy
+Endo Pharmaceuticals Inc.
+Last updated: 22 June, 2018
+
+This Privacy Policy applies to http://www.endo.com or any other website on or in which this Privacy Policy is posted (together, “Site”). The Site is operated by Endo Pharmaceuticals Inc. and its affiliates ("Endo" or “we”).
+
+1. SCOPE
+This Privacy Policy describes the information we collect through the Site and why we collect it and what we do with the information we collect. This Privacy Policy does not apply to information that is collected by any third-party website or service that you access through the Site.
+
+Our agreements with certain clients may contain provisions about the collection, use, storage and disposal of information collected through the Site and offline. If a provision of a client agreement conflicts or otherwise is inconsistent with a provision of this Privacy Policy, then the provision of the client agreement will prevail but solely to the extent of the conflict or inconsistency.
+
+2. INFORMATION WE COLLECT AND HOW WE COLLECT INFORMATION
+Endo collects information from when you use the Site in the following ways:
+
+When You Provide Information to Endo: We collect all of the information that you give us in connection with your use of the Site. If you send us an email or contact us, we collect the information you send us. We collect any feedback, question and other information that you provide to us. We treat all information that you provide to us as non-confidential and non-proprietary.
+When You Use the Site: We collect information about how you use the Site:
+Through Server Logs: A server log is a list of the activities that a server performs. Endo’s servers automatically collect and store in server logs your search queries, Internet Protocol (IP) address, hardware settings, browser type, browser language, the date and time of your request and referral URL and certain cookies that identify your browser or Endo account.
+From Your Computer or Mobile Device: We collect device-specific information, such as your computer or mobile telephone model, operating system version, device identifiers and mobile network information.
+From Other Sources: Endo collects information from third parties that assist us with our business operations. As part of their services, they may collect and use information through the Site and share the collected information with us. For example, our service providers may collect and share information with us to analyze the performance of the Site, detect and prevent fraud or to improve user experience.
+3. DATA COLLECTION TECHNOLOGY
+We use data collection technology to collect information about you and your use of the Site. Data collection technology deployed through the Site may include cookies and web beacons.
+
+A cookie is a small text file that is sent to or accessed from your web browser or your computer’s hard drive. A cookie typically contains the name of the domain (internet location) from which the cookie originated, the “lifetime” of the cookie (i.e., when it expires) and a randomly generated unique number or similar identifier. A cookie also may contain information about your computer, such as user settings, browsing history and activities conducted while using the Site. A web beacon (also called a pixel tag or clear GIF) is a piece of computer code that enables us to monitor user activity and website traffic. (To learn more about cookies and web beacons, visit www.allaboutcookies.org.)
+Data collection technology helps improve functionality and determine which features users prefer by collecting information about your browser type, domain name of your Internet service provider, websites visited before and after visiting the Site and web pages viewed. We may compile statistics about use of the Site to help us analyze technical and navigational information about the Site and to detect and prevent fraud.
+
+Your Control of Cookies: Some web browsers (including some mobile web browsers) provide settings that allow you to control or reject cookies or to alert you when a cookie is placed on your device. To learn more, visit www.aboutcookies.org/how-to-delete-cookies/.
+
+Although you are not required to accept cookies or mobile device identifiers, if you block or reject them, you may not have access to all features available through the Site. For more information about how to opt out of cookies, visit www.aboutcookies.org.
+
+Do Not Track: Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a “Do Not Track” (“DNT”) or similar feature that signals to websites that a user does not want to have his or her online activity and behavior tracked. If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser’s user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many website operators, including Endo, do not respond to DNT signals.
+
+4. HOW WE USE AND SHARE YOUR INFORMATION
+Endo shares information collected through the Site as follows:
+
+Providing the Site: Endo will use information it collects as necessary to provide the Site.
+Service Providers: Endo shares information with Endo’s suppliers and third-party service providers that help us operate, analyze and improve the Site.
+Corporate Transactions: Endo may share and transfer personal data if Endo is involved in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control by Endo or its parent or affiliated companies (in each case, whether in whole or in part).
+Other Lawful Disclosures: Endo also shares information: (i) as required or permitted by law, including any requirements from government agencies and taxing authorities; (ii) if we determine that disclosure of specific information is necessary to comply with the request of a law enforcement or regulatory agency or other legal process; (iii) to protect the rights, privacy, property, interests or safety of Endo or our affiliated companies, customers, employees or the general public; (iv) to pursue available remedies or limit damages; (v) to enforce Endo’s agreements with you; and (vi) to respond to an emergency.
+5. HOW WE PROTECT AND STORE INFORMATION
+Endo deploys administrative, physical and technical safeguards intended to help protect information that we collect, process and store. Unfortunately, however, no safeguards are foolproof. Your use of the Site is at your own risk and Endo expects that you will use appropriate security measures to protect information that you process through the Site.
+
+You are responsible for maintaining the security of your account credentials and other authentication involved in obtaining access to password-protected or secure areas of the Site. Endo will treat access to the Site through your account credentials as authorized by you. Unauthorized access to password-protected or secure areas is prohibited and may lead to criminal prosecution.
+
+We may suspend your use of all or part of the Site without notice if we suspect or detect any breach of security. If you believe that information you provided to us is no longer secure, please notify us immediately using the contact information provided below.
+
+We store and retain information for as long as necessary to fulfill the purposes for which you provided the information, to comply with legal obligations, to resolve disputes, to enforce our agreements with you and for similar essential purposes.
+
+6. CONTROLLING AND ACCESSING PERSONAL DATA THAT YOU PROVIDE TO ENDO
+You may instruct Endo to stop sending you emails by submitting a request at following the ‘unsubscribe’ instructions provided in the website. Endo may, however, continue to communicate with you about an ongoing business transaction.
+
+You can always choose not to provide information to us. If you are in the EEA and choose to provide us with personal data, please refer to the Endo Privacy Policy GDPR Addendum which details how we use personal data.
+
+7. THE SERVICES ARE NOT FOR CHILDREN
+You must be at least the age of majority in your place of residence to use the Site. The Site is not directed to or intended for use by minors. Consistent with the requirements of the U.S. Children’s Online Privacy Protection Act, if we learn that we received any information directly from a child under age 13 without his or her parent’s verified consent, we will use that information only to inform the child (or his or her parent or legal guardian) that he or she cannot use the Site.
+
+8. LINKS TO OTHER WEBSITES AND SERVICES
+The Site may include links to third-party websites and services that are not operated by us, such as for recordings of earning reports. When you click these links, you are navigating away from the Site. A link to a third-party website or service does not mean that we endorse it or the quality or accuracy of information presented on it. If you decide to visit a third-party website or service, you are subject to its privacy practices and policies, not ours. This Privacy Policy does not apply to any personal data that you provide to these other websites and services.
+
+9. CALIFORNIA RESIDENTS
+California Code Section 1798.83 permits individual California residents to opt out of Endo’s disclosure of personal data to third parties for their direct marketing purposes. California law also permits residents of California to request and obtain from us once per year, free of charge, a list of the third parties (if any) to whom we have disclosed personal data for their direct marketing purposes in the prior calendar year, as well as the type of personal data disclosed to those third parties. Endo does not disclose your personal data to third parties for their direct marketing purposes. If Endo changes this policy, we will update this section. Please contact us with questions.
+
+10. NOTICE TO USERS OUTSIDE THE UNITED STATES
+If you are an EU resident, please refer to the Endo Privacy Policy GDPR Addendum.
+
+For all other users, the servers that operate the Site are located in the United States. If you are using the Site from outside of the United States, your information may be transferred to, stored and processed in the United States where our servers are located.
+
+11. GOVERNING LAW
+If you choose to visit the Site, your visit and any dispute about your privacy rights is subject to our Terms of Use, including the application of the State of New York unless law applicable to you and us requires otherwise.
+
+12. CHANGES TO THIS PRIVACY POLICY
+The Effective Date of this Privacy Policy is set forth at the top of this webpage. We reserve the right to change our Privacy Policy as business needs or applicable laws require. If Endo makes material changes to the way we use personal data, Endo will (unless otherwise required by law) attempt to notify you through a notice posted in the Site before the changes take effect. Your continued use of the Site after the Effective Date of the revised Privacy Policy constitutes your acceptance of the revised Privacy Policy. The revised Privacy Policy replaces and supersedes all previous versions.
+
+HOW TO CONTACT US
+If you have questions about how Endo uses your personal data, please contact us at privacy@endo.com or by regular mail at:
+
+1400 Atwater Drive
+Malvern PA 19355

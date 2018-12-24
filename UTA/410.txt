@@ -1,0 +1,76 @@
+ 
+ 
+This Notice applies to the following websites (collectively, "Sites"):
+
+The Selective Insurance Group, Inc. website, located at http://www.selective.com ("Selective.com") and owned and operated by Selective Insurance Group, Inc. and its member insurers (collectively, "Selective"), as well as any related limited access websites or portals (for example: Selective's agency or customer self-service portals).
+http://www.selectiveflood.com and http://www.myselectiveflood.com, operated by certain Selective Insurance Group, Inc. member insurers.
+http://www.stonecreekspecialty.com, http://www.music-ins.com, and any related sites operated by a Selective Insurance Group, Inc. excess and surplus insurer subsidiary.
+Mobile applications owned or operated by Selective Insurance Group, Inc.
+The purpose of this website Privacy Notice ("Notice") is to describe the information we obtain about individuals visiting our Sites, how it is obtained and used, and how you can access or update it, or restrict its use or disclosure. Your use of the Sites constitutes your consent to this Notice. If you do not agree with this Notice's terms and conditions, do not use Selective's Sites. Please note that this Notice changes from time to time; we encourage you to review it regularly. Your use of the Sites is also subject to and contingent upon your agreement with the Selective User Agreement, which may change from time to time ("User Agreement"), and are hereby incorporated by reference.
+
+Information We Gather
+The only personal information we obtain about individual visitors to our Sites is information supplied voluntarily by you. This means that you can visit the public areas of our Sites without telling us who you are or revealing any personal information about yourself. To gauge the effectiveness of our Sites, we collect certain information about you as you move through our Sites. Our servers automatically recognize your domain name (such as .com, .edu, etc.), the website from which you enter our Sites, which pages you visit, and how much time you spend on each page. We aggregate this information and use it to evaluate and improve our Sites.
+
+You can choose to provide personal information to us in a number of ways: through our Sites, by sending us emails, or requesting information about our products or services. When you supply personal information for a specific purpose, we use it for that purpose (such as providing the information you requested). In addition, when you use our Sites to request information about our products or services or to supply us with information, we may use the personal information to evaluate your service needs and contact you regarding additional services you may find useful. You have the right to choose not to receive this information by notifying us of your preferences.
+
+We Collect And Use Information Throughout Our Sites For:
+Transactions or communications. We may collect and store your name, address, and email as part of the transaction history. The majority of the information collected under this category is contact information. We may need to share some of this information (address, payment) with our third party service providers that are required to accomplish transactions on our behalf.
+
+Providing service and support. This information is both contact information and information related to products and service/support requested. It is used to provide service, product update and similar notices, as well as to distribute related feedback or satisfaction surveys to help us improve our service and product offerings.
+
+Selecting content. Information may be collected to help create content and navigation that is most relevant and user friendly. This includes information collected as a result of site navigation as well as information provided in forms.
+
+Account Registration. Where we provide you with the ability to create an account or profile, we maintain the information and allow you to update it at any time.
+
+Payment Purposes. For certain products, Selective has provided you with the ability to enroll online to our Selective Bill Pay service and to make payments online and/or through Selective's mobile applications.
+
+Responding to general inquiries, or specific requests for information, service or quotes. Selective will pass contact information to the appropriate Selective person or independent agent for follow-up related to your request.
+
+Compliance with legal requirements. Selective may be required to provide personal information to comply with legally mandated reporting, disclosure, other legal process requirements or if disclosure is necessary to protect the safety of Selective's customers, employees or property.
+
+Fraud Prevention. To help protect Selective or Selective’s customers from fraud and other unlawful activities.
+
+For insurance applicants, customers or claimants, as detailed in Selective's Notice of Information Practices. Selective may also use the personal information you submit via the Sites pursuant to Selective's Notice of Information Practices.
+
+Cookies
+Our Sites may use "cookies" to improve our level of service to you. Cookies are text transmitted to your browser when you click on a site. Your browser stores the text on your hard drive and when you return to that site, it is transmitted back to the server that originally sent it to you. Cookies provide a way for a server to recall a previous request or registration, or keep track of a transaction as it progresses, so that information does not have to be repeated. To be notified when you are about to receive a cookie, you can configure your browser to alert you when a site is attempting to send you a cookie and at that time you will have the option of refusing the cookie. You can check your hard drive for cookie files, on the "cookies.txt" file on your PC's hard drive; or under "magic cookies" on a Macintosh. If you choose to disable these cookies, some or all of the functionality of our Sites may be unavailable to you.
+
+Troubleshooting
+We continue to work on methods to increase the scope of information you may access and update. Please contact us at privacy@selective.com if you require assistance concerning your information or if you have trouble accessing your profile. Please indicate 'access' in the subject line and describe the access problem in the body of the message. You may also write to Selective's Chief Privacy Officer at the address indicated further below.
+
+How can you opt out or request changes to how your personal information is handled?
+If you would like to receive a copy of the personal information we have about you please send a request to privacy@selective.com, and we will make all reasonable efforts to comply with your request. If this information is incorrect or incomplete, please notify us, and it will be corrected or updated promptly (unless further information from you is required in order to fulfill your request) and in any event in accordance with applicable laws. You may also ask us to remove your name and other personal information from our database, in which case we will make all reasonable efforts to do so.
+
+We do not send unsolicited "junk" email (spam). We may use email to communicate with you, to respond to your emails, to confirm orders placed online, to send information you have requested, to communicate with you about your policy or claim, for payment or account updates, or to solicit customer satisfaction feedback about our products or services. If you receive an unwanted email from us, you can use the reply feature on your browser in order to ask us not to send you future emails – simply ask us to remove you from our list in the body of the email. If you are enrolled in our Customer Self-Service Portal, you may also manage your email preferences as part of your account information. Further, some emails have a built-in unsubscribe link that may be used. If you do not believe your request has been satisfactorily addressed, you should contact our Privacy Officer at privacy@selective.com.
+
+Sale Or Transfer Of Information
+We do not sell personal information obtained through our Sites to others for marketing purposes. However, in the event of a sale, merger, liquidation, dissolution, or transfer of part of the business, trade or assets of Selective and/or any of its individual affiliates, Selective may share information about you to prospective buyers and all personal information collected about you via our Sites may be sold, assigned, or transferred to the party acquiring all or substantially all of Selective’s equity or assets or business. You consent to the sale and transfer of your information as described in this paragraph.
+
+Internet Security
+The Internet is an unsecure medium. Accordingly, we are not responsible for, and do not assume any liability for any harm, loss or damage you may incur by sending your personal information to us via the Internet, either by posting on our Sites, sending by email or any other method of Internet transmission.
+
+Security
+We are committed to safeguarding privacy and require our employees to protect the privacy of individuals’ information. We also require our partners and suppliers to enter into written confidentiality agreements to protect your information. We employ appropriate security measures to safeguard your transactions and contractually require our partners and suppliers to do the same. These measures include maintaining appropriate administrative, technical and physical safeguards to protect your personal information. In the event of a security breach impacting your personal information, we will attempt to notify you at your most recent email address on record. By providing your email address, you consent to Selective communicating with you electronically using that email address and format.
+
+Social Security Numbers
+We may collect and use Social Security Numbers (SSNs) in our course of business as necessary to process transactions. We are committed to safeguarding and protecting the confidentiality of SSNs, prohibit unlawful disclosure of SSNs, and limit access to SSNs to essential personnel or third party service providers that have signed written confidentiality agreements and who require access to such information to complete transactions.
+
+Privacy Inquiries
+We have appointed a Chief Privacy Officer. Should you believe your personal information has been used in a way that is not consistent with this Notice or your stated preferences, or should you have further questions related to this Notice, please contact privacy@selective.com. Written inquiries may be addressed as follows: Selective Insurance Group, Inc., Attn: Chief Privacy Officer, 40 Wantage Avenue, Branchville, NJ 07890.
+
+Links And Third Party Web Sites
+Our Sites may include links to other websites ("Other Sites"), including access to third party content, products and services. In some cases, these Other Sites may have the same (or a similar) look and feel as our Sites, and may appear to be part of our Sites. However, whenever you choose to access Other Sites or non-Selective content, you will leave our Sites. We urge you to familiarize yourself with the individual privacy and other terms for each linked site prior to submitting your personal information. We are not responsible for the content, privacy policies or practices employed by Other Sites.
+
+How Will We Notify You If This Notice Changes?
+We will post material changes to this Notice at least thirty (30) days prior to the changes taking effect. If we make material changes to this Notice affecting our treatment of your personal information, we will provide you with e-mail notice of such changes. You may choose to request that we delete your information, or your continued use of the Sites after receipt of our Revised Notice ("Revised Notice") constitutes your acceptance of the Revised Notice.
+
+Children And Minors
+We do not target, nor do we want to collect personal information from minors (children under 13 years of age or any other age defined under applicable law). If we become aware that a minor is attempting to or has submitted personal information via the Sites, we will notify the user his or her personal information will not be accepted, and delete any such personal information.
+
+Persons Visiting from Outside the U.S.
+The Sites are hosted in the U.S. and are intended for U.S. persons. If you are visiting from outside the U.S. and choose to provide us with personal information, please be aware that you are transferring information to the U.S. that may be a jurisdiction with less restrictive privacy laws than those laws in your own jurisdiction. By entering personal information through our Sites, you consent to its transfer to the U.S. and storage and use of such information as described in this Notice.
+
+The policies and practices described in this Notice replace all previous notices or statements regarding this subject as of 30 days from the update date below.
+
+Last updated August 9, 2012
+

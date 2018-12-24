@@ -1,0 +1,138 @@
+Privacy Policy
+PG&E Privacy Policy
+Last Updated: August 23, 2017
+
+
+Your privacy is a top priority for PG&E and we make every reasonable effort to protect the information we hold about you. This Privacy Policy addresses information obtained from customers, website visitors, and mobile application users and is intended to inform you about how PG&E treats information that we collect and process. This Policy covers Pacific Gas and Electric Company, its employees, agents, contractors, and affiliates.
+
+
+For information specific to the privacy of Energy Usage Data, please see PG&E's Notice of Accessing, Collecting, Storing, Using and Disclosing Energy Usage Information.
+
+
+Definitions
+"Personal Information" means any information that, when used alone or combined with other personal or identifying information, can be used to distinguish or derive the identity of an individual, family, or household who is or which includes a customer of PG&E. Such information is subject to confidentiality requirements
+
+
+"Third Parties" means vendors, agents, contractors, or affiliates that provide service to or on behalf of PG&E
+
+
+"You" means any PG&E customer, website visitor, or mobile application user
+
+
+What Type of Information Does PG&E Collect?
+Information that you give us
+
+
+PG&E is committed to collecting only the information that is necessary to provide services to you or to comply with the law. We receive, store, and, process information, including Personal Information, that you make available to us based on our business relationship with you, or by using or accessing our website or other online services. Examples include:
+
+
+The information you provide to us when you start energy service, such as your name, address, phone number, email address, and Social Security Number
+Billing and payment information used to pay your energy bill, including your financial information, credit history, and Social Security Number
+Information you provide to determine eligibility or participate in certain energy programs or services, such as Energy Efficiency or Demand Response
+Information used to visit, register for, manage, or access your online account, such as your PG&E account number, name, address, phone number, and email address
+Information you fill out in any form on our website, mobile applications, or otherwise, such as signing up for outage alerts, signing up for bill notifications, or authorizing another person on your PG&E account
+Information you give us when you communicate with PG&E and/or any of its representatives
+We may supplement the information described above with information we obtain from other sources, including from both online and offline data providers. Such supplemental information may include contact information, such as your email address, demographic data, or other relevant information.
+
+Information we get from your use of our website or mobile apps
+
+Your visits to PG&E's website or mobile apps: We collect information about visits to our website and mobile applications, such as the number of visitors and the number of users that click on certain links or use certain services. For some applications, such as rate analysis, we link usage information with the customer visiting the website. We use industry standard software to create summary statistics of the data we collect, which may then be used to highlight what our visitors find interesting, to improve the website design and usability, to identify system performance issues, or for other internal purposes. We may use information about your location when you use certain features on our website, such as our Outages map.
+Log Data: We receive information that is automatically recorded by our servers when you visit our website or mobile applications, including your Internet Protocol ("IP") Address. An IP address is a number automatically assigned to your computer every time you browse the Internet. When you visit the website, our servers log your current IP address. We may use your IP address to help diagnose problems with our servers and to administer the website. We also use IP addresses to provide localized content to you on our website, which is related to your geographic region. Your IP address is not associated with your Personal Information and we do not use it to identify you when logging IP address data.
+Cookies: When you visit or use our website or online services, our server may create cookies, which are small pieces of information placed on your device that provide a more convenient experience to you. PG&E uses cookies and other similar technologies on our website and online services. We may also allow business partners to use their cookies or similar technologies on our website or online services for the purpose of providing targeted advertisements to you about programs or services that we offer. As a result, when you use or visit the website, you will provide or make available certain information to us and to our business partners.
+
+The data we collect about website usage from cookies is not tied to your Personal Information and is only used in an aggregated form for the purposes of our own customer support, analytics, research, and improving our website. When you use features such as "Remember My Username," the cookie is associated with your Personal Information in order to provide you with a more convenient experience. We do not sell or transfer the data we obtain from cookies for any purpose other than to evaluate website usage or provide energy services to you, or to offer programs and/or services that you may be interested in. 
+
+You may disable the usage of cookies through your browser settings. Please note that if you disable your browser’s ability to accept cookies, you will be able to navigate PG&E’s website, but you will not be able to take advantage of certain features, such as "Remember My Username," and will not receive targeted advertisements related to our programs or services.
+Targeted Communications on Social Media Sites
+
+We use social media sites like Facebook and Twitter to communicate with you about our programs and services. You can follow us on these social media sites to receive regular updates. These social media sites also allow us to target ads to you using the information they maintain about you, even if you do not specifically follow us on their site. We may target ads to you using information such as cookies, pixels, zip codes, and interests.
+
+
+You will only see our targeted ads if you agreed to receive this type of communication through your social media provider. You may be able to disable some or all of the advertising targeted to you on a social media site by adjusting your privacy settings on their site. Please see our Social Media Guidelines for more information.
+
+
+Web Browser "Do Not Track" Signals and Other Similar Mechanisms
+
+Our website does not respond to "Do Not Track" signals or other similar mechanisms. "Do Not Track" signals are used by some Web browsers to attempt to limit tracking related to your visits to a website.
+
+
+Links to other websites
+
+While browsing the website, you may encounter and choose to access websites or online services operated by companies or agencies that may not be associated with PG&E by clicking on hypertext links or icons. These websites may send their own cookies to you, log your IP address, and/or otherwise collect data or Personal Information about you and your online activities. PG&E does not control and is not responsible for what outside entities do in connection with their websites or online services, or how they handle your Personal Information. Please use caution and consult the privacy policies posted on each outside website that you visit for further information.
+
+
+How We Use Information
+PG&E uses, stores, and processes the information that you provide or make available for the following general purposes:
+
+To provide energy services to you, administer your account, and to bill you for your energy usage
+To improve our operational efficiency and to provide you with better service
+To contact you in response to an inquiry that you send to PG&E
+To send you information about programs, products and services from PG&E and other providers that may be of interest to you
+To authenticate and confirm your identity when you access your PG&E account
+To send you messages related to your energy services, support and administrative messages, technical notices, updates, alerts, and other information that you request
+
+Sharing Information with Third Parties
+In order to provide you with services or to complete transactions requested by you, we may transfer your Personal Information to Third Parties who act on our behalf. Third Parties acting on PG&E's behalf are required to follow the same privacy and security practices as PG&E, and are subject to an extensive security review of their data handling processes before PG&E permits any sharing of customers’ Personal Information.
+
+
+PG&E does not release a customer’s Personal Information to any other person or business entity without your prior consent, except as necessary for PG&E to:
+
+
+Provide energy services to you
+Operate and maintain PG&E’s electric or gas system
+Comply with a valid warrant, subpoena, or court order
+Comply with a valid California Public Utilities Commission ("CPUC") request or request from other state or federal governmental agencies with legal authority to obtain the data from PG&E
+Enable Third Parties to provide energy-related services on behalf of PG&E—but only if necessary to render the service and subject to confidentiality and security requirements
+Notify credit reporting agencies and collection agencies if your account is assigned for collection
+Assist emergency responders in situations of immediate threat to life or property
+
+Other than for the exceptions noted above, it is PG&E's policy to not release Personal Information to any other person, business, or entity without your prior written consent, unless necessary to provide energy services to you. Written consent may be obtained electronically.
+
+
+Sharing Personal Information at Your Choice
+
+You may authorize other companies or persons to receive your Personal Information, including your Energy Usage Data. Before sharing information, it is important that you understand how other parties intend to use your information, if they will share it with others, and your rights as a consumer. We encourage you to protect the confidentiality of your username and password and other personally identifiable information specific to your PG&E account.
+
+
+Retention
+We keep information about our customers based on legal requirements or recommendations, including those from the CPUC, which is typically seven years. Generally, we only retain Personal Information for as long as is reasonably necessary to provide energy services to you or as approved by the CPUC or required by law. Secure disposal methods are used when information is no longer needed.
+
+
+Accessing and Managing your Information
+Most customers have secure access to information about them through their monthly bills or their online account on our website. To help protect your privacy and provide you with quality service, we rely on you to provide us with complete and accurate information. If you think the information we have about you is inaccurate or outdated, we encourage you to contact us at your earliest convenience to update or correct the information. You may update or correct your information by calling the number listed in the "Contact Us" section below, or by signing into your online account through the Your Account portal at pge.com to edit your profile.
+
+
+We offer certain choices about how we communicate with you and what Personal Information you provide to us. In some cases you have the right to limit, or opt-out of, the information you provide to us.
+
+Social Security Number: In order to establish or re-establish service, you may be asked to provide your Social Security Number for us to validate your identity. You have the right to not provide your Social Security Number, however, a deposit may be charged and we will request an alternate form of identification (e.g., driver’s license, passport, State identification, etc.). The establishment deposit can be waived if the account is enrolled in paperless billing and recurring payment via pge.com or secured with a bill guarantor. The re-establishment deposit can be waived if secured with a bill guarantor.
+Your Account: As a customer, you may sign up for Your Account online at pge.com to get instant access to your bill, make payments, and receive important alerts. If you choose to sign up for Your Account, you will be asked to provide your email address. You have the right to decline to provide your email address; however, you will not be able to take advantage of our online services such as electronic billing and payments.
+Email Communications: If you have opted-in to receive email communications from us, you can opt out of receiving these emails at any time by following the unsubscribe process in the footer of the email or by contacting us in the manner described in the "Contact Us" section of this Policy. If you are a customer who has registered to use Your Account to access your account on our website, you can opt out of future mailings by updating the preferences section on the Profile & Alerts page within the Your Account portal at pge.com.
+
+Security
+Protecting our customers’ information is a top priority for PG&E. We take extensive measures to ensure the integrity of our systems and protect your Personal Information. We continuously implement and update administrative, technical, and physical security measures to help protect Personal Information about you from unauthorized access, destruction, or alteration. In addition, any account information you enter while logged in to your online account, or that is displayed on our website in your browser window, is secured using an industry standard security technology known as Secure Sockets Layer ("SSL"). By using SSL, we attempt to protect the confidentiality of your personal and financial information. Your browser must be capable of supporting SSL. Please check with your browser manufacturer for details.
+
+
+Children's Privacy Online
+We share our customers’ concern that children’s privacy is important. We have areas of our website intended for use by children that contain information about energy and safety. We also provide free classroom materials for teachers about energy awareness and safety. We do not monitor the age of users of the website and do not intentionally collect information from children under the age of 13. If you are under the age of 13, you should not submit Personal Information on this website or any other website without the consent of your parent or guardian.
+
+
+Changes to this Privacy Policy
+We will notify you of material changes to this Privacy Policy through updates on PG&E's website, http://www.pge.com, including how to obtain prior versions of this Privacy Policy upon request. We will also notify you annually in a bill insert to revisit the most updated version of this Privacy Policy on our website.
+
+
+Contact Us
+If you have questions, concerns, or complaints about this Notice, would like to request a current or previous version, or would like more information regarding our process for updating this Notice, you can contact us using the following options:
+
+
+PG&E Residential and Business Customer Service
+Correspondence Management Center
+Attention: Customer Privacy Management
+P.O. Box 997310
+Sacramento, CA 95899-7310
+
+
+Residential Customers: 1-800-743-5000
+Business Customers: 1-800-468-4743
+
+
+pgeprivacy@pge.com

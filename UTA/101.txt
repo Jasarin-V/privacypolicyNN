@@ -1,0 +1,168 @@
+Privacy Policy
+Thank you for your interest in Integrated Device Technology (“IDT”) and our services. We take the protection of your personal data and its confidential treatment very seriously.
+
+This policy informs you about when we collect and store personally identifiable information (“PII” or data) and for what purpose we use it – in compliance with the applicable European and other global data protection regulations.
+
+If you have any questions regarding the handling of your PII, please contact IDT’s Compliance Counsel, or IDT Europe GmbH’s Data Protection Officer (“DPO”), whose contact details you will find below.
+
+Technology developments, changes in our services, laws and regulations, and other reasons may require IDT to update its Privacy Policy from time to time. We therefore reserve the right to change the terms of this Privacy Policy at any time, and ask that you to revisit it regularly to ensure you have the most up to date information about IDT’s protection of your data.
+
+Basic Information
+Except as specifically described below, no personal data is collected, processed or used when using our websites.
+
+When you access our internet pages, our web servers automatically collect general information. This includes the type of web browser, the operating system used, the domain name of the Internet service provider, the IP address of the computer used, the website from which you visit us, the pages you visit on our site and the date and duration of your visit. However, none of this data can be used by us to identify the individual user. We only evaluate the information statistically and use it exclusively to improve our website and the user experience.
+
+Definition of Personal Data
+In the European Union, under the legal framework of the General Data Protection Regulation (“GDPR”), personal data is defined as follows:
+
+Any information relating to an identified or identifiable natural person (hereinafter "data subject"); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. Individual EU member states may have their own unique definition of personal data, and non-European countries also may define personal data in their own way. IDT endeavors to comply with data privacy regulations worldwide.
+
+Legal Basis for the Collection of Personal Data under GDPR
+If you provide your consent for the processing of personal data, then Art. 6 para. 1 lit. a GDPR serves as the legal basis for the processing of your personal data.
+
+When processing your personal data to fulfil a contract between you and IDT, Art. 6 para. 1 lit. b GDPR serves as the legal basis. This also applies to processing operations that are necessary to carry out pre-contractual measures.
+
+When the processing of personal data is required to fulfill a legal obligation to which our company is subject, Art. 6 para. 1 lit. c GDPR serves as the legal basis.
+
+If processing is necessary to safeguard a legitimate interest of our company or a third party and if the interests, fundamental rights and freedoms of the data subject do not outweigh the first-mentioned interest, Art. 6 para. 1 lit. f GDPR serves as the legal basis for the processing.
+
+Data Erasure and Storage Period
+Your personal data will be erased (or the processing will be restricted and/or blocked) as soon as the need for such information ceases to apply. Data may be stored indefinitely if this has been provided for by the relevant laws, regulations or other legal provisos to which the controller is subject worldwide. Data will also be restricted or deleted if a storage period prescribed by the aforementioned legal provision expires, unless there is a need for further storage of the data for the conclusion or fulfilment of a contract.
+
+Collection and Processing of Personal Data
+Personal data is only collected if you provide it voluntarily, for example to place an order, respond to a survey, enter a contest or register for personalised information or services. You will be informed about the intended purpose of processing and, if necessary, asked for your consent to process and store your data.
+
+The personal data collected on our websites will be used for processing order and enquiries. If necessary, your data may be passed to an affiliated company within the IDT group of companies, which includes our parent and subsidiary companies, only. . Your consent is required in order for us to use your data in a centrally managed contacts, prospects and customers database administered by the parent, IDT, Inc. We use your data for the limited purpose of responding to your specific requests for information about our products and services, and to inform you of new products, promotions, and events that you may be interested in, based on your use of our websites. You can revoke your consent for us to use your data at any time, with immediate effect.
+
+Your data is encrypted before transmission and processing in order to protect it from access by unauthorized persons. Please note that we cannot protect unencrypted e-mails that are sent through IDT’s website mail addresses.
+
+Your data will not be sold, rented or made available to third parties in any way, other than described in this privacy notice. Personal data is only will be transferred to state institutions or authorities if there is a legal mandate to do so. Our employees, agencies and dealers are bound by us to the strictest confidentiality.
+
+Contact
+You can contact us via our e-mail address or by telephone. The personal data transmitted when you contact us only will be used for the limited purposes of addressing your specific inquiry.
+
+Our contact forms request both required information and optional information. Optional information is requested so that we can provide the highest level of customer support. Providing either required or optional information on any of our forms is purely voluntary and acts as your consent to process such data. If you provide us with information that permits us to contact you, (e.g. e-mail address, telephone number), you are consenting to us contacting you via the information provided to respond to your request.
+
+You can revoke your consent for us to contact you at any time, and your request will be honored immediately. Your consent and subscription options can be adjusted via your user profile on the IDT website.
+
+Data Transmission to Other Group Companies
+A transfer of your data to third parties outside IDT does not take place, unless we are legally obliged to do so, or the transfer of data is necessary for the execution of the contractual relationship, or you have previously expressly consented to the transfer of your data. External service providers and partner companies only receive your data if this is necessary to process your request. The scope of the transmitted data is limited to the required minimum. Service providers that come into contact with your personal data must comply with data protection laws in the same way. Such service providers may also have their own privacy policies, which apply to you.
+
+Data Transmission to External Service Providers (Processor)
+Your data will be passed on to service partners, provided that they work for and support IDT in providing its services, and provided that they comply with all data protection requirements worldwide.
+
+Processing of your personal data by contracted service providers takes place in accordance with Art. 28 GDPR.
+
+Service providers only have access to personal information that is absolutely necessary for the performance of their respective activities. Service providers are prohibited from disclosing your personal information or using it for other purposes, in particular for their own advertising purposes.
+
+When Service Providers come into contact with your personal data, we ensure we and they have taken the necessary legal, technical and organisational measures to comply with the applicable data protection regulations.
+
+Your personal data will not be disclosed to other companies for any commercial person without your express consent.
+
+Website Optimization Tools (to be used as headlines to the individual trackers)
+Under various global data protection laws, including Article 6 para. 1 lit f. GDPR in conjunction with Recital 47, direct marketing generally constitutes a legitimate interest that permits processing personal data that is provided voluntarily. IDT ensures it strikes a balance between your interests, fundamental rights and freedoms to control your personal data, and our legitimate business interest in advertising. By providing the comprehensive information about data collection in this Privacy Policy, and by guaranteeing your right to opt out (via link or browser settings) at any time, we believe the correct balance is struck.
+
+Cookies
+We use so-called cookies in some areas of our pages. A cookie is a small text file that is placed on your hard drive by a website. Cookies do not cause any damage to your computer and do not contain any viruses. The cookies on our Internet pages do not collect any personal data. We use the information contained in cookies to make it easier for you to use our pages and to tailor them to your needs.
+
+We use both session cookies and permanent cookies on our site. Session cookies are temporary cookies that are stored in the user's Internet browser until the browser window is closed and the session cookies are deleted. Permanent cookies are used for repeated visits and stored in the user's browser for a certain period of time (usually 1 year or longer). These cookies are not deleted when the browser is closed. This type of cookie is used to recall a user's preferences when returning to the site.
+
+All users may view our website without cookies. If you do not want cookies to be stored on your computer, you can deactivate the corresponding option in the system settings of your browser. You can delete saved cookies at any time in the system settings of your browser. You can find out how this works in detail from your browser manufacturer's instructions. Our website may allow only limited use if cookies are disabled.
+
+Google Analytics
+This website uses Google Analytics. At IDT’s request Google evaluate aggregate use of the website in order to compile anonymous reports about the website activities and to provide IDT with additional services to enhance the effectiveness of IDT’s website.
+
+On this website, Google Analytics has been extended by the code "gat._anonymizeIp();" to ensure anonymous collection of IP addresses (so-called IP masking). The IP address transmitted by your browser in the context of Google Analytics is not merged with other Google data.
+
+Google Analytics also uses cookies on this website. The information generated by the Google Analytics cookie is transferred to a Google server in the USA and stored there. You may refuse the use of cookies by selecting the appropriate settings on your browser. However please note that you may not be able to use the full functionality of this website once cookies are disabled. You can also prevent Google from collecting the data generated by the cookie and relating to your use of the website (including your IP address) and from processing this data by Google by downloading and installing the Browser-Add-on. If you click here, an opt-out cookie will be set to prevent future collection of your data when you visit this website: Deactivate Google Analytics.
+
+Google Tag Manager
+IDT uses the Google Tag Manager function. Google Tag Manager does not collect any personal data – the function makes it easier for IDT to integrate and manage our tags. Tags are small code elements used, among other things, to measure traffic and visitor behavior, to measure the impact of online advertising and social channels, to set up remarketing and targeting, and to test and optimize websites. We use the Tag Manager in conjunction with Google Services, Google Analytics and GA Audience. As noted above, you can deactivate this functionality (Google Tags, Google Services, Google Analytics and GA Audience) by deactivating Google Analytics. Deactivation of these functions may impact the responsiveness of our websites.
+
+Pingdom
+This website uses the monitoring service Pingdom, which is operated by the Swedish Pingdom AB, Kopparbergsvägen 8, 722 13, Västerås, Sweden. This service uses cookies, which enable an analysis of your access, the loading behaviour ("performance") and the availability of the website, in order to improve the loading behaviour and the presentation of the contents on the website. If you wish to prevent Pingdom from storing cookies and the associated evaluation, make the appropriate cookie settings in your browser settings. Please refer to Pingdom's Privacy Policy and Cookie Policy for more information.
+
+Google DoubleClick
+We use DoubleClick, a service provided by Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, "Google"). DoubleClick uses cookies to serve user-based ads. The cookies recognize which advertisement has already been placed in your browser and whether you have called up a website via a placed advertisement. Cookies do not collect any personal information and cannot be associated with such information.
+
+If you do not want this, you can prevent the storage of the cookies required for these technologies via the settings of your browser. In this case, your visit is not included in the user statistics. You also have the option of selecting the types of Google ads or disabling interest-based ads on Google using the ad settings. Alternatively, you can disable the use of cookies by third parties by using the Network Advertising Initiative's disabling tool. However, we and Google continue to receive statistical information on how many users visited this page and when. If you do not want to be included in these statistics, either, you can prevent this by using additional programs for your browser (e.g. with the add-on Ghostery).
+
+Marketo
+Marketo, Inc. 901 Mariners Island Blvd. 500 San Mateo, CA 94404 technology is used to collect and store data for marketing and optimization purposes. Marketo may use voluntary forms to explicitly collect personal information such as name, address, email address and telephone number. The data collected with the Marketo tool is not used to personally identify the visitor to this website and is not combined with personal data about the bearer of the pseudonym without the express consent of the person concerned. For more information about Marketo's privacy and cookie policies, please read Marketo’s privacy policy.
+
+Correspondence and Notifications
+When you create your IDT profile on the site, you can complete a personal interest profile. IDT uses this personal interest profile to gather information about your activity on the site via cookies, and to align the information generated by your browsing history with your interest preferences. IDT also may use your interest profile and your browsing activity to communicate with you via e-mail or to make offers to you during your website visits. If you wish to stop receiving emails from IDT, we will terminate the activity upon receipt of your request as per the CAN-SPAM act. All of our email correspondence will provide the ability for users to unsubscribe.
+
+Social Media Bookmarks
+Social media bookmarks (Facebook, YouTube, Twitter) are integrated on our website. Social media bookmarks are Internet bookmarks that allow users of such services to collect links and news messages. These are only included on our website as a link to the corresponding services. After clicking on the integrated graphic you will be forwarded to the page of the respective provider. Only if you click of the associated graphic will user information be transferred to the respective provider. For information on the handling of your personal data when using social media bookmarks, please refer to the respective privacy policy of the specific social media provider.
+
+Data Security
+IDT uses technical and organizational security measures to protect your data managed by us against accidental or intentional manipulation, loss, destruction or access by unauthorized persons. Our security measures are continuously improved according to technological developments.
+
+When you transact business with IDT, our goal is to ensure that your information is transmitted across the web using certain security measures. We use Secure Sockets Layer (SSL) technology, which encrypts sensitive information such as your name, address, phone number, credit card, etc. The IDT.com web site also uses digital certificates which allow your browser to confirm that the server you are transacting with is IDT’s server. During the transaction, the server is identified to your browser and the information is encrypted before your personal information is transmitted.
+
+Access to your personal information is limited to IDT employees and its services providers as described above. All personal information is protected through password access, which is only made available to identified corporate users.
+
+We actively monitor and enhance our security on an ongoing basis, implementing website security technologies such as secure servers, firewalls, and encryption of financial data, to protect the safety of your personal data.
+
+Rights of the Data Subjects
+If your personal data is processed, you are a data subject within the meaning of global data privacy laws and regulations, including the GDPR. As a data subject, you have the following rights against the controller:
+
+Right of Access (see, e.g., Art. 15 GDPR)
+You can ask us to confirm whether or not we process your personal data. If we have processed your data, you have further rights to information. (See, e.g. Article 15 GDPR).
+
+Right to Rectification
+If the information we have collected from you is incorrect or incomplete, you may immediately request us to correct it. (See, e.g., Article 16 GDPR).
+
+Right to restriction of processing
+You may also request that the processing of personal data concerning you be restricted. (See, e.g., Article 18 GDPR)
+
+After the restriction, your data may only be processed with your consent or for the purpose of asserting, exercising or defending legal claims, or for the protection of the rights of another natural or legal person, or on grounds of an important public interest. We will inform you before the restriction is removed.
+
+Right to Erasure
+In certain cases, you can request us to delete your personal data immediately, unless there is an exception to the deletion obligation. (See, e.g. Art. 17 GDPR).
+
+Right to Notification
+If you have exercised your right to rectification, erasure or restriction of processing, we are obliged under Article 19 GDPR to inform all recipients of your personal data of this, unless the notification is impossible or involves disproportionate effort. You also have the right to be informed of the recipients. The person responsible shall have the right to be informed of such recipients.
+
+Right to Data Portability
+In addition, according to Article 20 GDPR, you have the right to receive personal data concerning you from us in a machine-readable format and to transmit the data to another controller without hindrance, provided that the requirements of Article 20 para. 1 lit. a GDPR are met, or to obtain that your personal data are transmitted directly by us to another controller, provided that this is technically feasible and no freedoms and rights of other persons are impaired thereby. This right shall not apply to the processing of personal data necessary for the performance of a task in the public interest or for the exercise of official authority.
+
+Right to object
+You have the right to object to the processing of personal data IDT concerning you pursuant to Art. 6 para. 1 lit. f GDPR at any time.
+
+We will no longer process your personal data, unless there are grounds for processing worthy of protection overriding your interests, rights and freedoms, or the processing serves to assert, exercise or defend legal claims.
+
+Right to revoke the data protection declaration of consent
+You have the right to revoke your data protection declaration of consent with a statement to IDT at any time. The revocation of consent shall not affect the legality of the processing carried out on the basis of the consent until revocation.
+
+Right to lodge a complaint with a supervisory authority
+You have the right, at all times, without prejudice to any other administrative or judicial remedy, to lodge a complaint with a supervisory authority, in particular in the Member State of your place of residence, of work or of the place of suspected infringement, if you consider that the processing of personal data concerning them is contrary to this Regulation.
+
+Changes to this Privacy Policy
+This Privacy Policy is constantly being adapted in the course of the further development of the Internet or our offer. Changes will be announced on this page in time. In order to keep up to date with the current status of our data usage regulations, please check this page regularly.
+
+Comments
+If you have questions or comments about this Privacy Policy please email webmaster@idt.com. You privacy is important to us and we will make every effort to address your concerns.
+
+Contact Details of the Controller
+Integrated Device Technology, Inc.
+6024 Silver Creek Valley Rd.
+San Jose, California 95138
+USA
+The representative of the controller in accordance with Article 27 GDPR is:
+
+IDT Europe GmbH
+
+Data Protection Officer/ Compliance Counsel
+For questions concerning the processing of personal data within the Framework of the GDPR and under German law, please contact:
+
+Data Protection Officer 
+c/o Daniela Herdes
+E-Mail: DHerdes@intersoft-consulting.de
+
+For questions concerning the processing of personal data outside of Germany, please contact:
+
+Compliance Counsel
+c/o Jill Scoby
+jill.scoby@idt.com

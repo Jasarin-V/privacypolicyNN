@@ -1,0 +1,153 @@
+Privacy Notice
+The Southern California Edison Privacy Notice was updated on January 31, 2018
+
+It is important to Southern California Edison (SCE) to protect your information and we want you to know how we collect, use, share and store your information that we receive through our interactions with you, including through your computer or mobile device or as an SCE customer through our Advanced Metering Infrastructure, which includes our Edison SmartConnect™ and Real Time Energy Meter systems.
+
+Please familiarize yourself with our Privacy Notice and contact us if you have questions.
+
+Website Privacy Notice
+
+Notice of Accessing, Collecting, Storing, Using, and Disclosing Energy Usage Information
+
+Consolidated English Only Privacy Notice
+
+Personal Information
+We define Personal Information as any information used alone or combined with other information that can uniquely identify, contact, or locate an individual, groups of individuals, or a business entity.
+
+This information includes first name or initial and last name, home or business address and telephone number, government issued identification numbers, bank account numbers, email addresses, user names, passwords, security question answers, customer or service account numbers, or other information that is specific to you as our customer. Detailed Energy Usage Information (of less than 60-minute intervals) obtained through SCE’s Advanced Metering Infrastructure, when associated with any information that can reasonably identify an individual, family, household residence, or other non-residential customer is also considered Personal Information.
+
+Protection of Personal Information
+We have measures in place designed to help prevent your information from accidental loss and from unauthorized access, use, and disclosure. SCE complies with applicable privacy and security laws and generally-accepted information security standards to ensure a level of security, integrity, and privacy, appropriate to the risk of the Personal Information in our possession.
+
+Our Commitment to Your Privacy
+To help keep your Personal Information secure, we regularly communicate and train our privacy and security expectations to SCE employees and enforce privacy safeguards within SCE.
+
+Prior Privacy Notices
+Prior versions to our Privacy Notice may be found here. Please take a moment and review the Website Privacy Notice and the Notice of Accessing, Collecting, Storing, Using, and Disclosing Energy Usage Information (linked above) to understand what information SCE may obtain when using our website or through our Advanced Metering Infrastructure.
+
+Jurisdictional Issues
+This website is controlled and operated by us from the State of California in the United States, and operation of this website is not intended to subject us to the laws or jurisdiction of any other state, country or territory. Your use of our website will indicate your acknowledgment of the terms in this Notice and applicable California Public Utilities Commission approved tariffs.
+
+Contact Us
+If you have questions or concerns regarding this Privacy Notice, please contact us at:
+
+Southern California Edison
+Attention: Chief Ethics & Compliance Officer
+Post Office Box 800
+Rosemead, CA 91770
+
+Residential Customers: (800) 655-4555
+Business Customers: (800) 990-7788
+
+ormation automatically as you navigate and use our website. “Non-Personal Information” means information that does not uniquely identify an individual, groups of individuals or non-residential customer. This information includes IP address, browser type, device type, operating system, page views, referring URLs, destination URLs, dates and times of site visits, and other information collected primarily for statistical purposes. We maintain this information in the aggregate, so we do not know the identity of any particular user or groups of users.
+
+In order to improve your experience with our Services, and regardless of your browser’s “Do Not Track” setting we will collect information on:
+
+The number of users that use our Services;
+The number of users that access our Services via a mobile device;
+How users navigate through our Services;
+Which Internet Service Providers (ISPs) are being used to access our Services; and
+What Internet browsers are being used to access our Services.
+Information Collected by Cookies and Related Technologies.
+
+We use “cookies” and related technologies such as web beacons, JavaScript, pixel tags, locally shared objects, and clear GIFs to collect Non-Personal Information to provide a more convenient experience for you. However, we do not collect your Personal Information to track your online activities on our site or any third-party website or digital services over time.
+
+What is a Cookie?
+
+A “cookie” is a small bit of record-keeping information websites often store on a user's computer or mobile device. Our cookies do not collect Personal Information and are typically used to quickly identify your computer or mobile device to “remember” you. You may disable cookies or set your Internet browser to alert you when cookies are being sent to your computer’s browser or mobile device; however, disabling cookies will affect your ability to use certain features on our website.
+
+What Are Web Beacons, Action Tags, Pixel Tags and Clear GIFs?
+
+A web beacon, action tag, JavaScript pixel tag, or clear GIF is an electronic image allowing us to count users who have visited certain pages on our Services. Like cookies, these do not collect Personal Information.
+
+Use of Cookies and Related Technologies
+We use cookies and related technologies for two purposes:
+
+Interest-Based Communications - Our website pages contain pixels allowing us to display interest-based communications on third-party websites and mobile applications, including social media sites such as Facebook or Twitter.
+
+We use cookies and web beacons, and other technologies that allow us to learn about what interest-based communications you see and interact with. This allows us to provide you with more useful and relevant communications. We do not associate your interactions with unaffiliated sites with your identity in providing you with interest-based communications.
+
+Interest-based communications from other advertisers or third parties may also use cookies to measure the effectiveness of their ads and to personalize ad content. We do not have access to or control over cookies or other features advertisers and third party sites may use, and the information practices of these advertisers and third party websites are not covered by our Website Privacy Notice. Please contact them directly for more information about their privacy practices.
+
+To find out more about these types of communications and ways to opt-out with participating companies who have enabled interest-based communications, consult with the Digital Advertising Alliance, http://www.aboutads.info/choices/.
+
+Measuring Interactions - Emails, digital ads displayed on third-party websites, social media messages, and other electronic communications we send to you contain pixel tags enabling us to track your usage of an electronic communication, including whether you opened the communication or followed a link in such communication (if any).
+Targeted Communications On Social Media Sites
+We use social media sites like Facebook and Twitter to communicate with you about our programs and services. You can follow us on these social media sites to receive regular updates. These social media sites also allow us to target ads to you using Personal Information they maintain about you, even if you do not specifically follow us on their site. We may target ads to you using information such as cookies, pixels, zip codes, and interests. We may also target communications to you using Personal Information we maintain, such as your email address or phone number.
+
+You will only see our targeted ads if you agreed to receive this type of communication through your social media provider. You may disable some or all of the advertising targeted to you on a social media site by adjusting your privacy settings on their site.
+
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+In accordance with our Notice of Accessing, Collecting, Storing, Using, and Disclosing Energy Usage Information Notice, we will not share your Energy Usage Information with social media sites.
+
+Social Login Option
+To assist with logging in to SCE digital services, such as SCE.com My Account, we may provide the option for identifying yourself by using a social media login, such as Amazon or Facebook, instead of (or in addition to) an SCE.com User ID and password. If you use a social media login, the social media provider you select will send us only the data we need to verify your identity, which typically includes only your first and last name, and primary email address. The exact information provided to us by your social media provider will be disclosed when you use the social media login on SCE.com. You may discontinue the use of the social media login at any time; however, if the social media login is your sole means of accessing SCE digital services, you will need to create a separate SCE.com User ID and password to continue to use our digital services.
+
+Use of Social Media And Other Public Forums
+Information you post to a public forum, such as a blog, chat room, or wiki, is available to all users accessing these sites. Any information you share is available to any user and may be read, collected, or used by other people for any purpose, including sending you unsolicited information.
+
+We are not responsible for any information you provide to other individuals or post on these websites. To protect your information from potential misuse, we recommend never sharing your Personal Information with anyone who you do not trust.
+
+Linked Websites And Online Web Services
+Our Services contain links to other websites, including social media sites, and icons to launch online web services. These websites may place a cookie on your computer or mobile device, enabling that site to recognize users who may have visited our site. Your use of any third party site or web service may result in the collection or sharing of information about you, depending on the third party’s site or web service. We do not control those third party sites or web services, or their privacy practices, which may differ from our practices. We do not endorse or make any representations about third party sites or web services.
+
+The Non-Personal and Personal Information that you provide or that is collected from you by such third parties is not covered by this Notice. We encourage you to review the privacy notices and settings on third party sites and services that you interact with to make sure you understand how they use your information.
+
+California “Do Not Track” Disclosures
+Most browsers are programmed to accept cookies or other similar technologies to collect Non-Personal Information. You may set your browser to notify you when you receive a cookie, providing you the opportunity to accept or decline it. Declining a cookie, or similar technology, will affect your ability to use certain features on our Services. You may stop accepting cookies from a particular website, or by changing your browser’s settings, which are usually found in the ‘options’ or ‘preferences’ menu. You may also visit AboutCookies.org for instructions, by browser type, regarding how to control your cookies’ settings within your browser.
+
+We do not collect Personal Information about your browsing habits over time and across third-party websites or online services. However, our Services contains links and icons to other websites, including social media sites, and we do not control their collection or sharing of information about you. Refer to the above Linked Websites and Online Web Services section for more information.
+
+Other Ways SCE May Collect Your Information
+If you are an SCE customer, there may be other instances when SCE collects information about you. Please read the Notice of Accessing, Collecting, Storing, Using, and Disclosing Energy Usage Information.
+
+Disclosure of Information to Third Parties
+Except as outlined above, we do not disclose your Personal Information to third parties without your prior written consent, except in the following circumstances:
+
+We are required by law, such as to comply with a warrant, subpoena, or similar legal process;
+We believe in good faith that disclosure is necessary to protect our rights, your safety or the safety of others, investigate fraud, or respond to the request of a governmental agency;
+Ordered by the California Public Utilities Commission, or other state of federal governmental agencies with jurisdiction over us, when legally entitled to such information;
+The third parties we contract with to provide utility-related services such as needing access to such Personal Information, but only (a) to the extent necessary to render utility-related services; and (b) provided they have agreed in writing to adhere to certain confidentiality and security obligations consistent with the terms of this Privacy Notice.
+How You Can Manage And Control Your Personal Information
+We offer certain choices about how we communicate with you and what Personal Information we obtain. You have the right to limit, or opt-out, the information you provide to us.
+
+One of the ways we provide you instant access to your bill, make payments, and receive important alerts is by registering for the SCE.com My Account service, which requires you to provide us your email address. You have the right not to provide us your email address; however, you will not be able to take advantage of our digital services such as electronic billing and payments.
+
+If you believe any of the Personal Information that we collect or maintain about you is incorrect, please contact us in the manner described in the below Contact Us section.
+
+
+Email Communications
+Email communication gives us another convenient method to communicate with our customers, including responding to your inquiries. By sending us an email, we will consider your email as consent for us to reply to you via email. We will use email to periodically inform our customers about new rates, products, and services. You will receive emails from us (or our authorized third-party fulfilling agent) if you have signed up to receive email notifications of certain news or events, or if you have requested certain information; however, in some cases, you have the option to stop receiving emails from us.
+
+If we send you a promotional email regarding our products and services, you will be provided the option to opt-out of receiving these notifications by clicking on the link at the bottom of the email in order to unsubscribe from future mailings or by contacting us in the manner described in the Contact Us section. If you are a customer who has registered to use SCE.com My Account to access your account on our website, you can opt out of future mailings by updating the preferences section within My Account. We will process your request within the legally required timeframe and stop sending you promotional emails unless you opt back in to receive such communication.
+
+Operational emails for non-promotional, utility-related purposes, such as billing, outage, conservation, or safety may continue to be sent to SCE utility customers, regardless of the email choice options.
+
+We do not control the information you provide to us via email. Email messages in transit are not confidential and are not secure. We are not liable for any use, disclosure, or modification of such messages. Please do not submit any Personal Information or other information you deem confidential or sensitive via email.
+
+Retention of Personal Information
+We retain your Personal Information for as long as reasonably necessary to fulfill the transactions you have requested, or for legitimate business purposes, such as complying with our legal obligations, in accordance with applicable law, including United States’ federal, state, and local laws. As retention periods vary for different types of Personal Information, based on business purpose, actual retention periods vary. For example, Personal Information provided in an application for community funding and donation programs has a different retention period than a request for company information.
+
+Security Safeguards
+We share your concerns regarding the safeguarding of your Personal Information. SCE complies with applicable privacy and security laws and generally-accepted information security standards to maintain reasonable safeguards assuring the security, integrity, and privacy of your Personal Information in our possession. The Personal Information provided to or collected by us through your use of our Services is stored in secure operating environments not available to the public.
+
+Jurisdictional Issues
+Our Services are controlled and operated by us from the State of California in the United States, and operation of our Services is not intended to subject us to the laws or jurisdiction of any other state, country or territory. Your use of our Services will indicate your acceptance and consent to the terms in this Notice and applicable California Public Utilities Commission (CPUC) approved tariffs.
+
+Acceptance of terms In This Notice
+We may change the terms in this Notice. Any changes made to the Notice will be posted on our website as soon as reasonably possible and the superseded Notices will be archived. We recommend you periodically review this Notice to find out if any changes have been made to this Notice since your last visit to our website. Any changes made to the Notice will be effective as of the date at the beginning of this Notice. Your use of our website will indicate your acceptance and consent to the terms in the Notice then in effect.
+
+Contact Us
+If you have questions regarding this Website Privacy Notice, you may contact us at:
+
+Southern California Edison
+Attention: Chief Ethics & Compliance Officer
+Post Office Box 800
+Rosemead, CA 91770
+
+Residential Customers: (800) 655-4555
+Business Customers: (800) 990-7788

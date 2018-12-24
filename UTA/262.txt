@@ -1,0 +1,44 @@
+Protecting Your Information
+Your privacy is important to us. We safeguard your data through industry standard processes and procedures.
+
+Data Privacy at Datawatch Corporation
+Datawatch Corporation has established a comprehensive privacy program, including a global privacy office and a chief privacy officer, designed to help us respect and protect your data privacy rights. This statement includes both DATAWATCH CORPORATION’s European Union – U.S. Safe Harbor Privacy Statement and its Website Privacy Statement. All commercial transfers of any personal information are handled specifically in accordance with mutually agreed upon contractual security procedures.
+
+U.S. – EU Safe Harbor Privacy Statement
+Regarding the personal information of employees, consumers, customers, investors and government officials that Datawatch Corporation may receive from the European Economic Area, Datawatch Corporation has committed to handling such personal information in accordance with the Safe Harbor Principles. DATAWATCH CORPORATION’s Safe Harbor certification can be found at http://safeharbor.export.gov/list.aspx. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at http://export.gov/safeharbor/
+
+Datawatch Corporation Website Privacy Statement
+Datawatch Corporation respects the privacy of visitors to its websites; as a result, we have developed this website privacy policy. This website privacy policy applies only to the operation of websites that directly link to this policy when you click on “privacy statement” in the website footer. Through this website Datawatch Corporation may collect information that can identify you, such as your name, address, telephone number, e-mail address, and other similar information (“Your Information”) when it is voluntarily submitted to us by you (however, see discussion below about “IP Addresses” if you have a broadband connection). We will use Your Information to respond to requests you may make of us, and from time to time, we may refer to Your Information to better understand your needs and how we can improve our websites, products and services. We don’t share or sell any of your personal information.
+
+Any other information transferred by you in connection with any of your visits to our sites (“Other Information” – that is, information that cannot be used to identify you) may be included in databases owned and maintained by Datawatch Corporation or its agents. Datawatch Corporation retains all rights to these databases and the information contained therein. Additional information we collect may include your IP Address and other information gathered through our weblogs and cookies (see below).
+
+Web log information is gathered when you visit one of our websites by the computer that hosts our website (called a “webserver”). The webserver automatically recognizes some non-personal information, such as the date and time you visited our site, the pages you visited, the website you came from, the type of browser you are using (e.g., Internet Explorer), the type of operating system you are using (e.g., Windows XP), and the domain name and address of your Internet service provider (e.g., AOL). We may also include web beacons in promotional e-mail messages in order to determine whether messages have been opened.
+
+This website may use a technology called a “cookie”. A cookie is a piece of information that our webserver sends to your computer (actually to your browser file) when you access a website. Then when you return to one of our websites, the technology will detect whether you have one of our cookies on your computer. Our cookies help provide additional functionality to the site and help us analyze site usage more accurately. For instance, our site may set a cookie on your browser that keeps you from needing to remember and then enter a password more than once during a visit to the site.
+
+Our websites use Internet Protocol (IP) Addresses. An IP Address is a number assigned to your computer by your Internet Service Provider (ISP) so that you can access the Internet. Generally, an IP address changes each time you connect to the Internet (it is a “dynamic” address). Note, however, that if you have a broadband connection, depending upon your individual circumstance, it is possible that your IP Address that we collect, or even perhaps a cookie we use, may contain information that could be deemed identifiable. This is because with some broadband connections your IP Address doesn’t change (it is “static”) and could be associated with your personal computer. We use your IP address to report aggregate information on the use of our websites and to help improve our websites.
+
+Encryption
+Datawatch Corporation always uses industry standard encryption technologies when transferring and receiving any financial data that you exchange with our site. We employ the same industry-standard Secure Sockets Layer (SSL) technology that is used by major banks and stock brokerage firms to conduct business via the Internet. This encryption procedure “scrambles” the information you send to us and makes online transactions extremely safe. In order to communicate securely with the Datawatch website, you will need a browser with 128-bit SSL encryption. This includes Microsoft Internet Explorer 5.5 and above, Mozilla Firefox and Apple Safari. If you have an earlier version of any of these browsers, please visit the developer’s website for an update.
+
+For Datawatch Online purchases, when we transfer and receive certain types of sensitive information over the Internet, such as financial information, you will be redirected to a secure server and we will notify you, depending on the type of browser you are using, through a pop-up dialogue box or a “padlock” icon displayed in the bottom of the browser window, as well as the URL beginning with “https” instead of “http” in the address bar. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you via this site.
+
+Authenticated sites like Datawatch.com use a Secure Server Digital ID to offer proof of identity, to enable secure communications and to encrypt transactions with site visitors through their web browser connections. The only way to be sure of a web site’s authenticity is to view the site’s Digital ID. Viewing a site’s ID assures that you are not being “spoofed” (i.e. the site is real and not an imposter) since it contains:
+
+The name of the company which owns the web site (e.g. Datawatch Corporation)
+The site’s registered Internet address (e.g. datawatch.imarc.io)
+The name of the Secure Server Certification Authority under which the Digital ID was issued
+Personally Identifiable Information
+We don’t sell any of your personal information. As necessary, we may share information with our trusted third party service providers, such as the corporations that manage or host our websites, to perform services on our behalf. They typically use non-personal, anonymous information-like “clickstream” information regarding visit statistics unidentifiable with a particular visitor to further improve the website.
+
+Questions about our privacy practices, or issue a complaint, contact us at:
+
+Datawatch Corporation
+Information Security
+4 Crosby Drive
+Bedford, MA 01730
+United States
+
+We may update this Web site Privacy Policy from time to time. When we do update it, for your convenience, we will make the updated policy available on this page.
+
+To “opt-out” of any future mailings and to remove your name and other personal information from our lists and databases, click here to unsubscribe.

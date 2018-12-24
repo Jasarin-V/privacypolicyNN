@@ -1,0 +1,68 @@
+PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE.
+Emcore Corporation (“EMCORE”), www.emcore.com, http://brand.emcore.com/, and www.fiber-optics.info (collectively “we” or the “Website”) are committed to protecting the privacy and security of customers, investors, job applicants, and other visitors who access our Website. This Privacy Policy sets forth how the Website and EMCORE collects and uses personal information. By using the Website, you acknowledge that you have read and accepted our privacy practices set forth below.
+
+If you do not accept our privacy practices, then you should not continue to use the Website. This Privacy Policy is incorporated by reference into and forms part of our Terms of Use.
+
+Information Collected From This Website
+When you visit this Website, some information, such as the third party site that referred you to us, if any, your IP address, and navigational information, may be collected automatically as part of the Website’s operation. This information is never linked to any of your personally identifiable information.
+Our Website also uses cookies, which are small information files that are tagged to uniquely visit a visitor’s browser when requesting a web page from the web servers. We install cookies to collect aggregate usage information about visitor patterns on the Website and to provide Google analytics reports to us about our Website visitors, including but not limited to tracking what content is viewed, determining the length of the visitor session, tracking each unique browser that visits a page on the Website, and tracking visitor demographic information.We also use cookies in the investor portal of our Website, to collect information for the following purposes:
+
+To increase the usability of the Website by maintaining “remember me” functionality;
+To provide a more accurate measure of Website usage, particularly visitor path and traffic statistics; and
+To increase server performance by saving visitor data
+In particular, the investor portal of our Website uses the following types of cookies:
+
+Session: Our session cookie assigns a unique identity to a visitor that can be used to follow the path of the visitor throughout the investor section of our Website. This unique identity is saved in the cookie, along with two timestamps which determine the visitor’s last visit date and any new information that has been added since the last visit. The session cookie does not collect any visitor-specific personal information. Moreover, as a security feature, the session cookie contains a key that prevents third parties from making unauthorized modifications to the content of the cookie.
+Identity: Our identity cookie identifies that a particular visitor has entered information regarding his or her identity and has opted to use the “remember me” features made available for webcasts and mail document requests. The identity cookie remembers first name, last name, and at the visitor’s option, investor type. However, to maintain your security, email addresses are never included in this cookie. Moreover, this cookie functionality has been removed for all annual report and proxy material documents, in accordance with the SEC eproxy anonymity regulation.
+Recipient: our recipient cookie enables a visitor to have access to modifying personal information, such as email alerts sent to a specific email address. The only way to obtain this cookie is by clicking on an email confirmation link that is sent for the purpose of verifying authenticity for a person requesting email alerts. All emails sent through our system are required to be verified through the recipient cookie, in order to ensure that spam is not sent through our system.
+Auxiliary Cookies: Our auxiliary cookies do not collect personal information but support certain functionality on the application.
+You are not required to install cookies in order to access any investor content, but you may not be able to utilize certain features if you disable the cookies. Furthermore, to “opt out” of using cookies in the investor section of our Website, we save your “opt out” information to a cookie on your computer.
+
+In addition to using cookies, we collect any information that you submit to us through our contact forms at http://www.emcore.com/email-contact-form/; http://www.opticomm.com/company/contact/; http://investor.emcore.com/contact-us. Such information is collected and retained, so that we are able to respond to you. We also may collect your email address for use in our e-marketing lists or direct marketing mailings, including but not limited to emails sent to members of our mailing list in advance of a trade show.
+
+If you sign up in our investor portal for shareholder briefcase registration or email alerts, we will collect your first name, last name, email address, title, company, and investor type. If you submit a job application to us through our careers portal, we will collect the following information from you: full name; residential address; primary and secondary phone; current and desired salary; gender; any race(s) with which you identify; full name of employee who referred you (if any); password; resume; work authorization status; criminal convictions; full names of relatives currently or previously employed by EMCORE; high school name and city/state; high school degree or GED certificate received; college education level; college name and city/state; college degree received; college course of study; honors and awards received; papers published; professional memberships; professional or technical licenses; name of three most recent employers; most recent three employers’ city/state and telephone number; job title when working for most recent three employers; full name of most recent supervisor at past three employers; start and end date of salary for most recent three periods of employment and pay frequency; beginning and end date for last three jobs; reasons for leaving past three jobs; military service, if any; branch of military in which you served; war in which you served, if any; disability, if any; protected veteran status, if any; reason for leaving military service; any recent notifications to report to duty in U.S. Armed Forces; special skills or abilities obtained as a result of military service; and name, title, years acquainted, business or title, city and state, work phone and any other phone number of three references not related to you, whom you have known for at least a year. We collect this information so that we may evaluate your job application.
+
+Sharing of Personal Information
+We do not rent, trade, or share personal information with third parties, except to provide products or services, which you requested, when we have your permission, or under the following circumstances:
+
+(a) We use third party service providers to provide certain Website functionality, who may have access to your personal information.
+
+(b) We may share your aggregate anonymous information with third party service providers in order to improve the quality or design of the Website or to improve our products or services; to create new features, promotions, functionality, and services; or to maintain and upgrade the Website.
+
+(c) We may share your personal information if required by law and if we believe that the disclosure is required or necessary to protect our rights and/or comply with a judicial processing or legal process served on our Website or EMCORE.
+
+(d) We may share personal information if we believe that it is required in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, a potential threat to the physical safety of a third party, or as otherwise required by law.
+
+(e) We may transfer personal information to a third party entity in the event of an assignment of this Website for any reason. You will be notified via email of any such change in ownership or control of personal information.
+
+(f) We may share personal information with our legal, financial, and other professional advisors.
+
+(g) We may share personal information with third parties upon receiving your consent as required by law.
+
+Except as provided above, we will not share any of your information to any third party without permission.
+
+Opting Out or Amending Personal Information
+If you have provided EMCORE with information and do not wish for such information to be retained by EMCORE or do not wish to receive promotional information from EMCORE, you can opt out by notifying your EMCORE representative or by sending an email to info@Emcore.com. In addition, you can review, update, delete, or correct your personal information on file with us by sending an email to info@Emcore.com.
+
+Links to Other Websites
+The sites to which we link, including but not limited to the sites of subsidiaries and third party content providers may have different privacy policies and practices from those disclosed here. We assume no responsibility for the policies or practices of linked sites and encourage you to become acquainted with them.
+
+Children
+We do not intend to either solicit or collect personal information from anyone under the age of 13. If you are under 13, you should not use or enter information on this Website.
+
+California Visitors
+If you are a California resident, you have the right to request information from us regarding the manner in which we share certain categories of your personal information with third parties for their own direct marketing uses. California law provides that you have the right to submit a request to us at our email address in order to receive information on the categories of customer information that we shared and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year. To obtain this information, please send an email message to info@Emcore.com with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you in your email address in response.
+
+Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+
+International Visitors
+If you are accessing this Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the Website, which is governed by U.S. law and this Privacy Policy as incorporated into our Terms of Use, you will be transferring your personal information into the United States and you consent to that transfer.
+
+Questions or Concerns
+If at any time you have questions about the above policy, please let us know by sending an email to info@Emcore.com.
+
+Changes to This Online Privacy Policy
+We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this Website. We encourage you to review this privacy policy whenever you visit our website to make sure you are aware of any changes. Please note that the use of information that we gather is subject to the Privacy Policy then in effect at the time we gather the information.
+
+Effective Date
+This Privacy Policy was last modified on the 11th of October, 2012.

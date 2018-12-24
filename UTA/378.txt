@@ -1,0 +1,106 @@
+Notice of Daktronics Commitment to Privacy
+Introduction
+Daktronics strongly respects and recognizes the importance of maintaining the privacy of information provided to it. You are encouraged to read Daktronics Commitment to Privacy (the “Privacy Policy”) to understand how it applies to information collected by Daktronics. This Privacy Policy applies to all information collected by or submitted to Daktronics or its service via Daktronics website by which an individual may be personally identified, such as name, postal address, e-mail address, telephone number, or any other information defined as personal or personally identifiable information under applicable law (“Personal Information”).
+
+If you do not agree with our policies and practices, your choice is not to use the Daktronics website (the “Website”). By accessing or using this Website, you agree to this Privacy Policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+EU Data
+Daktronics and its subsidiaries and affiliates in the United States ("US") ("Company," "we," or "us") may collect, use, and disclose certain personally identifiable information that we receive in the US from the European Union and Switzerland ("EU Personal Data"). Daktronics is committed to the principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability with respect to EU Personal Data.
+
+Information Daktronics Collects and Uses
+When communicating with Daktronics, all communications will be transmitted and stored by us. Daktronics may receive Personal Information from registrations, request forms, surveys, contests, e-mail, phone, or other means from:
+
+you, directly; when and however you provide it to us, whether via phone, chats, emails, web forms, social media; subscribing to marketing materials; or in the course of providing products or services to Daktronics; or receiving products or services from Daktronics.
+prospective and current customers using Daktronics hosting and information technology services;
+users of any mobile-device applications that we offer (such as our iOS and Android applications);
+service providers and business partners;
+job applicants; and
+other third-parties that it interacts with
+Daktronics gives you choices about the ways we collect, use, and share your Personal Information. For example, you can choose whether you would like to receive communications from us, and what contact and/or financial information will be stored in a user account you create with us. Note that for some services, if you choose not to provide certain details, some of your experiences with us may be affected. When you work with us or use certain services, you may be prompted to create a user account. Your user account may hold Personal Information that you provide, such as name, mailing address, email address, or credit card information.
+
+We may also collect information that is related to you but that does not personally identify you (“Non-personal Information”). Non-personal Information also includes information that could personally identify you in its original form, but that we have modified (for instance, by aggregating, anonymizing or de-identifying such information) to remove or hide any Personal Information.
+
+How Daktronics Uses Personal Information
+Daktronics processes, collects, transfers, and uses this data for a range of business purposes including: provision of information regarding products or services; payment processing; industry benchmarking and analysis consistent with our legitimate business purpose; to help us serve you; to improve the quality or personalization of our service to you; to prevent or detect fraud; or to fulfill any purpose for which you provide it. Daktronics may process your credit card details to collect payment from customers regarding orders of products and services. For those with whom we have or are contemplating entering into a business relationship, additional business purposes may include: project management; workforce management and development; budget planning and administration; compensation; auditing, compliance, risk management and security purposes; business travel; expense management; communications; work-related injury and illness reporting; legal proceedings and government investigations, including preservation of relevant data; monitoring and surveillance for industrial hygiene, and public health and safety.
+
+When you provide Personal Information to Daktronics in the ways described in this Privacy Statement, you agree that you are authorized to provide that information and are accepting this Privacy Statement and any supplementary privacy statement that may be relevant to you. If you do not agree, please do not register, subscribe, create an account, or otherwise interact with our services, websites, or mobile-device applications.
+
+Daktronics Commitment to Data Security
+Daktronics works hard to provide a high level of security on our website. Daktronics uses technical and physical safeguards to protect your Personal Information from unauthorized loss, misuse, unauthorized access, disclosure, alteration, or destruction, including: encryption of sensitive information, password protections, and restricted access, where such measures are appropriate or required by law. Daktronics also reviews its security procedures periodically to consider appropriate new technology and updated methods.
+
+Unfortunately, the transmission and processing of information via the internet is not completely secure. Although we do our best to protect your Personal Information, we cannot guarantee the security of your information transmitted to or hosted on our Website. Where required under law, we will notify you of any loss, misuse or alteration of Personal Information that may affect you so that you can take the appropriate actions for the due protection of your rights.
+
+Any transmission of Personal Information is at your own risk and we are not responsible for any damages or liabilities relating to any such incidents to the fullest extent permitted by law. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+Transfers / Disclosure of Personal Information
+Daktronics may disclose Personal Information with third-party vendors and service providers that work with Daktronics to help us provide a product or service to you, such as sales, installation of products, order fulfillment, or product support. Daktronics does not share data with any third parties except to fulfill the purpose for which it was collected, or when required by law, including to respond to any government or regulatory request; or to enforce or apply our terms of use and other agreements, which may include billing and collection purposes; or otherwise as may be consistent with our legitimate business purposes.
+
+We take reasonable and appropriate steps to ensure that third-party agents and service providers process your Personal Information in accordance with applicable law, and to stop and remediate any unauthorized processing. We endeavor to enter into written agreements requiring those third-party agents and service providers to protect Personal Information and limit their use of the data to the specified services provided on our behalf. These third-party service providers and partners are expected to maintain privacy and security protections that are consistent with Daktronics privacy and information security policies. We provide these third parties with only enough information to perform the function for which we engaged them.
+
+Daktronics may disclose Personal Information under certain circumstances to law enforcement agencies, government agencies, or other authorities. We may disclose Personal Information where required by law, because of litigation, or as a matter of national security; to comply with valid legal process including subpoenas, court orders or search warrants, and as otherwise authorized by law, or in the event of an emergency that threatens an individual's life, health, or security.
+
+Third Party Services
+Our website or services may link to third party websites, services, and applications. Any interactions you have with these websites, services, or applications are beyond the control of Daktronics, and Daktronics is not responsible for any information collected through these means. Any information that you provide to these third parties independently is subject to their respective privacy policies and practices. Some examples are:
+
+Employment
+ICIMS provides application management services for Daktronics. Ultimate Software provides human resource management services for Daktronics. These third parties may store or process user-provided personally identifiable information, including contact information and information related to the user’s employment history and relevant past experiences, for employment or recruitment purposes.
+
+For technical issues with your profile, contact Daktronics. Daktronics employees and employment candidates may also contact Human Resources with any questions, concerns, or inquiries regarding their Personal Information.
+For more information on third-party vendor Ultimate Software's privacy practices, go to: http://www.ultimatesoftware.com/Privacy-Policy
+For more information on third-party vendor iCIMS privacy policy, go to https://www.icims.com/legal/privacy-policy. iCIMS profiles that are abused, misused, or inactive may be removed or inactivated.
+E-Newsletters
+You may subscribe to receive e-newsletters from Daktronics. Daktronics or a third-party vendor will use the name and e-mail address you provide to send the e-newsletter.
+E-newsletters may contain technologies to improve our communication efforts, including the use of web beacons.
+You can unsubscribe from the newsletter(s) or customize your email preferences by clicking on a hyperlink found in the e-newsletter.
+Profiles that are abused, misused or inactive, may be deleted.
+Daktronics uses Mailchimp to send e-newsletters. For information on Mailchimp's privacy policy, go to: https://mailchimp.com/legal/privacy
+Investor Relations
+Nasdaq, Inc. provides investor relations services for Daktronics. You may subscribe to receive email alerts containing financial information regarding Daktronics, Inc.
+Each email alert provides automated opt-out methods as well as the vendor's complete contact information. Users can unsubscribe from or customize their email preferences by clicking on a hyperlink found in the email alert or by visiting the Investor Relations website.
+For more information on Nasdaq's Investor Relations privacy policy, go to: http://www.nasdaqomx.com/Privacy_Statement
+Analytics/Stats
+Daktronics uses Google Analytics to improve the Website and for marketing purposes. Google Analytics uses automatic data collection to aggregate information and measure how users interact with the Website. Types of data commonly compiled include how long you looked at the Website, your IP address, and the site you were looking at before the Website.
+For more information on Google Analytics privacy policy, go to http://www.google.com/intl/en/privacypolicy.html.
+Use of Cookies/Automatic Data Collection [Tracking]
+As you navigate through and interact with our website, we may use automatic data collection technologies to collect certain information about your visits to our website or information about your computer and internet connection, including your IP address (which may allow us to infer your general location). The information we collect automatically is statistical data. It helps us to improve our Website and to deliver a better and service, including by enabling us to:
+
+Estimate our audience size and usage patterns.
+Store information about your preferences, allowing us to customize our Website according to your individual interests.
+Speed up your searches.
+Recognize you when you return to our Website.
+The technologies we use for this automatic data collection may include:
+
+Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+Web Beacons. Pages of the Website may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit a company, for example, to count users who have visited those pages and for other related website statistics (such as recording the popularity of certain website content and verifying system and server integrity).
+You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+
+Our websites may include social media features, such as the Facebook Like button and other widgets that run on our site. These features may collect your IP address and which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the organization providing it. For example, if you create or log into your account through a third-party social networking site, we may have access to certain information from that site, such as your name, account information and friends, in accordance with the authorization procedures determined by such third-party social networking site.
+
+Location of Data Storage/Processing
+Daktronics is headquartered in the United States and has offices and subsidiaries in many countries. Any information, including EU Personal Data, received by a member of Daktronics family of companies may be transferred to locations outside of your home country, including to the United States or other Daktronics locations around the globe.
+
+Any Personal Information, including EU Personal Data, collected via our websites is processed in the United States by Daktronics or by a third party acting on our behalf, and when you provide any such information to Daktronics, you consent to the processing of your information in the United States. Our websites are hosted in the United States.
+
+Daktronics Commitment to Children’s Privacy (COPPA)
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us using the contact information below.
+
+European Union Individuals
+Daktronics is accountable for EU Personal Data it receives and subsequent transfer of that data to third parties. Under certain circumstances, we may remain liable for the acts of our third-party agents or service providers who perform services on our behalf for their handling of EU Personal Data that we transfer to them. If we transfer your EU Personal Data to one of our affiliated entities within our corporate group, we will take steps to ensure that your EU Personal Data is protected with the same level of protection as required by law.​
+
+European Union individuals have the right to access personal data about them, and to limit use and disclosure of their personal data. These access rights may not apply in some cases, including where providing access is unreasonably burdensome or expensive under the circumstances or where it would violate the rights of someone other than the individual requesting access. In some circumstances, we may charge a reasonable fee for access to your information. If you wish to request access, to limit use, or to limit disclosure, please email our privacy team or send a written request to the contact information provided below.
+
+We may collect the following categories of sensitive EU Personal Data regarding current or prospective employees, or certain business associates when necessary to the performance of a contract: health data. We process health data for: Work-related injury and illness reporting; Monitoring and surveillance for industrial hygiene, public health and safety; compliance; legal proceedings and government investigations, including preservation of relevant data; and benefit administration or planning. We will obtain your opt-in consent when required, or before we use your sensitive EU Personal Data for a different purpose than we collected it for or than you later authorized. Daktronics will only process EU Personal Data in ways that are compatible with the purpose that Daktronics collected it for, or for purposes the individual later authorizes. Before we use your EU Personal Data for a purpose that is materially different than the purpose we collected it for or that you later authorized, we will provide you with the opportunity to opt out. Daktronics maintains reasonable procedures to help ensure that EU Personal Data is reliable for its intended use, accurate, complete, and current.
+
+If at any time after registering for information, your Personal Information changes or you change your mind about receiving information from us, simply change your account settings, follow the directions for unsubscribing that can be found in the communication, or send us a request specifying updated information or your new choice using the contact information listed below.
+
+You can direct any questions or complaints about the use or disclosure of your EU Personal Data to the address below. We will investigate and attempt to resolve any complaints or disputes regarding the use or disclosure of your EU Personal Data within 45 days of receiving your complaint.
+
+Changes to this Privacy Policy
+We reserve the right to amend this Privacy Policy from time to time.
+Contact Us
+If you have any questions, please contact us as follows: 
+Attn: Legal Department
+201 Daktronics Drive
+PO Box 5128 Brookings, SD 57006-5128
+privacy@daktronics.com
+

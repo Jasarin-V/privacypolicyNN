@@ -1,0 +1,108 @@
+Website privacy and security policy
+Privacy requirements for insurers
+
+Contents: Information Collected and How Its Used | Personal Information and Choice | Email Addresses | Access and Correction of Personal Information | Cookies and Web Bugs | Security | Encryption | Links to Other Websites | Disclaimer | Use of Website Information | Consent to Monitoring | Contact Information | Other TDI Policy Page Links
+
+This policy addresses the collection, use, and security of information obtained from visitors to Texas Department of Insurance (TDI) websites. It covers the following websites:
+
+www.tdi.texas.gov  or www.tdi.state.tx.us
+www.HelpInsure.com.
+www.TexasHealthOptions.com
+Other web resources with addresses (URLs) that include "tdi.state.tx.us" or "tdi.texas.gov."
+A similar policy with some variations applies to TexasSure at www.TexasSure.com. TexasSure's privacy/security policy can be found at www.TexasSure.com/personalinfo.html.
+
+These privacy and security policies do not guarantee that all personal information provided to TDI by these websites will remain secure.
+
+Information collected and how it is used
+When you browse our websites or download information, we automatically collect and store the following information:
+
+The type of browser and operating system used;
+The date and time you visited our website;
+The web pages or services you accessed at our website; and
+The website you visited prior to coming to our website.
+We analyze this information to help make our website more useful and for the following reasons:
+
+To determine the number of visitors to our website;
+To count the number of times files are downloaded and web pages are accessed;
+To identify system performance problems;
+To find errors in problem pages and files;
+To review the types of technology visitors are using and
+To maintain a secure website.
+This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to outside parties unless the release is legally required in connection with investigations by law enforcement or other legal proceedings, or in accordance with the Texas Public Information Act.
+
+We use Google’s Custom Search for government agencies as our search tool. To learn about the information Google collects, why they collect it, and how you can update, manage, export, and delete your information, read the Google Privacy Policy.
+
+Personal information and choice
+You may choose whether to provide personal information on-line.
+
+"Personal information" is information about an individual person that is readily identifiable to that specific individual. Personal information includes such things as an individual's name, address, phone number and email address.
+
+If during your visit to our websites you participate in a survey, fill out an on-line form, or send an email, you will be providing personal information to us. We use this information in the following manner:
+
+Email - to respond to your message and help you obtain the information requested;
+Surveys and on-line forms - to use the information for the purpose designated.
+All of our on-line forms requiring personal information are encrypted to meet privacy requirements. Email you submit is usually not encrypted.
+
+We share personal information with another government agency only if the information submitted relates to that agency or if it is required by law.
+
+Information you submit to TDI may be considered a public record subject to the Texas Public Information Act. Please refer to our Open Records Policy for further information.
+
+If you choose not to contact us by email, participate in a survey or fill out an on-line form, your choice will in no way affect your ability to use other features on our website.
+
+You always have the option of printing a survey or on-line form and filling them out by hand before sending via fax or the U.S. mail.
+
+Email addresses
+Under most circumstances, an email address of a member of the public that is provided for the purpose of communicating electronically with TDI is confidential and not subject to disclosure. You may agree (opt "in") to disclosure of your email address. Your email address is not collected or sold for commercial purposes.
+
+Access and correction of personal information
+With few exceptions, you are entitled to be informed about the information that the Texas Department of Insurance (TDI) collects about you. Under sections 552.021 and 552.023 of the Texas Government Code, you have a right to review or receive copies of information about yourself, including private information. However, TDI may withhold information for reasons other than to protect your right to privacy. Under section 559.004 of the Texas Government Code, you are entitled to request that TDI correct information that TDI has about you that is incorrect.
+
+For more information about the procedure and costs for obtaining information from TDI or about the procedure for correcting information kept by TDI, please contact the Agency Counsel Section of TDI's Legal & Regulatory Affairs Division at AgencyCounsel@tdi.texas.gov or refer to the Corrections Procedure section on our websites.
+
+Because of the confidential nature of workers' compensation claimant information, and the necessity for verification of the identity of the requestor by signature notarization, REQUESTS FOR CLAIM FILE INFORMATION WILL NOT BE ACCEPTED VIA INTERNET E-MAIL. Forms for requesting confidential claimant information can be downloaded from this website.
+
+Cookies and web bugs
+Most TDI Web resources do not use "cookies" or "web bugs" that contain special code or graphics capable of collecting information on your web browsing habits. We typically use only temporary "session" cookies for on-line forms or databases. Session cookies help you fill out a form easily and keep track of where you are in the process. These cookies disappear as soon as you close your browser. In some cases, however, we may use a cookie that is saved to one of our web servers. Such cookies are used to enhance the users experience or customize information for a user. Any personally identifiable information stored in the cookies would never be released to outside parties unless the agency is required to do so in connection with law enforcement investigations or other legal proceedings.
+
+Security
+TDI has taken steps to safeguard the integrity of its data and prevent unauthorized access. These measures are designed to prevent corruption of data, block unknown or unauthorized access to our systems and information, and provide reasonable protection of private information in our possession.
+
+Unauthorized attempts to upload information or change information on TDI's websites are strictly prohibited and may be punishable under the Texas Penal Code, Chapter 33 (Computer Crimes) or Chapter 33A (Telecommunications Crimes) or other applicable state and federal laws.
+
+Encryption
+TXCOMP and other TDI applications that collect personal information use Secure Socket Layers (SSL), an industry standard for secure website transactions. When you visit Web resources protected by SSL, your browser address (URL) changes from HTTP to HTTPS, and the browser may display a lock or key symbol on its task bar. If you do not see one or more of these security indicators, any information you submit could be intercepted. Our SSL-protected applications use 128-bit encryption any time private or sensitive information is collected. The 128-bit encryption keys further secure our website and network against brute force attacks that might be directed at your online transactions, including any private information you may send to TDI.
+
+If your browser does not support 128-bit encryption, you will not be able to connect to encrypted pages.
+
+Links to other websites
+As a convenience, TDI´s website offers links to certain government, university and insurance-related websites created and maintained by public and private entities. TDI has no control over linked sites nor can it be held responsible for material found on any non-TDI website. A link to another website does not constitute an endorsement of the content, viewpoint, accuracy, opinions, policies, products, services or accessibility of the site. For more information, please read TDI's linking policy and the state's general guidelines on linking to agency websites.
+
+Disclaimer
+Although reasonable efforts have been made to ensure that electronic information on Texas Department of Insurance (TDI) websites is complete, accurate and timely, TDI does not represent that the information is complete, accurate and timely in all instances. In addition, the information provided does not necessarily represent the official position or views of the Commissioner of Insurance, TDI or the State of Texas. You are urged to seek legal advice and confirmation of critical information found at this site before relying on it. TDI assumes no responsibility for any errors appearing in rules or otherwise. Further, TDI assumes no responsibility for the use of the information provided.
+
+Use of website information
+Unless otherwise noted on an individual document, file, web page or other website item, TDI grants permission to copy and distribute the information for noncommercial use, as long as the content remains unaltered.
+
+Information on TDI´s websites is not intended as a replacement for the detailed information found in the Texas Insurance Code, Texas Labor Code, Texas Administrative Code or any pending legislation, regulation or other statute, nor is it intended to replace the advice of legal counsel.
+
+Copies of the Texas Insurance Code, Texas Labor Code and the Texas Administrative Code may be purchased from West Publishing Co. You can find information about the Texas Insurance Code at West Publishing Co.'s website, as well as information about the Texas Administrative Code. Bound copies of certain manuals and reports also are available from TDI.
+
+Consent to monitoring
+Use of this website is monitored to ensure proper operation, plan TDI website resources and to verify various security features. Do not attempt to upload, change or place materials on this system, circumvent security features or use this system for other than its intended purposes.
+
+Anyone accessing secured information on the TXCOMP site agrees to abide by provisions of the TXCOMP access agreement, which includes maintaining the confidentiality of claim information; avoiding the use of passwords without authorization and refraining from circumventing computer security systems.
+
+Use of any TDI web resource constitutes consent to monitoring.
+
+Contact information
+Please address questions about this policy to TDI's Media Relations Office one of these ways:
+
+Phone: 512-676-6000
+Fax: 512-463-6141
+Mail: Texas Department of Insurance
+Media Relations Office MC 113-1A
+PO Box 149104
+Austin, TX 78714-9104
+Email: MediaRelations@tdi.texas.gov
+Other TDI policy pages
+Accessibility | Compact with Texans | Corrections Procedure | Disclaimer | Public Information | State Link Policy | TDI Link Policy

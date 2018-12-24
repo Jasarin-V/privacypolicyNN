@@ -1,0 +1,101 @@
+Privacy Notice
+This website (the “Site”) is owned and operated by Carnival Corporation and Carnival plc (collectively "Carnival" or “we”). Carnival is committed to respecting and protecting your privacy and helping you make the most of your time on the Internet within a trusted environment. The Carnival Privacy Notice (“Privacy Notice”) applies to the Site and governs the data collection, usage and services available on the Site. This Privacy Notice discloses how we collect, protect, use and share information gathered about you on our Site. If you use our Site you explicitly agree to the terms and conditions of the Privacy Notice in effect at the time of your use. We hope that this disclosure will help increase your confidence in our Sites and enhance your experience on the Internet. Please read our Privacy Notice to understand:
+
+Information We Collect
+You can visit our Site without divulging any personally information including your email address. Our Site does not collect personally information about individuals except when such individuals specifically provide such information on a voluntary basis, such as when registering your email for email alerts. Carnival uses such information collected primarily to provide better customer service to you, to improve and customize the content you see, and to provide the products, services or information you request.
+
+Site Use Information
+Our web servers collect the IP addresses and domain names of visitors to our Site. This information may be aggregated to measure the number of visits, average time spent on the Site, features accessed, pages viewed, etc. Carnival may use this information to measure the use of our Site and to improve the content we offer. We may share with third parties this experiential information or other data which does not personally identify visitors to our Site.
+
+Information We Collect or Store Automatically
+We automatically collect certain types of usage information when you visit the Site, receive Carnival emails, or otherwise engage with us. For example, we use cookies, clear gifs or beacons, device recognition technologies, and other similar tracking technology to better understand our Site usage information and to improve our Site and our user experience. Some methods we use to collect this usage information are explained below. 
+
+Cookies are small text files containing a string of alphanumeric characters placed on your devices that uniquely identify your browser and let us help you log in faster and enhance your navigation through the Site. A cookie may also convey information to us about how you use the Site (e.g., the pages you view, the links you click, how frequently you access the Site, and other actions you take on the Site), and allow us to track your usage of the Site over time.
+
+Log file information may include anonymous information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Site, domain names, landing pages, pages viewed, and other such information.
+
+Clear gifs (also known as web beacons) are small graphic images or other web programming code that may be invisible to you, but any electronic image or other web programming code inserted into a page or e-mail can act as a web beacon. Web beacons are used to anonymously track the online usage patterns of our customers, and can also be included in Carnival emails so that we can determine which emails from Carnival are opened, which links or advertisements in those emails are clicked by recipients, and to help identify our users across devices.
+
+Embedded scripts are a type of programming code that is designed to collect information about your interactions with the Site such as the links you click on. The code is temporarily downloaded onto your device from our web server or a third party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter.
+
+Browser fingerprinting includes collection and analysis of information from your device, such as, without limitation, your operating system, plug-ins, system fonts and other data, for purposes of identifying your browser and device.
+
+Entity tags (“ETags”) are a feature of the cache of information from device browsers. ETags are an opaque identifier assigned by a web server to a specific version of a resource found at a URL. If the resource content at that URL ever changes, a new and different ETag is assigned. Used in this manner, ETags are a form of Device Identifier. ETag tracking may generate unique tracking values even where the consumer blocks HTTP, Flash, and/or HTML5 cookies.
+
+Recognition technologies apply statistical probability tools to data sets in an attempt to recognize or make assumptions about users and devices. This information helps us to identify you across multiple devices that you may use, analyze and improve the Site and present you with information based on these assumptions.
+
+When you access the Site by or through a mobile device, we may receive or collect and store unique identification numbers associated with your device (including, for example, a UDID, Unique ID for Advertisers -“IDFA”-, Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
+
+How Do We Use the Information We Collect or Store Automatically?
+We use or may use the data and any personal information collected through the above methods for our legitimate business interests, namely to: (a) remember information so that you will not have to re-enter it during your session or the next time you visit the Site; (b) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our Site; (c) diagnose or fix technology problems; and (d) otherwise to plan for and enhance our Site.
+
+The information generated by the above methods may be transmitted to and stored on servers in the United States. Although we do our best to honor the privacy preferences of our users, we are unable to respond to Do Not Track signals set by your browser at this time.
+
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies. Please note that doing so may negatively impact your experience using the Site. Depending on your device and operating system, you may not be able to delete or block all cookies. Please review the section below titled "Online Advertising" for more details. You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it.
+
+To learn more about cookies, clear gifs/web beacons and related tracking technologies, you may wish to visit http://www.allaboutcookies.org and/or the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org.
+
+We do not retain personal information for longer than necessary to fulfil these purposes and in accordance with applicable law. For information on third parties we share your information with, please see the Disclosing Information to Third Parties section below.
+
+Information You Provide to Us
+You are not required to register in order to access our Site. If you send us an email, participate in one of our blogs or forums, or register on our Site, we may collect information about you. Any information you provide is purely voluntary. We do not retain personal information for longer than necessary to fulfil these purposes and in accordance with applicable law.  There may be areas on the Site where you may provide personal information or will be required to register to obtain access to certain online services not available to anonymous visitors. When you register on our Site, you may be required to provide your first name, last name, email address and to select a password to be used to access your information. ("Profile Information").
+If you send us an email or request information we will retain your email address and use it to respond to your inquiry.
+
+By providing personal information through this Site you explicitly agree to our collection and use of that information as described in this Privacy Notice. You agree that we may use the personal information you provide to respond to your inquiries, process orders, contact you regarding customer service, let you know about products or services which may be of interest to you or to personalize our service to meet your needs or preferences. You also agree that we may share your personal information with our affiliated companies and third parties as described in this Privacy Notice. You further agree that the information you provide is current, accurate and that you will update it if there are any changes.
+
+You may unsubscribe or change your email address for email alerts at any time by following the instructions mentioned prominently within each email alert.
+
+Child Privacy
+The Site is not targeted at, nor do we knowingly collect personal data from, children under the age of 18. If we have reason to believe that information is being provided by a person under the age of 18 we will not collect the information. If you believe that we have collected information from a person under 18, please contact us at dpo@carnival.com
+
+Your Access to Your Information
+You are responsible for the accuracy and completeness of all information you provide to us. If you wish to change your details at any time, either unsubscribe and then re-subscribe inputting your new details or send an e-mail to  InvestorRelations@Carnival.com giving details of the changes you wish to make. We will act on your instructions promptly, but making changes may take two weeks or more to become effective.
+
+You have the right to correct any errors in that information and to request that it be updated.
+
+Disclosing Information to Third Parties
+We do not sell your information to third parties but we may share your information with our affiliated companies or with third parties. We will reveal personal information to unaffiliated third parties only if: (1) you request or authorize it; (2) the information is provided to help complete a transaction for you; (3) the information is provided to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas, to enforce our Legal Notices or other agreements, or to protect our rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection etc.); (4) the disclosure is done as part of a purchase, transfer or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, customer information may be one of the transferred assets); (5) the information is provided to our agents, outside vendors or service providers to perform functions on our behalf (e.g., analyzing data, providing marketing assistance, providing customer service, processing orders, sending emails about our products or services, etc.) or with whom we may have cooperative or joint marketing arrangements; (6) the information is shared with third parties for their marketing use, or (7) to others as described in this Privacy Notice. We may also gather aggregated data about you and disclose such aggregated (but not personally identifiable) information to third parties for promotional or other purposes.
+
+Your California Privacy Rights
+Carnival may disclose your personal information to our affiliates or other third parties for their use in the marketing of their products or services (as opposed to Carnival products or services) to you unless you tell us not to. In order to opt out of such sharing or for further information, please email: dpo@carnival.com
+
+For Customers in the EU
+Right of access. The right to obtain access to your personal information.
+Right to rectification. The right to obtain rectification of your personal information without undue delay where that personal information is inaccurate or incomplete.
+Right to erasure. The right to obtain the erasure of your personal information without undue delay in certain circumstances, such as where the personal information is no longer necessary in relation to the purposes for which it was collected or processed.
+Right to restriction. The right to obtain the restriction of the processing undertaken by us on your personal information in certain circumstances, such as where the accuracy of the personal information is contested by you, for a period enabling us to verify the accuracy of that personal information.
+In some cases, our ability to uphold these rights for you may depend upon our obligations to process personal information for security, safety, fraud prevention reasons, compliance with regulatory or legal requirements, or because processing is necessary to deliver the services you have requested. Where this is the case, we will inform you of specific details in response to your request. For further information on how to exercise those rights, you may contact our Data Protection Officer by sending an email to dpo@carnival.com.
+
+You also have the right to lodge a complaint with the relevant data protection regulator.
+
+Security Procedures to Protect Information
+Carnival employs commercially reasonable physical, technical and organizational measures to prevent accidental or unlawful destruction, loss, damage or alteration, or unauthorized disclosure of or access to the information we collect through this Site Data transmission over the internet is never 100% secure.
+
+While we take steps to protect your personal information and keep it secure, you also play a role in protecting your information. You can help to maintain the security of your online transactions by not sharing your login information. Carnival cannot guarantee the security of any information you transmit to us or from our Site, and therefore you use our Site at your own risk.
+
+International Data Transfers
+Information that you submit via our Site is stored on servers hosted by NASDAQ and located in the United States and the United Kingdom. We may wish to export certain personal information to other Carnival companies and to third party organizations located in countries outside the United States and the European Economic Area (EEA) in order to provide you with our information. When you submit personal information to the Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in another country which may not provide privacy protections similar to those your country provides. For these transfers, we use ‘standard contractual clauses’ to ensure the adequacy of the transfer. If you wish to enquire further about these transfers, please contact us using the details set out at the end of the Privacy Notice.
+
+Inapplicability of Privacy Policies of any Linked Sites or Other Parties
+Carnival's Site may contain links to other sites such as our affiliates and third parties. This Privacy Notice only addresses Carnival's use and disclosure of your information collected on Sites displaying this Privacy Notice. While we try to link only to sites that share our standards and respect for privacy, we are not responsible for the privacy practices of our affiliates or any other third parties or the content of linked sites, although we do encourage you to read the applicable privacy policies and terms and conditions of such parties or websites.
+
+Changes to this Privacy Notice
+We will occasionally amend this Privacy Notice to reflect company and customer feedback and we reserve the right to make changes to this Privacy Notice at any time. The use of your information is subject to the Privacy Notice and Terms of Use in effect at the time of use. The provisions contained in this Privacy Notice supersede all previous notices or policies regarding our privacy practices with respect to this Site. We post the effective date of our Privacy Notice on our Site. We encourage you to check our Site frequently to see the current Privacy Notice to be informed of how Carnival is committed to protecting your information and providing you with improved content on our website. If we make material changes to this Privacy Notice we will post the revised Privacy Notice and the revised effective date on this Site.
+
+Your Comments are Appreciated
+If you have any questions, comments or complaints regarding our Privacy Notice, you can contact the site's webmaster at InvestorRelations@Carnival.com or you can write to us at:
+
+Carnival Corporation
+Carnival Place 
+MSEO1000 
+3655 N.W. 87 Avenue 
+Miami, FL 33178-2428
+
+Carnival plc
+Carnival House
+100 Harbour Parade
+Southampton 
+SO15 1ST
+Hampshire UK
+Effective Date: May 25, 2018 
+© 2018 Carnival Corporation, All rights reserved

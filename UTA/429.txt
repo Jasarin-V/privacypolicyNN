@@ -1,0 +1,83 @@
+Privacy Practices & Security Statements
+Home Federal Bank’s Online Privacy Practices Statement
+Summary
+This notice describes Home Federal Bank’s online privacy practices and applies to anyone who visits our website. It explains how we may collect information from you online when you visit Home Federal Bank’s website and how we may protect and use that information.
+ 
+
+Collecting Information 
+
+Browsing
+Home Federal Bank may collect information about you when you browse our website or use our online services. We may collect technical information about your browser and the pages that you visit. For example, we may collect your internet protocol address, which is a numerical identifier assigned to a computer or device that connects to the internet. We may also collect any information you volunteer to us, such as survey feedback or contact information.
+
+Online Tracking
+Home Federal Bank may use cookies and other online tracking devices. Cookies are small text files that a website’s server places on your computer. The cookies provide a means for websites that you visit to track browsing activities conducted with your computer. This includes information such as pages and content viewed, the time and duration of visits, search queries entered into search engines, and whether a computer user clicked on an advertisement. Cookies make the personalization of your Web experiences possible and can also be used to retain data related to a particular browser, such as items in online shopping carts.
+
+In addition to cookies, there are other devices for tracking online activity, including Flash cookies and Web beacons. A Web beacon is a small string of software code that represents a graphic image on website or email. Web beacons can be used for many purposes - including site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization of a website.
+ 
+
+How We Use Information 
+
+On Our Site
+We may use cookies or similar devices to help us understand which parts of our site you find most useful and to optimize your browsing experience. Cookies allow us to recognize you when you return to our site and can allow us to identify the path by which you returned to our site. We may use any of the information we collect to offer you special products and services and to assist us in taking data security precautions.
+
+If you choose, you can set your browser to inform you when cookies are sent, or you may choose not to accept cookies. Your decision not to accept cookies could limit access to some of the services and offers that are available on our website.
+
+Sharing Information
+We may share information that we collect online with companies within the Home Federal Bank family and with trusted third parties. Third party service providers with whom we share identifiable information are contractually obligated to keep the information confidential and to use the information only to provide the services we have asked them to perform.
+
+Email
+If you provide your email address to us, or if we obtain it from another source, we may use it to respond or update you on your inquiries, to contact you about your accounts, or to let you know about products and services that may be available to you. If we send you an email advertisement, it will include instructions on how to opt out of receiving such emails in the future. If you elect to opt out of receiving email advertisements, we may still send you emails about your account relationships with us.
+
+If you receive an email that claims to be from us, but you are not sure, or if you think it is suspicious, do not click on any of the links in the e-mail and delete it.
+
+Protecting Children’s Online Privacy
+Home Federal Bank encourages protection of children’s information on the internet. We will not intentionally collect personal information from children under 13 on our website without first obtaining consent from their parents or legal guardians. For more information about the Children’s Online Privacy Protection Act (COPPA) please refer to the FTC’s website at http://www.ftc.gov/bcp/edu/microsites/coppa/intro.htm.
+
+Home Federal Bank Online Services
+Home Federal Bank offers its customers a variety of online account services. When you register for those services, we will provide you with specific terms and conditions that may supplement the information in this notice. If you set your browser to reject cookies, you may not be able to use some Home Federal Bank’s online account services.
+
+Links
+Our websites may include links to third-party websites. These third parties are not subject to this notice or to the Home Federal Bank’s Privacy Notice. Whenever you visit a third-party website, you should review its privacy notice.
+
+Data Security
+At Home Federal Bank, we make your safety and security a top priority and are committed to protecting your personal and financial information. If we collect identifying information from you, we will protect that information with controls based upon internationally recognized security standards, regulations, and industry-based best practices.
+
+Home Federal Bank maintains customer authentication procedures to protect your personal information and account from identity theft. These procedures are for your protection. If you suspect a website is “spoofing” or pretending to be a Home Federal Bank website do not enter personal information, but instead contact us in a branch or through a phone number you know is associated with your account at Home Federal Bank, or by emailing internetbankingsupport@hfbla.com.
+
+Changes
+This notice describes Home Federal Bank’s current online privacy practices. Home Federal Bank may change its online privacy practices in the future, and we may revise this notice to reflect material changes. This notice was last revised February 24, 2010, and is effective as of that date.
+
+ 
+
+Home Federal Bank’s Online Security Statement
+
+We use firewall systems and intrusion detection software to prohibit unauthorized access to our systems.
+
+We protect the confidentiality of your data by encrypting sensitive information with 128-bit Secure Socket Layer (SSL). This helps ensure that sensitive information can only be viewed by you and Home Federal Bank.
+
+We utilize Extended Validation (EV) SSL as an extra layer of security to help you know that you have landed on a Home Federal Bank secure site. If you use a newer browser like Internet Explorer 7 or later or Firefox 3 or later, EV SSL will cause your address bar to turn green on selected sites.
+
+We build information security right into our systems and networks using internationally recognized security standards, regulations, and industry-based best practices.
+
+We employ strong authentication controls following guidance provided to us by the Federal Government's banking regulators.
+
+We require our employees to take information security awareness training and to apply this training to their job every day.
+
+Never share your user name, password, or security questions with anyone, and beware of suspicious e-mails or unsolicited phone calls asking for this information.
+
+Your login credentials are the keys you use to access your account information on our system. Do not write down or share your credentials with anyone.
+
+Follow the password instructions that are presented when you create a new password. That way no one else will be able to guess your password.
+
+When you have been performing any transaction online, make sure that you use the Log Out button when you are finished. Then close your browser completely. This ensures that no one who uses the computer after you can see your information.
+
+Install and regularly update anti-virus and anti-spyware software. Perform frequent scans of your computer. Protect your computer with a firewall.
+
+ 
+
+Home Federal Bank's Website Accessibility Statement
+
+Home Federal Bank has taken steps to make our website primarily compliant with Web Content Accessibility Guidelines (WCAG) as published by the Web Accessibility Initiative (WAI) of the World Wide Web Consortium (W3C). Though some of the compliance found in WCAG conforms with 508 Compliance, some of our pages may not be 508 Complaint. If you find a part of our site does or may not conform to Level AA of the WCAG, please let us know so that we can address the matter.
+
+Contact us via our online contact form.
+

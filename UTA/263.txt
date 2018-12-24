@@ -1,0 +1,38 @@
+Qumu Corporation Privacy Policy
+Qumu Corporation (“Qumu”) operates several websites including www.qumu.com. It is Qumu’s policy to respect your privacy regarding any information we may collect while operating our websites.
+
+Website Visitors
+Like most website operators, Qumu collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Qumu’s purpose in collecting non-personally identifying information is to better understand how Qumu’s visitors use its website. From time to time, Qumu may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+Qumu also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Qumu does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+
+Gathering of Personally-Identifying Information
+Certain visitors to Qumu’s websites choose to interact with Qumu in ways that require Qumu to gather personally-identifying information. The amount and type of information that Qumu gathers depends on the nature of the interaction. For example, we ask visitors who register as Partners at www.qumu.com to provide their name, email address, and company address. In each case, Qumu collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Qumu. Qumu does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+Aggregated Statistics
+Qumu may collect statistics about the behavior of visitors to its websites. For instance, Qumu may monitor the most popular parts of the www.qumu.com site. Qumu may display this information publicly or provide it to others. However, Qumu does not disclose personally-identifying information other than as described below.
+
+Protection of Certain Personally-Identifying Information
+Qumu discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Qumu’s behalf or to provide services available at Qumu’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Qumu’s websites, you consent to the transfer of such information to them. Qumu will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Qumu discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Qumu believes in good faith that disclosure is reasonably necessary to protect the property or rights of Qumu, third parties or the public at large. If you are a registered user of a Qumu website and have supplied your email address, Qumu may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Qumu and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Qumu takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+Cookies and Other Technologies
+Qumu’s website, online services and email messages, may use cookies and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior and tell us which parts of our website people have visited.
+
+Qumu uses cookies and other technologies to remember personal information when you use our website. Our goal is to make your experience with Qumu more convenient and personal. For example, if you give us permission to send you or you request an email on a specific topic, knowing your contact information helps us send you e-mail that is relevant to you.
+
+If you want to disable cookies, check with your browser provider to find out how to disable cookies. Please note that certain features of the Qumu website will not be available if cookies are disabled.
+
+As is true of most websites, we gather some information automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole. Qumu may use this information in marketing and advertising services.
+
+In some of our email messages, we may use a “click-through URL” linked to content on the Qumu website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
+Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.
+
+Mobile Apps
+The Qumu app does not collect any personal information. Your user ID and password, if assigned, are already configured in the Qumu Video Control Center (VCC) server.
+
+The Qumu app will store comments and ratings entered by the user and will track the view count of all videos residing on the VCC server.
+
+Privacy Policy Changes
+Although most changes are likely to be minor, Qumu may change its Privacy Policy from time to time, and in Qumu’s sole discretion. Qumu encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.

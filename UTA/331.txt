@@ -1,0 +1,81 @@
+Privacy statement
+Imperial Oil Limited Web site
+
+Imperial Oil Limited, its divisions, affiliates, partnerships and subsidiaries (collectively known as "Imperial Oil") respects the privacy of personal information provided by its shareholders, customers, contractors, suppliers, business associates and members of the public. As part of this commitment, Imperial Oil has established privacy principles to govern its actions as relating to the collection, use and disclosure of your personal information. These principles are based on the Canadian Standard Association's Model Code for the Protection of Personal Information and Canada's Personal Information Protection and Electronic Documents Act.
+
+Information and Uses 
+
+When someone visits the imperialoil.ca web site (the “Site”), our web servers automatically gather information that allows the Site to communicate with the visitor's computer during the visit. We also track such information as the number of visits to the site, which parts of the site visitors select, IP address (the Internet address assigned to your computer from your Internet Service Provider), domain type, browser type (e.g., Firefox, Chrome or Internet Explorer), date and time of day. We use such information only for statistical purposes that help us design and administer the Site. 
+
+Privacy concerns focus on Personal Information, that is, information that could identify a specific individual such as names, addresses, e-mail addresses, and telephone numbers. If during your visit you personalize the Site, complete an order form, enter a contest, or submit other information to us, you may provide us with Personal Information. We may collect and use that Personal Information to provide you with products or services, to bill you for products and services you request, to tell you about Imperial Oil products and services which we think may be of interest to you, or to communicate with you for other purposes. 
+
+As a visitor of our Site, you may be asked that we read the geolocation of your computer or mobile device; this geolocation information will be used to provide the services you request such as showing the location of nearby service stations, and the route to service stations; we may also use this geolocation information to tell you about Imperial Oil products and services, for instance in combination with weather information about the geolocation of your computer or mobile device. If you do not wish us to use the geolocation information for such purposes, you can decline our request to read the geolocation; in that case, some of the services of our Site may not be delivered. We may provide the geolocation information to third parties who assist us in the provision of the services and communications to you through the Site. 
+
+As explained below in the section on Dissemination of Information to Third Parties, we do not distribute or sell Personal Information to third parties for the purpose of allowing them to market their products and services to you; moreover, as explained in the Opt Out/Modify Information section, we will make a reasonable effort to remove your Personal Information from our database in such a way that you will not receive future communications from us, if that is your wish. If you notify us that Personal Information previously submitted to our site is no longer accurate, we will make a reasonable effort to make appropriate corrections. To facilitate our efforts to meet your request, it would be helpful if you could let us know the context in which you provided Personal Information, e.g in connection with promotion of a specific product or service. 
+
+Information Placed on Your Computer 
+
+We may store some information (commonly known as a "cookie") on your computer when you look at or use the Site. This information facilitates customizing your use of the Site and helps to avoid the need for you to re-enter your details every time you visit it. You can erase or block this information from your computer if you want to. (The ‘help’ screen in your browser or computer user manual should tell you how to do this.) 
+
+We use third-party advertising technology to provide ads when you visit sites upon which we advertise. This technology will not process any information that can be used to personally identify you, that is it will not include your name, address, or other personal information. When you access an ad, a "cookie" file will be stored on your computer. This information is used to help manage our on-line advertising. To learn more about the third-party ad-serving technology, cookies, and how to "opt-out" please click here (note: you will be taken to a third-party website). 
+
+Information From Children 
+
+The Site contains information that may be of special interest to children, but Imperial Oil does not seek through the Site to gather Personal Information from or about persons under the age of 18. 
+
+Hyperlinks 
+
+This site has links to sites that Imperial Oil does not own, control or maintain. We cannot be responsible for their privacy policies and practices and we make no representations or warranties about the privacy practices of those sites. Similarly, we cannot be responsible for the policies and practices of any site from which you linked to our Site. We recommend that you check the privacy policy of other sites and contact the operator if you have concerns or questions. 
+
+Dissemination of Information to Third Parties 
+
+Communicating via the Internet and sending information, products, and services to you by other means necessarily involves your Personal Information passing through or being handled by third-parties, but Imperial Oil does not sell or distribute your Personal Information to third parties for purposes of allowing them to market their products and services to you. 
+
+We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, deliveries, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments and providing customer service. They have access to Personal Information needed to perform their functions, but may not use it for other purposes. 
+
+Personal data collected by Imperial Oil may be transferred among its various divisions and affiliated companies, around the world. Such transfers may involve the transfer of Personal Information from countries within the European Economic Area to countries outside the E.E.A. By submitting data on the Site, the visitor provides explicit consent to these transfers, including transborder transmission of data covered by this Privacy Statement. 
+
+Data Transfers 
+
+We may transfer the Personal Information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Statement. 
+
+Sensitive Information 
+
+Imperial Oil does not seek any sensitive information from visitors to our Site, unless legally required to do so, for example, in connection with recruiting or hiring. Sensitive information includes a number of types of data relating to: race or ethnic origin, political opinions, religious or other similar beliefs, trade union membership, physical or mental health, sexual life or criminal record. We suggest that you do not provide sensitive information of this nature. However, if you do provide such information, Imperial Oil accepts your explicit consent to use that data in the ways described in this Privacy Statement or in the ways described at the point where such information is disclosed. 
+
+Opt Out/Modify Information 
+
+You may remove your personal information so you will not receive future communications, or you may modify your personal information that we have previously gathered. 
+
+Conditions of Use, Notices and Revisions 
+
+If you choose to visit our Site, your visit and any dispute over privacy is subject to this Privacy Statement and our General Terms of Use of our Site, including any limitations on damages, arbitration of disputes and application of law provisions. We reserve the right to change this statement at any time without notice. 
+
+Employee giving program
+
+Imperial Oil Limited through our provider Benevity is collecting data to confirm your current employment, personal information required and voluntarily input by employees for the processing of donations, data related to your employment location, department and time employed with the company. All other data input by the employee is voluntary.
+
+Based on this notice, the personal information collected:
+
+is used for verification of employment and eligibility in the ImpACT program and analysis of types of users to ensure program is meeting goals.
+will be stored in The United States of America and accessed by employees of Imperial Oil Limited based in Canada. Any ExxonMobil Affiliate that receives your personal information is expected to process it in accordance with the purposes and disclosures set out in this notice and the ExxonMobil Data Privacy Principles.
+will also be shared with Benevity ; having proper agreements in place we expect those 3rd parties to protect your personal data consistent with applicable policies and laws
+will be retained for the time this program is available to employees.
+When living in a country with comprehensive data privacy laws, certain rights in relation to the information collected may apply, including:
+
+the right to know and see what personal information is processed;
+the right to have inaccurate personal information corrected or deleted.
+For questions or concerns about the processing of personal information please contact the ExxonMobil Data Privacy Office at Data.Privacy.Office@ExxonMobil.com.
+
+Contacting Imperial Oil about the content of this Privacy Statement
+
+You may address any questions or concerns about our compliance with these principles by contacting Imperial Oil's privacy manager. You may also contact Imperial Oil's privacy manager with any questions or complaints that you may have concerning your personal information.
+
+Imperial Oil Limited
+505 Quarry Park Blvd SE
+Calgary, AB
+T2C 5N1
+Attention: Privacy Manager
+Fax: 1-800-367-0585
+E-mail: privacymanager@esso.ca
+Telephone: 1-800-567-3776

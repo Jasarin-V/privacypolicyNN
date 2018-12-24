@@ -1,0 +1,51 @@
+Privacy Policy
+Home // Privacy Policy
+This Global Data Protection and Privacy Policy sets forth the commitment of Novelion Therapeutics Inc. (“Novelion”) to comply with applicable international, federal, state, and local laws and regulations protecting Personal Data that we process.  Personal Data means any information relating to an identified or identifiable natural person ("data subject"); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. Examples are a data subject’s name, email or physical address, social security number, photo, bank account information, and health records.
+
+In the course of its ordinary business activities, Novelion collects or receives Personal Data on Novelion employees, Healthcare Professionals (HCPs), Patients, Clinical Study Participants, business partners (e.g., third party vendors, agents, suppliers) and other individuals throughout the world. This Personal Data may be transferred to or accessed by Novelion employees nationally and internationally, internally within Novelion, or by external business partners, who may process Personal Data as directed by Novelion, or disclosed by Novelion for use on its behalf. The collection, recording, organization, storage, adaptation or alteration, transfer, use, deletion, and other processing of Personal Data are governed nationally, internationally, and regionally by data protection laws and regulations, such as the EU General Data Protection Regulation (GDPR).
+
+The core principles of this policy are set out in our ‘POLICY’ section below.
+
+In our globalized marketplace, the laws and standards of many countries must be considered when undertaking the collection, storage and transfer of Personal Data.  When in doubt, please consult an appropriate internal resource, such as Legal, Compliance or Human Resources.
+
+SCOPE
+
+This policy applies to Novelion employees, including employees of subsidiaries such as Aegerion, as well as agents and contractors (e.g., vendors, service providers) that are acting directly or indirectly on behalf of Novelion or its subsidiaries (collectively, “Novelion”) to collect, provide, handle, store, transfer, use, or otherwise process Personal Data.
+
+While the types of Personal Data that require data protection vary from country to country, Personal Data typically includes, but is not limited to, information from one or more of the following categories of Novelion’s business activities:
+
+Clinical Study Data: Personal Data, including health data, about individuals collected in connection with clinical studies.
+Market Research Data: Personal Data about participants in Market Research.
+Drug Safety Data: Personal Data, including health data, about individuals collected in connection with drug safety procedures.
+Human Resources Data:  Personal Data about employees or job applicants.
+Sales and Marketing Data: Personal Data about Healthcare Professionals to whom Novelion supplies or may wish to supply any type of goods or services.
+Medical Information Practices: Personal Data about Healthcare Professionals who have contacted Novelion’s medical information service and whose details are retained in Novelion’s systems.
+Patient Services Data: Personal Data, including health data, about patients who have contacted Novelion or have enrolled in Novelion’s product support services.
+Other: Personal Data about individuals with whom Novelion may deal as representatives of another organization, such as business partners.
+POLICY
+
+A. Privacy Principles
+
+Novelion Personnel are responsible for treating all Personal Data in a manner that ensures that individuals have a reasonable expectation of how their Personal Data is collected and used by Novelion.
+Novelion will, in accordance with applicable law:
+a. Collect, store, transfer or otherwise process Personal Data only to the extent it has a legal basis to do so, and only for specified, explicit, relevant and legitimate business purposes in the amount and for the time that is reasonably necessary to accomplish legitimate    business purposes and is reasonably necessary for Novelion to comply with international, federal, state, and local law or applicable regulation;
+b. Use reasonable means to ensure that Personal Data is accurate, complete, up-to-date, relevant and reliable for the purpose for which it was collected;
+c. Be transparent in its procedures and processes that govern the processing of Personal Data;
+d. Comply with applicable international, federal, state, and local laws and regulatory requirements regarding the processing of Personal Data;
+e. Collect Personal Data by lawful and fair means and process Personal Data only in a manner compatible with the purpose for which they were collected, unless required by law or regulation or based on consent;
+f. Obtain and honor individuals’ prior informed consent to collect and process their Personal Data, to the extent required by international, federal, state, and local law, regulations or guidelines, or otherwise process Personal Data in accordance with legal grounds contemplated by applicable law;
+g. Inform individuals, in a clear and conspicuous manner, that their Personal Data is being processed, of the purposes of the processing, the categories of Personal Data processed, the identity of the company processing Personal Data, how to contact Novelion with any inquiries or complaints, and the choices and means offered for limiting use and disclosure of Personal Data; 
+h. Provide individuals with any additional information required by applicable law. Where applicable law may provide for derogations to the transparency requirement in exceptional cases (for example, where providing such information imposes a disproportionate burden), such derogations should not be relied upon with prior consultation of Ben Harshbarger, General Counsel;
+i. Restrict physical or electronic access to Personal Data to those who are reasonably required to access the information in order to perform their job duties;
+j. Keep Personal Data accurate, complete, up-to-date and reliable for its intended use;
+k. Establish appropriate administrative, technical, and physical measures to safeguard and appropriately protect Personal Data from unauthorized use, disclosure, destruction, and alteration, taking into account the state of the art and sensitivity of the Personal Data concerned;
+l. Investigate and promptly report suspected or actual physical or electronic data breaches, and maintain a record of data breaches that will be made available to competent regulatory authorities upon request;
+m. Consider requests made by individuals for access, rectification, restriction, opposition, erasure, portability and not to be subjected to automated decision-making, and comply with such requests where required to do so by law or Novelion policies;
+n. Conduct privacy impact assessments for processing operations presenting significant risks for the individuals concerned where required by applicable law;
+o. Share Personal Data with other Novelion Personnel in a manner consistent with applicable consents and authorizations;
+p. Share Personal Data, such as permitting access, transmission or publication, with third parties (either within or outside Novelion) only for sound business reasons, as required by law (including disclosures to law enforcement authorities in connection with their duties), to protect Novelion’s interests, or with the authorization of the individual concerned, and only if Novelion puts in place contractual guarantees that require those third parties to ensure at least the same level of privacy and security protection to the Personal Data as Novelion provides pursuant to this policy or is required to provide under applicable law and to refrain from any uses or further disclosures not authorized by Novelion;
+q. Comply with restrictions and requirements that apply to the international transfer of Personal Data;
+r. Keep Personal Data in a format that permits identification of data subjects for no longer than is necessary for the legitimate business purposes for which the Personal Data were collected;
+s. Maintain a centralized record of processing operations relating to Personal Data, which shall be made available to competent authorities upon request;
+t. Destroy, erase or anonymize Personal Data so that it cannot be practicably read or reconstructed when Personal Data no longer needs to be retained to accomplish the legitimate business purposes for which it was collected, unless otherwise required to retain the Personal Data to comply with applicable laws or legal orders;
+u. Have in place an effective means of enforcing these rules.

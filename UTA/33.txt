@@ -1,0 +1,29 @@
+Privacy Statement
+Privacy and transparency are core values of our service.
+
+Privacy and transparency are core values of our service.
+We take every possible precaution to ensure your personal information is confidential and - as detailed in the Terms of Service - guarantee you that there is no third party access to your data.
+
+Cookies are only used in so far as they are required for the technical working of the system, and we never use them to track you on third party sites.
+
+Piwik Free Software Web Analytics
+We use Piwik to analyze access to this website only. All data is stored on our servers. The IP addresses are anonymized and we do respect your browser's "Do Not Track" preference. However, if you would still like to opt-out of being tracked by our own Piwik installation on this website, you can do so here:
+
+Limitations
+As also explicitly stated in the Terms of Service, we are obliged to provide access to Lawful Interception requests issued by a Swiss judge. These are then processed by our staff, and either granted or rejected.
+
+As a country that places a high value on privacy, Switzerland is extremely reluctant with such access, and all the statistics of such Lawful Interceptions (LI) are always provided in anonymized form by the authorities themselves, including detailed spreadsheets that allow you to control the grounds for approval.
+
+As you can see for yourself in the detailed overview for 2014 (and the one for 2012, 2013), there were only 12 (20 in 2012, 31 in 2013) cases of real-time internet wire-tapping in all of Switzerland and a further 18 (26 in 2012, 32 in 2013) for retroactive communication meta-information. Although that information is not provided, to our knowledge none of these was for email, specifically. We do however know that this information is complete. For more information, please see our overview on the Swiss legal framework.
+
+What we do know is that Kolab Systems has received a total of
+
+0 requests to access customer data
+0 such requests were granted, and
+0 such requests were denied
+
+and we have received
+
+1 administrative request and 2 unauthorized attempts for administrative requests.
+
+Please see the complete statistics for more information. Should these numbers change we'll update this page accordingly and without delay. This page was last updated September 1st 2017.

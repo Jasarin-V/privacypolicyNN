@@ -1,0 +1,459 @@
+Company,Parsed?,URL of policy,Email,Billing Info (Credit Card Number),Social Security Number,Ads and Marketing,Location,Collecting PII of Children,Sharing with Law Enforcement,Notice of Policy Change,Choice of Limiting Your Info,Aggregation
+Slack,Y,https://slack.com/privacy-policy,2,2,3,1,1,3,1,2,3,2
+Ello,Y,https://ello.co/wtf/post/privacy,2,3,3,3,3,3,2,2,3,2
+CNN,Y,http://www.cnn.com/privacy.html,1,2,3,1,1,2,1,2,2,2
+Lego,Y,http://aboutus.lego.com/en-us/legal-notice/privacy-policy-full,2,2,2,2,3,3,2,2,2,3
+PNC,Y,https://www.pnc.com/en/privacy-policy.html,1,3,3,1,1,3,2,2,1,2
+Hilton,Y,http://hhonors3.hilton.com/en/promotions/privacy-policy/english.html,1,2,3,1,1,3,1,2,2,2
+Monster,Y,http://inside.monster.com/fullpolicy/inside2.aspx,2,2,3,2,2,3,1,2,3,2
+National Weather,Y,http://www.weather.gov/privacy,2,3,3,3,3,3,1,0,0,0
+Sony Music,Y,http://www.sonymusic.com/privacy-policy,1,2,3,1,1,3,1,2,3,0
+EA,Y,http://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC,1,2,3,2,2,3,1,2,2,2
+BlackBerry,Y,http://us.blackberry.com/legal/privacy-policy.html,1,2,3,1,1,3,2,2,2,2
+Dep of Justice,Y,http://www.justice.gov/doj/privacy-policy,2,3,3,3,3,3,1,0,0,2
+Ziff Davis,Y,http://www.ziffdavis.com/privacy-policy,2,2,3,1,1,3,1,2,3,2
+AdRoll,Y,https://www.adroll.com/about/privacy,2,2,2,1,2,3,2,0,2,2
+UT Austin,Y,http://www.utexas.edu/cio/policies/web-privacy,2,2,3,3,3,0,1,2,2,2
+Wikipedia,Y,http://wikimediafoundation.org/wiki/Privacy_policy,2,2,3,3,2,2,2,2,2,2
+Microsoft,Y,http://www.microsoft.com/privacystatement/en-us/core/default.aspx,2,2,3,2,2,3,2,2,2,0
+RoyalAirForce,Y,http://www.raf.mod.uk/universityairsquadrons/termsconditions.cfm,3,3,3,3,3,2,2,0,0,0
+OwnPhones,delete,http://ownphones.com/Privacy.html,1,1,3,1,3,3,0,2,2,1
+Twitter,Y,https://twitter.com/privacy,1,2,3,2,2,3,2,2,3,2
+Wordpress,Y,https://wordpress.org/about/privacy/,2,3,3,3,3,2,2,2,0,2
+Google,Y,http://www.google.com/policies/privacy/,2,2,3,2,2,2,1,2,3,2
+SoundCloud,Y,https://soundcloud.com/pages/privacy,2,2,3,2,3,3,2,2,3,2
+GitHub,Y,https://help.github.com/articles/github-privacy-policy/,2,2,3,3,3,2,1,2,0,2
+TwitPic,delete,https://twitpic.com/privacy.do,2,3,3,1,1,3,1,2,0,2
+Delicious,delete,https://delicious.com/privacy,2,3,3,2,2,3,1,2,2,2
+Dell,Y,http://www.dell.com/learn/us/en/19/policies-privacy,2,2,2,2,3,3,1,2,2,2
+Apple,Y,http://www.apple.com/privacy/privacy-policy/?cid=wwa-us-kwg-features-com,2,2,3,2,2,3,1,2,2,2
+Walmart,Y,http://corporate.walmart.com/privacy-security/walmart-privacy-policy,2,2,3,1,2,3,2,2,2,0
+Staples,Y,https://www.staples.com/sbd/content/help/policies/privacy_popup.html,1,2,2,1,3,3,2,2,1,2
+500Pics,Y,https://500px.com/privacy,2,3,3,2,2,3,2,2,3,0
+MyKolab,Y,https://mykolab.com/tos,2,2,3,3,3,2,2,3,0,0
+IBM,Y,http://www.ibm.com/privacy/details/us/en/,2,2,3,2,3,2,2,3,2,0
+Facebook,Y,https://www.facebook.com/note.php?note_id=%20322194465300,2,2,3,3,1,3,2,2,3,2
+Yahoo,Y,http://info.yahoo.com/privacy/us/yahoo/,2,2,2,2,1,3,2,2,3,0
+LinkedIn,Y,https://www.linkedin.com/legal/privacy-policy,1,2,3,1,2,3,2,2,3,2
+AT&T,Y,http://www.att.com/gen/privacy-policy?pid=2506,2,2,3,2,2,3,1,2,3,2
+Automattic,Y,http://automattic.com/privacy/,2,3,3,2,3,2,2,2,3,2
+Adobe,Y,http://www.adobe.com/privacy/policy.html,2,2,3,2,3,2,2,2,2,2
+AddThis,Y,http://www.addthis.com/privacy/privacy-policy,2,3,3,3,3,3,2,2,2,2
+Verizon,Y,https://www.verizon.com/about/privacy/policy/,1,2,2,2,2,3,1,2,2,2
+NBCUniversal,Y,http://www.nbcuni.com/privacy/full-privacy-policy/,1,2,3,1,2,2,1,2,2,1
+Ebay,Y,http://pages.ebay.com/help/policies/privacy-policy.html,2,2,3,2,1,3,1,2,2,2
+RocketFuel,Y,http://rocketfuel.com/privacy-policy,2,3,3,1,1,3,2,2,3,2
+Disney,Y,https://disneyprivacycenter.com/privacy-policy-translations/english/,2,2,3,2,2,1,0,3,3,2
+Pandora,Y,http://www.pandora.com/privacy,2,2,3,2,2,3,1,2,2,2
+Zynga,Y,https://zynga.com/privacy/policy,1,2,3,2,2,3,2,2,3,2
+AOL,Y,http://privacy.aol.com,2,2,3,2,2,3,2,2,2,2
+Snapchat,Y,https://www.snapchat.com/privacy,2,2,3,1,1,3,1,2,3,2
+Pinterest,Y,https://about.pinterest.com/en/privacy-policy,2,3,3,1,2,3,1,2,3,2
+Shell,Y,http://www.shell.com/global/aboutshell/website-social-mobile/about-our-website/privacy.html,2,3,3,2,3,3,1,2,3,2
+Chevron,Y,http://www.chevron.com/privacystatement/,2,2,2,2,3,3,1,2,2,2
+PG&E,Y,http://www.pge.com/en/about/company/privacy/customer/index.page,2,2,2,2,3,3,2,2,2,2
+Halliburton,Y,http://www.halliburton.com/en-US/about-us/legal/privacy-policy.page?node-id=hgeyxt9i,2,2,3,2,3,2,1,1,3,2
+Valero,Y,http://www.valero.com/legal/pages/privacystatement.aspx,1,2,2,1,2,3,1,2,3,2
+Cabot,Y,http://www.cabotcorp.com/information/privacy-policy,2,3,3,2,3,2,1,2,3,2
+Eastman,Y,http://www.eastman.com/Pages/Privacy_Policy.aspx,2,3,3,3,3,2,1,1,3,2
+OCI resources,delete,http://ociresources.com/privacy-policy/default.aspx,2,3,3,3,3,2,2,1,1,2
+Teck,Y,https://www.teck.com/Generic.aspx?PAGE=Teck%20Site/Privacy+Policy&portalName=tc,2,3,3,3,3,2,1,2,1,2
+Newmont,Y,http://www.newmont.com/legal/,2,3,3,3,3,2,1,2,3,2
+China-ACM,delete,http://www.china-acm.com/privacy-policy,2,3,3,2,3,2,1,2,3,2
+RGS Energy,Y,http://rgsenergy.com/privacy-policy/,1,2,2,1,3,3,1,2,3,2
+Heico,Y,http://www.heico.cn/en/pri.asp,2,2,3,2,3,3,1,2,1,2
+Cyberoptics,Y,http://cyberoptics.com/privacy-policy/,2,3,3,2,3,2,1,2,2,2
+Kelso,Y,http://www.kelsotech.com/privacy-policy,2,2,3,2,3,2,1,2,1,2
+Sonic automotive,Y,http://www.sonicautomotive.com/privacy.htm,1,2,3,1,3,3,2,2,1,2
+Adm,Y,http://www.adm.com/en-us/Pages/privacy.aspx,1,3,3,1,3,3,1,2,3,2
+Coca cola enterprises,Y,http://www.cokecce.com/legal/privacy-policy,2,3,3,2,3,3,1,2,2,2
+Bassettt,Y,http://www.bassettfurniture.com/customer-service/privacy-and-terms.asp,1,3,3,1,3,2,1,1,2,2
+Tempurpedic,Y,http://www.tempurpedic.com/customer-service/privacy-policy.asp,2,2,3,1,3,3,1,2,3,2
+Endo,Y,http://www.endo.com/privacy-legal,2,3,3,2,3,3,1,2,1,2
+Symmetry surgical,Y,http://www.symmetrysurgical.com/Welcome/Default.aspx?scenarioID=65000012,2,3,3,2,3,3,2,2,2,2
+Luna,Y,http://devstore.lunainc.com/pages/privacy,2,2,3,2,3,3,1,2,2,2
+Nant kwest,Y,http://www.nantkwest.com/privacy-policy,2,3,3,2,3,2,1,2,1,2
+Cryo life,Y,http://www.cryolife.com/privacy-policy,2,2,2,2,3,3,2,2,3,2
+Dressbarn,Y,http://www.dressbarn.com/customer-service/safety-security-and-privacy/t#Privacy_policy,2,3,3,2,2,3,1,2,3,2
+Sears Canada,delete,http://www.sears.ca/content/about-sears#Customer_Service_Security_Sears,1,2,3,1,3,2,1,2,2,2
+Liberty media,Y,http://www.libertymedia.com/privacy.aspx,2,3,3,3,3,2,1,1,1,2
+Travel port,Y,http://www.travelport.com/Privacy-Policy/Travelport%20GDS,2,2,3,2,3,3,2,2,2,2
+IHG,Y,http://www.ihgplc.com/index.asp?pageid=863,2,3,3,3,3,2,1,1,2,2
+T mobile,Y,http://www.t-mobile.com/company/website/privacypolicy.aspx,1,2,2,2,2,3,2,2,2,2
+Clear one,Y,http://www.clearone.com/privacy_policy,2,3,3,2,3,2,1,1,2,2
+HKTV,Y,http://www.hktvmall.com/hktv/en/privacy-policy,1,2,2,1,1,2,1,1,2,2
+Orange,Y,http://www.orange.com/en/Footer/legal-matters/legal/privacy-policy,2,3,3,3,3,3,2,2,2,2
+Alaska,Y,http://www.alaskacommunications.com/Privacy.aspx,2,2,2,2,2,3,1,2,2,2
+CMS Energy,Y,http://www.cmsenergy.com/privacy-statement/default.aspx,2,3,3,3,3,3,1,2,3,2
+cleco,Y,https://www.cleco.com/privacy-policy,2,2,2,2,3,3,1,2,1,2
+transalta,Y,http://www.transalta.com/utility/terms-use,2,3,3,2,3,2,1,1,1,2
+ormat,Y,http://www.ormat.com/privacy-policy,2,2,3,2,3,2,1,1,2,2
+OGE,Y,https://oge.com/wps/portal/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOItjAycDTxNjLzcvY1cDRy9XVwCTQNcDD2NzYAKIoEKDHAARwNC-sP1o8BK8JhQkBthkO6oqAgArHFgDg!!/dl5/d5/L2dJQSEvUUt3QS80SmlFL1o2XzgyMEMwSTQySk9RN0IwQUNFUTExNDgxMDM0,2,2,3,2,3,3,1,1,1,2
+citizens holding,Y,http://www.citizensholdingcompany.com/privacy-policy/,2,3,3,2,3,2,1,2,1,2
+manulife,Y,"http://www.manulife.com/public/article/index/0,,lang=en&catId=670002,00.html",2,2,3,2,3,2,2,1,1,2
+marcus and millichap,Y,http://www.marcusmillichap.com/about-us/privacy-policy,1,2,3,1,3,3,1,2,2,2
+PHH,Y,http://corporate.phh.com/phoenix.zhtml?c=187859&p=irol-privacy,1,3,3,1,3,2,1,2,2,2
+US global investors,Y,http://www.usfunds.com/privacy-policy/#.VddtEYs6JUQ,2,2,2,2,3,3,2,2,1,2
+emcore,Y,http://www.emcore.com/privacy,2,3,3,2,3,3,1,2,3,2
+techdata,Y,http://www.techdata.com/content/visitor/abouttd/privacy.aspx,2,2,2,2,3,2,1,2,1,2
+yandex,Y,https://legal.yandex.com/confidential,2,3,3,2,3,2,1,2,3,2
+groupon,Y,https://www.groupon.com/privacy,2,2,3,1,2,3,1,2,3,2
+idt,Y,http://www.idt.com/legal/privacy-policy,1,2,3,1,3,2,1,2,1,2
+education.com,Y,http://www.education.com/privacy,1,2,3,2,3,3,2,2,3,2
+US dept of education,Y,http://www2.ed.gov/notices/privacy/index.html?src=ft,2,3,3,3,3,2,1,2,1,2
+edutopia,Y,http://www.edutopia.org/privacy-policy,1,2,3,1,1,3,1,2,3,2
+coursera,Y,https://www.coursera.org/about/privacy,1,2,3,1,1,3,1,2,1,2
+openculture,Y,http://www.openculture.com/privacy_policy,2,3,3,2,2,3,1,2,1,2
+texas dept of insurance,Y,http://www.tdi.texas.gov/commish/privacy.html,2,3,3,3,3,2,1,1,2,2
+texas dept of state health services,Y,https://www.dshs.state.tx.us/policy/privacy.shtm,2,3,3,3,3,2,1,1,2,2
+texas animal health commission,Y,http://www.tahc.state.tx.us/web_policy.html,1,3,3,3,3,2,1,1,1,2
+federal reserve,Y,http://www.federalreserve.gov/privacy.htm,2,3,3,3,3,2,2,2,1,2
+us jobs,Y,https://help.usajobs.gov/index.php/USAJobsHelp:Privacy_policy,1,3,1,3,1,2,1,1,1,2
+Amazon,Y,http://www.amazon.com/gp/help/customer/display.html?nodeId=468496,3,3,3,3,2,1,3,1,1,3
+CVS,Y,http://www.cvs.com/help/privacy_policy.jsp,2,2,2,2,2,1,2,1,1,1
+Netflix,Y,https://www.netflix.com/PrivacyPolicy,2,2,2,3,3,1,3,1,1,3
+BankOfAmerica,Y,https://www.bankofamerica.com/privacy/online-privacy-notice.go,2,2,2,1,1,1,3,1,2,3
+DuckDuckGo,Y,https://duckduckgo.com/privacy,1,1,1,1,1,1,2,1,1,1
+Ixquick,delete,https://ixquick.com/eng/privacy-policy.html,1,1,1,1,1,1,1,1,1,1
+Instagram,Y,http://instagram.com/about/legal/privacy/,1,1,1,2,1,1,3,1,1,2
+Dropbox,Y,https://www.dropbox.com/terms#privacy,1,1,1,2,2,1,3,1,1,2
+Skype,delete,http://www.skype.com/en/legal/privacy/,1,1,1,2,2,1,2,1,1,2
+Xing,Y,https://www.xing.com/privacy,1,1,1,1,1,1,1,1,1,1
+Bitly,Y,https://bitly.com/pages/privacy,1,1,1,2,1,2,2,1,1,2
+Zoosk,Y,https://www.zoosk.com/en/privacy?from=footer,1,2,1,3,1,1,2,1,1,3
+Evernote,Y,https://evernote.com/legal/privacy.php,1,1,1,1,2,1,3,1,1,2
+Gravatar,duplicate,http://automattic.com/privacy/,1,1,1,1,1,1,2,1,1,2
+Couchsurfing,Y,http://about.couchsurfing.com/privacy-policy/,2,2,1,2,2,1,2,1,1,2
+OLX,Y,http://www.joinolx.com/privacy-statement,1,1,1,3,3,1,3,1,2,3
+RuneScape,Y,http://www.jagex.com/g=runescape/privacy/privacy.ws,1,1,1,3,2,2,2,1,1,2
+eBuddy,Y,http://xms.me/privacy.html,1,1,1,3,2,1,2,1,1,3
+vBulletin,delete,http://www.internetbrands.com/privacy/privacy-highlights.html?site=www.vbulletin.com,1,1,1,3,2,2,2,1,1,2
+WhatsApp,Y,http://www.whatsapp.com/legal/,1,1,1,2,2,1,3,1,1,2
+Freeforums,delete,http://www.crowdgather.com/legal/,1,1,1,2,2,1,3,2,2,3
+IFTTT,Y,https://ifttt.com/privacy,1,1,1,2,1,1,2,1,1,2
+Informe,Y,http://www.maine.gov/portal/policies/privacy.html,1,1,1,1,1,1,2,1,1,2
+App.net,Y,https://account.app.net/legal/privacy/,1,1,1,1,1,1,1,1,1,1
+videoBB,delete,http://www.videobb.com/privacy.php,1,1,1,2,1,1,2,1,1,2
+Flattr,Y,https://flattr.com/privacy,1,1,1,2,1,1,2,1,1,2
+Habbo,Y,http://help.habbo.com/entries/23029106-Privacy-Policy,1,1,1,3,3,2,3,1,1,2
+World of Warcraft,Y,http://us.blizzard.com/en-us/company/about/privacy.html,2,2,2,2,2,1,3,1,1,2
+Steam,Y,http://store.steampowered.com/privacy_agreement/,2,2,1,2,1,1,2,1,1,2
+Hypster,Y,http://hypster.com/hypster/Privacy_Policy,2,2,2,3,2,1,2,1,1,2
+Wordfeud,Y,http://wordfeud.com/privacy/,3,3,1,3,2,1,3,1,1,3
+OwnCube,Y,https://owncube.com/privacy-en.php,1,2,2,2,2,2,2,1,1,2
+Disqus,Y,https://help.disqus.com/customer/portal/articles/466259-privacy-policy,3,3,1,3,3,2,3,1,1,3
+Grammarly,Y,http://www.grammarly.com/privacy-policy,2,2,1,2,2,2,2,1,1,2
+allrecipes,Y,http://allrecipes.com/help/aboutus/privacy.aspx,1,2,1,3,2,1,2,1,1,2
+lastpass,delete,https://lastpass.com/privacy-statement/,2,2,2,2,2,1,2,1,1,2
+Spotify,Y,https://www.spotify.com/us/legal/end-user-agreement/,2,2,2,2,2,2,2,2,2,2
+mint,delete,https://www.mint.com/how-it-works/security/policy/,2,2,2,2,2,1,2,2,2,2
+Tumblr,Y,https://www.tumblr.com/policy/en/privacy,2,2,2,2,2,2,2,2,2,3
+Apple iCloud,duplicate,https://www.apple.com/privacy/,2,2,2,2,2,1,2,2,1,2
+envato,Y,http://themeforest.net/legal/privacy,2,2,2,2,2,2,2,2,2,2
+Adcare Health Systems Inc,Y,http://adcarehealth.com/privacy-policy/,2,3,3,3,3,3,3,1,2,2
+"GAMCO Global Gold, Natural Reources & Income Trust",Y,http://www.gabelli.com/privacy.html,2,3,3,2,3,3,3,2,1,1
+Gastar Exploration Inc.,Y,http://www.gastar.com/privacy/default.aspx,2,3,3,2,3,3,3,2,2,2
+Ladenburg Thalmann Financial Services Inc,Y,http://www.ladenburg.com/policies-disclosures/privacy-disclosure,2,2,2,3,3,1,2,1,2,2
+Pacific Gas & Electric Co.,Y,http://www.pge.com/en/about/company/privacy/customer/index.page,2,2,2,2,3,2,2,3,2,2
+Power REIT,Y,http://pwreit.com/?page_id=48,2,3,3,1,3,1,3,1,2,2
+"Radiant Logistics, Inc.",Y,http://radiantdelivers.com/?page_id=1006,3,3,2,3,3,1,2,2,2,2
+Southern California Edison Company,Y,https://www.sce.com/wps/portal/home/privacy/!ut/p/b1/lVLLbsIwEPyVcsgx7FKHEHqzqioEqlKaVhBfkO2YkCrYIbhQ-vVNEJdK5eXTejWzmtlZYDADpvk2z7jNjeZF82f-vBOEdBDFGI3jySNGbzjq0uA16nteDUhqAJ54FA_8fohPg-EYo_B9QjAiE3yJKSWIPkyBAZPalnYJyUaquTTaKm3nSjt4rB0sq3zL5f5OG5tL1VBKmaeQyIXwuQjQFYJ4rheIjitwga4nUu73eykhXBwlntFwweJB4nmTQ2BZYcRhYQnVggQZsEotVKWq9ldVt5fWlpsHBx3c7XbtzJisUG1pVg7-R1majYXZXyQktY_eSaGjLsQ3LubCwPubBw6vuJb8c71mtM68yfa7dnlt6OXqYxWQvat_ntXUbbSQbpG1Wr-U4ZXZ/dl4/d5/L2dBISEvZ0FBIS9nQSEh/,2,3,2,2,3,1,1,2,1,1
+"BLACKROCK INTERNATIONAL, LTD.",Y,http://www.blackrock.com/corporate/en-us/compliance/privacy-policy,2,3,3,2,3,3,2,2,3,2
+"Sophiris Bio, Inc.",Y,http://www.sophirisbio.com/privacy-policy/,1,3,3,1,3,3,2,3,1,2
+First Bank,Y,http://www.firstbanknj.com/privacy-and-security.html,2,2,2,3,2,3,2,1,1,1
+W.R. Berkley Corporation,Y,http://www.wrberkley.com/site-services/legal.aspx,1,3,2,2,2,3,2,1,1,2
+"The Herzfeld Caribbean Basin Fund, Inc.",Y,http://www.herzfeld.com/#!privacy-policy/c3gd,2,2,3,2,3,3,2,1,1,1
+Greif Bros. Corporation,Y,http://www.greif.com/legal/privacy-policy.html,2,2,3,2,2,3,1,1,1,1
+"RENN Fund, Inc.",delete,http://www.rencapital.com/privacyPolicy.php,2,2,2,2,2,3,1,1,1,3
+"American Capital, Ltd.",delete,http://www.americancapital.com/privacy-policy,2,3,3,2,3,3,1,1,1,3
+Investors Real Estate Trust,Y,http://www.iret.com/privacy-policy/,2,3,3,2,2,3,1,2,1,2
+Alere Inc.,Y,http://www.alere.com/ww/en/privacy.html,3,3,3,2,2,3,2,2,2,2
+"Dreyfus Municipal Income, Inc.",Y,https://public.dreyfus.com/policies-information/online-privacy.html,1,3,3,1,1,3,2,2,1,1
+Tejon Ranch Co,Y,http://tejonranch.com/privacy-policy/,2,3,3,3,2,3,2,1,1,1
+Moog Inc.,Y,http://www.moog.com/about/privacy-policy/,2,3,3,2,2,3,2,2,3,1
+Alcoa Inc.,Y,http://www.alcoa.com/global/en/general/privacy.asp?lc=3,3,2,3,3,2,3,2,2,3,2
+RAIT Financial Trust,Y,http://www.rait.com/legal/terms-of-service/,3,3,3,3,3,2,1,2,1,3
+Eaton Vance California Municipal Income Trust,Y,http://corporate.eatonvance.com/Privacy-and-Security.php,2,2,2,2,3,3,2,2,1,1
+Aberdeen Australia Equity Fund Inc,Y,http://www.aberdeen-asset.com/aam.nsf/AAM/privacy,2,2,3,3,2,3,2,2,1,1
+Aberdeen Asia-Pacific Income Fund Inc,delete,http://www.aberdeen-asset.us/aam.nsf/us/privacy,2,2,3,3,2,3,2,2,1,1
+Nuveen Missouri Premium Income Municipal Fund,Y,http://www.nuveen.com/Home/Corporate/About/Privacy.aspx,2,2,2,2,3,3,1,2,1,3
+iShares MSCI Emerging Markets Asia Index Fund,Y,http://www.ishares.com/us/privacy-policy,2,3,3,3,2,3,2,1,2,1
+"Delaware Investments Colorado Municipal Income Fund, Inc",Y,http://www.delawareinvestments.com/closed-end/privacy-statement.aspx,2,3,2,2,3,3,2,2,2,3
+"Goldman Sachs Group, Inc. (The)",Y,http://www.goldmansachs.com/privacy-and-security/index.html,2,2,2,2,3,3,2,2,3,3
+Federal Agricultural Mortgage Corporation,Y,https://www.farmermac.com/privacy-policy/,3,3,3,3,3,3,2,3,3,2
+"American International Group, Inc.",Y,http://www.aig.com/privacy_3171_448852.html,1,3,2,2,2,3,2,2,3,2
+Apartment Investment and Management Company,Y,http://www.aimco.com/privacy,1,2,2,1,3,3,2,1,1,1
+Allstate Corporation (The),Y,https://www.allstate.com/about/privacy-statement-aic.aspx,1,2,2,1,2,3,1,2,3,2
+American Independence Corp.,Y,http://www.americanindependencecorp.com/AMIC_PrivacyPolicy.html,2,3,3,1,2,3,2,2,1,2
+Aflac Incorporated,Y,https://www.aflac.com/about-aflac/privacy-policy.aspx,2,2,2,2,2,2,2,2,2,2
+"Dex Media, Inc.",Y,http://www.dexmedia.com/privacy/,1,2,2,1,2,2,1,1,2,1
+"Insignia Systems, Inc.",delete,http://www.insigniasystems.com/privacy-policy.html,2,3,3,2,3,3,1,1,3,2
+MDC Partners Inc.,Y,http://www.mdc-partners.com/#privacy,2,3,3,3,3,2,3,2,1,2
+"MeetMe, Inc.",Y,http://www.meetme.com/apps/terms#privacy,1,3,3,2,1,2,1,2,3,2
+AAR Corp.,Y,http://www.aarcorp.com/terms-and-conditions/,3,3,3,1,3,3,3,1,3,3
+"Rentech, Inc.",delete,http://www.rentechinc.com/privacy.php,2,3,3,3,3,3,2,2,1,3
+Agrium Inc.,Y,http://www.agrium.com/en/privacy,2,3,3,3,3,3,1,3,1,3
+"Hawaiian Holdings, Inc.",delete,https://beta.hawaiianairlines.com/legal/privacy-policy,1,2,3,1,3,2,2,1,3,2
+Cintas Corporation,Y,http://www.cintas.com/privacy/,2,2,3,2,2,2,1,2,1,2
+Joe&#39;s Jeans Inc.,Y,http://www.joesjeans.com/TermsPrivacy.aspx,2,3,3,2,3,2,1,3,3,2
+Perry Ellis International Inc.,Y,http://www.pery.com/Company/PrivacyStatement,2,2,3,2,3,3,1,1,1,3
+Columbia Sportswear Company,Y,http://www.columbia.com/privacy-policy.html,2,2,3,2,2,2,1,1,2,2
+PACCAR Inc.,Y,http://www.paccar.com/privacy.aspx,2,3,3,3,3,2,1,1,1,3
+"Caseys General Stores, Inc.",Y,http://www.caseys.com/privacy-policy,2,2,3,2,2,3,1,1,1,1
+"Monro Muffler Brake, Inc.",Y,http://www.monro.com/Privacy-Policy,1,3,3,2,3,2,1,2,1,1
+"West Marine, Inc.",delete,http://www.westmarine.com/CustomerService/Privacy-Policy,1,1,3,1,3,3,1,3,2,2
+"MGP Ingredients, Inc.",Y,http://www.mgpingredients.com/privacy/,2,2,2,2,1,3,1,2,1,1
+National Beverage Corp.,Y,http://www.nationalbeverage.com/privacy-policy/,3,3,3,3,3,3,2,1,1,2
+Amgen Inc.,Y,http://www.amgen.com/privacy/privacy_terms.html,2,3,3,1,1,2,2,3,2,1
+Cel-Sci Corporation,Y,http://www.cel-sci.com/privacy_policy.html,2,3,3,2,1,1,1,2,1,2
+Repligen Corporation,Y,https://www.repligen.com/privacy-policy/,2,2,2,1,2,1,1,3,1,1
+CytRx Corporation,delete,http://www.cytrx.com/privacy,2,2,2,1,2,3,2,3,3,2
+Biogen Inc.,Y,https://www.biogen.com/en_us/privacy-policy.html,2,2,2,2,2,3,2,1,3,2
+"Gilead Sciences, Inc.",Y,http://www.gilead.com/Privacy/Privacy-Statement,2,3,3,2,2,1,2,2,3,2
+"PDL BioPharma, Inc.",Y,http://pdl.com/terms-of-use/,1,1,1,1,1,1,1,2,1,1
+Oncothyreon Inc.,delete,http://www.oncothyreon.com/about_us/legal.html,1,1,1,1,1,1,1,2,1,1
+PAREXEL International Corporation,Y,https://www.parexel.com/company/privacy-policy/,2,3,3,2,2,3,1,2,1,2
+Incyte Corporation,delete,http://www.incyte.com/sites/default/files/Incyte%20Privacy%20Policy%20Sept%202014.pdf,2,2,2,2,2,3,1,3,3,2
+National Research Corporation,Y,http://www.nationalresearch.com/privacy-policy,2,2,2,1,2,1,1,2,1,1
+"AxoGen, Inc.",Y,http://www.axogeninc.com/privacy,2,2,2,1,2,3,1,3,3,2
+CONMED Corporation,Y,http://www.conmed.com/conmed-legal.php,2,2,2,1,2,1,1,1,1,1
+Arrhythmia Research Technology Inc.,delete,http://www.arthrt.com/privacy-policy/,2,2,2,1,2,1,1,2,1,1
+The Spectranetics Corporation,Y,http://www.spectranetics.com/disclaimers-privacy/,2,2,2,1,2,1,1,2,1,1
+Escalon Medical Corp.,delete,http://www.escalonmed.com/privacypolicy.html,2,3,3,3,3,2,2,2,1,2
+"Cyberonics, Inc.",delete,http://www.cyberonics.com/privacy-policy,2,2,3,3,3,2,2,2,1,2
+IRIDEX Corporation,Y,http://www.iridex.com/Contact/PrivacyPolicy.aspx,2,3,3,2,2,2,1,2,1,1
+Thoratec Corporation,delete,http://www.thoratec.com/legal/index.aspx,2,3,3,3,3,2,2,2,1,2
+"Celldex Therapeutics, Inc.",Y,http://www.celldex.com/help/privacy-terms-of-use.php,2,3,3,2,3,2,1,2,2,2
+Meridian Bioscience Inc.,Y,http://www.meridianbioscience.com/privacy.aspx,2,2,3,2,3,2,1,2,1,2
+"Bio-Rad Laboratories, Inc.",Y,http://www.bio-rad.com/en-us/privacy,2,3,3,2,3,3,2,2,2,2
+Scholastic Corporation,Y,http://www.scholastic.com/privacy.htm,2,2,3,2,2,1,1,3,3,3
+"NTN Buzztime, Inc.",Y,http://www.buzztime.com/business/privacy-policy/,2,3,3,2,3,3,2,2,2,2
+Headwaters Incorporated,delete,http://www.headwaters.com/Privacy-Policy/,2,3,3,2,3,3,2,2,2,2
+"Energy Focus, Inc.",Y,http://www.energyfocusinc.com/privacy-policy/,2,3,3,2,3,2,2,2,2,2
+eBay Inc.,duplicate,http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc,2,2,3,2,1,3,1,2,3,2
+"Reis, Inc",Y,http://www.reis.com/privacy-policy,2,3,3,2,3,3,2,2,2,2
+The Priceline Group Inc.,Y,http://www.pricelinegroup.com/privacy-policy/,2,3,3,2,3,3,2,2,2,2
+"Bankrate, Inc.",Y,http://www.bankrate.com/coinfo/privacy.asp,2,2,3,2,2,3,2,2,2,2
+Stamps.com Inc.,Y,http://www.stamps.com/privacy-policy/,2,3,3,2,3,3,2,3,3,2
+NIC Inc.,Y,http://www.egov.com/policy/privacy-policy,2,3,3,2,3,3,1,2,2,2
+"Lionbridge Technologies, Inc.",Y,http://www.lionbridge.com/privacy-policy/,2,3,3,2,3,2,1,1,1,2
+BSQUARE Corporation,Y,http://www.bsquare.com/privacy-policy/,2,2,3,1,2,2,1,2,2,2
+"Akamai Technologies, Inc.",delete,https://www.akamai.com/us/en/privacy-policies/index.jsp,3,3,3,1,2,2,2,2,3,2
+"Collectors Universe, Inc.",Y,https://www.collectors.com/Home/Privacy,2,2,3,2,2,3,2,2,1,2
+"PFSweb, Inc.",Y,http://www.pfsweb.com/about/privacy-policy.php,2,3,3,2,3,2,1,2,2,3
+"Gores Holdings, Inc.",delete,http://www.gores.com/legal/,2,3,3,3,2,2,2,2,1,2
+"Spark Networks, Inc.",Y,http://www.spark.net/privacy-policy/,2,3,3,3,2,2,1,1,1,1
+EVINE Live Inc.,Y,http://www.evine.com/p/help/evine-live/privacy/?cm_re=gft-_-privacy,1,1,3,1,1,3,1,1,1,1
+"Insight Enterprises, Inc.",Y,http://www.insight.com/en_US/help/privacy-policy.html,2,2,3,2,2,2,1,2,1,3
+"Destination XL Group, Inc.",Y,http://www.destinationxl.com/mens-big-and-tall-store/static/privacypolicy,2,2,3,2,2,3,2,2,3,2
+Christopher & Banks Corporation,Y,https://www.christopherandbanks.com/helpdeskarticle/-/-cbk_helpdesk_category_privacy_security_cmp_20120609_051946-cbk_helpdesk_article_privacy_policy_cmp_20120609_113226,2,2,3,3,2,3,1,1,3,1
+"Men&#39;s Wearhouse, Inc. (The)",Y,http://www.menswearhouse.com/ContentAttachmentView?contentName=MW4ABTprivacySecurity.html&catalogId=12004&langId=-1&storeId=12751,2,2,3,1,2,3,1,2,3,2
+"Stein Mart, Inc.",Y,http://www.steinmart.com/helpdeskarticle/-/-helpdesk_category_cmp_20121219_173952-smt_helpdesk_landing_article_privacy_policy_cmp_20120808_142218,2,2,3,1,2,1,1,1,1,2
+"The Finish Line, Inc.",Y,http://www.finishline.com/store/customer_service/privacy_policy.jsp,2,3,3,1,2,3,2,2,2,2
+"Alliance Resource Partners, L.P.",Y,http://www.arlp.com/privacy-statement/,2,3,3,3,3,2,1,1,1,2
+"Arch Coal, Inc.",Y,http://www.archcoal.com/news/privacypolicy.aspx,2,3,3,3,3,1,1,2,1,2
+Canadian Imperial Bank of Commerce,Y,https://www.cibc.com/ca/legal/cibc-online-privacy-statement.html,2,2,3,2,2,2,1,2,1,3
+"Cisco Systems, Inc.",delete,http://www.cisco.com/web/siteassets/legal/privacy_full.html,2,2,3,1,2,3,2,2,3,2
+Apple Inc.,duplicate,http://www.apple.com/privacy/,2,2,3,2,1,3,1,2,3,2
+Electronic Arts Inc.,duplicate,http://www.ea.com/privacy-policy,1,3,3,3,2,1,3,2,2,2
+PTC Inc.,Y,http://www.ptc.com/legal-policies/privacy-policy,2,3,3,2,3,3,2,2,3,2
+Progress Software Corporation,Y,https://www.progress.com/privacy,2,3,3,2,3,3,2,2,3,2
+"Synopsys, Inc.",Y,http://www.synopsys.com/Company/Pages/SynopsysPrivacy.aspx,2,3,3,2,3,3,2,2,2,2
+Datawatch Corporation,Y,http://www.datawatch.com/privacy-policy/,2,3,3,2,3,3,1,2,2,2
+Qumu Corporation,Y,https://www.qumu.com/privacy,2,3,3,3,3,3,2,2,2,2
+Intuit Inc.,Y,https://security.intuit.com/privacy/,2,3,3,2,3,3,2,2,2,2
+"FalconStor Software, Inc.",Y,http://falconstor.com/page/511/privacy-policy,2,3,3,2,3,3,2,2,2,2
+"ACI Worldwide, Inc.",Y,http://www.aciworldwide.com/privacy-policy.aspx,2,2,3,2,3,3,2,2,2,3
+"GSE Systems, Inc.",Y,http://www.gses.com/privacy-policy,2,3,3,2,3,3,2,2,2,2
+"Smith Micro Software, Inc.",delete,http://www.smithmicro.com/privacy,3,3,3,2,3,3,2,2,2,3
+"Nuance Communications, Inc.",Y,http://www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm?ref=footer,2,3,3,2,3,3,1,2,2,2
+"ARI Network Services, Inc.",delete,http://arinet.com/category/policies/,2,3,3,2,3,3,2,2,2,2
+EarthLink Holdings Corp.,Y,http://www.earthlink.net/about/policies/privacy/,2,3,3,2,3,3,2,2,2,2
+Autobytel Inc.,Y,http://www.autobytel.com/privacy-policy/,2,2,3,2,2,3,1,2,3,2
+"Best Buy Co., Inc.",Y,http://www.bestbuy.com/site/legal-privacy-policies/privacy-policy/pcmcat204400050062.c?id=pcmcat204400050062,2,3,3,2,3,3,2,2,2,2
+Educational Development Corporation,Y,http://www.edcpub.com/legal.aspx,2,3,3,3,3,3,2,2,2,2
+"Fossil Group, Inc.",Y,http://www.fossilgroup.com/privacy-policy/,1,1,3,1,3,3,2,2,2,1
+Avery Dennison Corporation,delete,http://www.averydennison.com/en/home/legal-privacy-notices.html,2,3,3,2,3,2,2,1,3,2
+"The Bon-Ton Stores, Inc.",delete,http://www.bonton.com/content/customer-service/privacy-policy/content1.html,1,1,1,1,3,3,2,1,1,3
+"Fred&#39;s, Inc.",delete,https://www.fredsinc.com/corporate/about-us/privacy-policy/,2,3,3,2,3,3,2,1,1,3
+Costco Wholesale Corporation,Y,http://www.costco.com/privacy-policy.html,2,2,3,2,2,3,2,2,2,3
+"Dollar Tree, Inc.",Y,http://www.dollartree.com/custserv/custserv.jsp?pageName=Privacy,2,3,3,2,3,3,2,1,1,3
+"PriceSmart, Inc.",Y,https://shop.pricesmart.com/ar/en/privacy,2,2,3,2,3,2,2,1,3,1
+Electro Rent Corporation,Y,http://www.electrorent.com/privacy,2,2,3,2,3,2,2,1,1,2
+"Paychex, Inc.",Y,http://www.paychex.com/corporate/privacy.aspx,2,2,2,2,3,3,2,1,2,2
+McGrath RentCorp,Y,http://www.mgrc.com/Privacy,2,3,3,2,3,2,1,1,1,3
+"Allscripts Healthcare Solutions, Inc.",Y,http://www.allscripts.com/privacy-policy,2,3,3,2,3,2,2,1,3,2
+"TSR, Inc.",Y,http://www.tsrconsulting.com/Website_Privacy_Policy.php,2,3,3,2,3,3,2,1,3,2
+Scientific Games Corp,Y,http://www.scientificgames.com/privacy-policy/,2,3,3,1,3,3,2,1,1,3
+"Jack Henry & Associates, Inc.",Y,https://www.jackhenry.com/more-from-jha/pages/privacy-policy.aspx,2,3,3,3,3,2,2,1,1,2
+Black Hills Corporation,duplicate,https://www.cleco.com/privacy-policy,2,2,2,2,3,3,2,1,1,2
+Calpine Corporation,delete,https://www.dom.com/corporate/footer-folder/privacy,2,2,2,2,3,2,2,1,3,2
+Analogic Corporation,Y,http://www.analogic.com/privacy-policy.htm,2,3,3,2,3,2,1,1,1,3
+Data I/O Corporation,Y,http://www.dataio.com/privacystatement.aspx,2,2,3,2,3,2,1,1,1,2
+Dataram Corporation,Y,http://corporate.dataram.com/privacy-policy,3,3,3,3,3,3,2,1,1,2
+KLA-Tencor Corporation,Y,http://www.kla-tencor.com/privacy-policy.html,1,1,1,1,1,1,1,2,1,1
+Matrix Service Company,Y,http://www.matrixservicecompany.com/privacy-policy,1,1,1,1,1,1,1,1,1,1
+"SunOpta, Inc.",Y,http://www.sunopta.com/privacy.aspx,1,1,1,1,1,1,1,2,1,1
+"The Andersons, Inc.",Y,http://www.andersonsinc.com/privacy,2,2,2,2,2,1,1,2,3,1
+Walter Investment Management Corp.,Y,http://www.walterinvestment.com/privacy.html,1,1,1,1,1,1,1,1,1,2
+American Express Company,Y,https://www.americanexpress.com/us/content/legal-disclosures/online-privacy-statement.html,1,1,1,1,1,3,2,3,2,2
+Dun & Bradstreet Corporation (The),Y,http://www.dnb.com/utility-pages/privacy-policy.html,2,3,3,2,3,3,2,1,1,2
+"Equifax, Inc.",delete,https://help.equifax.com/app/answers/detail/a_id/29,1,1,1,1,1,3,2,3,1,2
+Xylem Inc.,Y,http://www.xyleminc.com/en-us/pages/privacy-policy.aspx,1,1,1,1,1,1,1,2,1,1
+Gorman-Rupp Company (The),Y,http://gormanrupp.com/privacy-policy/,1,1,1,1,1,3,1,2,1,1
+"Whole Foods Market, Inc.",Y,http://www.wholefoodsmarket.com/privacy-policy,1,1,1,1,1,3,1,3,3,2
+Kroger Company (The),Y,https://www.kroger.com/topic/pharmacy-privacy-notice,1,1,1,1,1,1,2,2,1,1
+"Rave Restaurant Group, Inc.",Y,http://www.pizzainn.com/privacy-policy/,3,3,3,3,3,1,1,3,1,1
+"Patrick Industries, Inc.",delete,http://www.patrickind.com/privacy/,1,1,1,1,1,1,1,2,1,1
+"Bassett Furniture Industries, Incorporated",duplicate,http://www.bassettfurniture.com/customer-service/privacy-and-terms.asp,1,1,1,1,1,1,1,1,1,1
+"Flexsteel Industries, Inc.",Y,http://www.flexsteel.com/about-us/privacy,1,1,1,1,1,3,1,3,1,1
+H. B. Fuller Company,Y,http://www.hbfuller.com/north-america/privacy,1,1,1,1,1,1,1,1,1,1
+"Fortune Brands Home & Security, Inc.",Y,http://www.fbhs.com/privacy-policy,1,1,1,1,1,3,1,3,3,1
+"A V Homes, Inc.",Y,http://www.avhomesinc.com/privacy-policy/,1,1,1,1,1,1,1,2,1,1
+"Stratus Properties, Inc.",Y,http://www.stratusproperties.com/terms.aspx,2,2,2,2,2,1,1,1,1,1
+"Healthways, Inc.",Y,http://www.healthways.com/privacy,2,3,3,2,2,3,1,3,1,2
+"Isle of Capri Casinos, Inc.",Y,http://www.islecorp.com/privacy.html,2,2,2,2,2,1,1,2,2,2
+Acme United Corporation.,Y,http://www.acmeunited.com/Footer/Privacy+Policy/Privacy+Policy/946,2,2,2,2,2,3,1,3,3,2
+"Hurco Companies, Inc.",Y,http://www.hurco.com/en-us/about-hurco/Pages/Privacy-Policy.aspx,2,2,2,2,2,3,1,2,1,1
+"MOCON, Inc.",Y,http://www.mocon.com/privacy.html,2,2,2,2,2,1,1,2,1,2
+MTS Systems Corporation,Y,http://www.mts.com/en/privacy/index.htm,2,2,2,2,2,3,1,2,2,2
+Nordson Corporation,Y,http://www.nordson.com/en/our-company/legal/privacy-statement,1,1,1,1,1,3,1,2,1,1
+Tennant Company,Y-Unicode,http://www.tennantco.com/am-en/Pages/privacy-policy.aspx#UniqueContentTabId2Tab,2,2,2,2,2,1,1,2,3,2
+Tecumseh Products Company,Y-Unicode,http://www.tecumseh.com/en/Corporate/Privacy,2,2,2,2,2,3,1,2,3,1
+WSI Industries Inc.,Delete,http://www.wsiindustries.com/privacy-policy/,2,3,3,2,2,1,1,3,1,1
+"Maxwell Technologies, Inc.",Y-Unicode,http://www.maxwell.com/about_us/privacy-policy,1,1,1,1,1,3,1,3,1,1
+"Electro Scientific Industries, Inc.",Y-Unicode,http://www.esi.com/About/PrivacyPolicy.aspx,2,2,2,2,2,3,1,3,3,2
+"Mesa Laboratories, Inc.",Y-Unicode,http://drycal.mesalabs.com/privacy-policy/,3,3,3,3,3,3,1,3,2,2
+Lam Research Corporation,Y-Unicode,http://www.lamresearch.com/privacy-statement,1,1,1,1,1,1,1,2,1,2
+"Lawson Products, Inc.",Y-Unicode,http://www.lawsonproducts.com/common/privacy-and-policy.jsp?pageId=kentprivacypolicy,1,1,1,1,1,1,1,2,3,2
+"Lakeland Industries, Inc.",Y-Unicode,http://www.lakeland.com/privacy-policy,2,2,2,2,2,3,1,2,1,2
+HollyFrontier Corporation,Y-Unicode,http://www.hollyfrontier.com/privacy-statement/default.aspx,1,1,1,1,1,1,1,1,1,1
+Imperial Oil Limited,Y-Unicode,http://www.imperialoil.ca/Canada-English/privacy.aspx,2,2,2,2,2,1,1,1,3,1
+"KCG Holdings, Inc.",Delete,https://www.kcg.com/legal/privacy,2,2,2,2,2,1,1,1,1,1
+SEI Investments Company,Y-Unicode,http://www.seic.com/enUS/93.htm,2,3,3,2,3,2,2,2,2,2
+"T. Rowe Price Group, Inc.",Y-Unicode,http://corporate.troweprice.com/ccw/home/privacyPolicy.do,2,3,3,2,3,3,2,2,2,2
+"WisdomTree Investments, Inc.",Y-Unicode,http://www.wisdomtree.com/privacy-policy.aspx,2,3,3,3,3,3,2,2,2,2
+"AMERIPRISE FINANCIAL SERVICES, INC.",Y-Unicode,http://financial.thomsonreuters.com/en/privacy-statement.html,2,3,3,2,3,3,2,2,2,2
+Fortress Investment Group LLC,Y-Unicode,http://www.fortress.com/PrivacyStatement.aspx,2,3,3,2,3,3,2,2,3,2
+"Value Line, Inc.",Y-Unicode,http://www.valueline.com/Privacy.aspx,2,3,3,2,3,3,2,2,3,2
+"U.S. Global Investors, Inc.",Y-Unicode,http://www.usfunds.com/privacy-policy/#.Ve9d5mTBzGc,2,3,3,2,3,3,2,2,1,2
+American National Insurance Company,Y-Unicode,http://www.anico.com/CustomerSupport/PrivacyPolicies/index.htm,2,2,2,2,3,2,2,1,3,1
+"Citizens, Inc.",Y-Unicode,http://www.citizensinc.com/?p=privacy-disclosure,2,2,2,2,2,2,2,2,1,1
+"Popular, Inc.",Y-Unicode,http://www.popular.com/en/privacy,2,2,2,1,3,2,2,2,2,1
+Fifth Third Bancorp,Y-Unicode,https://www.53.com/privacy-security/online-privacy-policy.html,2,3,3,2,2,3,2,2,2,1
+Fulton Financial Corporation,Y-Unicode,http://www.fult.com/privacy_prin.asp,2,3,3,2,3,3,2,2,2,2
+CVB Financial Corporation,Y-Unicode,https://www.cbbank.com/privacy/,2,3,3,2,3,3,2,2,2,2
+"First Midwest Bancorp, Inc.",Delete,https://www.firstmidwest.com/privacy.aspx,2,3,3,3,3,3,2,2,2,2
+TrustCo Bank Corp NY,Y-Unicode,http://www.trustcobank.com/page/privacy-policy-49.html,2,3,3,2,3,3,2,2,2,2
+"Glacier Bancorp, Inc.",Y-Unicode,http://www.snl.com/PrivacyPolicy.aspx,2,3,3,2,3,3,2,2,2,2
+"Green Plains, Inc.",Y-Unicode,http://www.gpreinc.com/terms-of-use/,2,3,3,2,3,3,1,2,2,2
+WD-40 Company,Y-Unicode,http://wd40.com/privacy,2,2,2,2,2,3,2,2,3,2
+Balchem Corporation,Y-Unicode,http://www.balchem.com/terms-conditions,3,3,3,2,3,2,1,2,1,1
+Methanex Corporation,Y-Unicode,https://www.methanex.com/privacy-policy,2,3,3,3,3,2,1,1,3,2
+"Nature&#39;s Sunshine Products, Inc.",Y-Unicode,http://www.naturessunshine.com/us/general/privacystatement/,2,2,3,2,3,3,2,2,1,2
+"AMAG Pharmaceuticals, Inc.",Y-Unicode,http://www.amagpharma.com/privacy-policy/,2,3,3,2,3,1,2,3,3,2
+Celgene Corporation,Y-Unicode,http://www.celgene.com/privacy-policy/,2,3,3,3,2,3,1,3,3,2
+"Heron Therapeutics, Inc.",Y-Unicode,http://www.herontx.com/privacy,2,3,3,3,3,3,2,1,3,2
+"Akorn, Inc.",Y-Unicode,http://www.akorn.com/foot_legal.php,2,3,3,2,3,3,2,2,1,1
+"Juniper Pharmaceuticals, Inc.",Y-Unicode,http://www.juniperpharma.com/privacy/,2,3,3,3,2,2,1,1,1,1
+QLT Inc.,Y-Unicode,http://www.qltinc.com/privatePolicy.htm,2,3,3,2,3,3,1,1,1,2
+"ImmunoGen, Inc.",Y-Unicode,http://www.immunogen.com/privacy-policy,3,3,3,3,3,2,1,1,1,1
+"Regeneron Pharmaceuticals, Inc.",Y-Unicode,http://www.regeneron.com/privacy,2,3,3,2,2,3,1,3,1,2
+Perrigo Company,Y-Unicode,http://www.perrigo.com/privacy.aspx,2,3,3,1,3,3,2,1,1,1
+Carnival Corporation,Y-Unicode,http://phx.corporate-ir.net/phoenix.zhtml?c=140690&p=irol-privacy,2,3,3,1,3,3,2,2,1,2
+"Enzo Biochem, Inc.",Y-Unicode,http://www.enzo.com/footer-links/privacy-policy,2,3,3,2,3,3,1,2,3,1
+Kewaunee Scientific Corporation,Y-Unicode,http://www.kewaunee.com/templates/Blanktemplate.aspx?CID=453,2,2,3,2,3,3,1,2,1,2
+Newport Corporation,Y-Unicode,http://www.newport.com/cms/company/privacy-policy,2,2,3,2,3,1,2,1,1,2
+ATRION Corporation,Y-Unicode,http://www.atrioncorp.com/about/privacy.asp,2,3,3,3,3,2,1,1,1,2
+Daxor Corporation,Y-Unicode,http://www.daxor.com/privacy-statement/,2,3,3,2,3,3,2,2,2,2
+DENTSPLY International Inc.,Y-Unicode,http://www.dentsply.com/en/other/privacy-policy.html,2,3,3,2,3,3,2,2,2,2
+MGC Diagnostics Corporation,Y-Unicode,http://mgcdiagnostics.com/about/privacy-policy,2,3,3,2,3,3,2,2,2,2
+"Merit Medical Systems, Inc.",Y-Unicode,http://www.merit.com/about/privacy-policy.aspx,3,3,3,2,3,3,2,2,2,2
+"TransEnterix, Inc.",Y-Unicode,http://www.transenterix.com/company/privacy-policy/,2,3,3,2,3,3,2,2,2,2
+"ICU Medical, Inc.",delete,http://www.icumed.com/privacy-policy.aspx,2,3,3,3,3,3,2,2,2,2
+"U.S. Physical Therapy, Inc.",Y-Unicode,http://corporate.usph.com/corporate/privacy.aspx,2,3,3,3,3,3,2,2,2,2
+Kaiser Aluminum Corporation,Y-Unicode,http://www.kaiseraluminum.com/privacy-policy/,2,3,3,2,3,3,2,2,2,2
+"GulfMark Offshore, Inc.",Y-Unicode,http://www.gulfmark.com/privacy-policy.html,2,3,3,3,3,3,2,2,2,2
+VSE Corporation,Y-Unicode,http://www.vsecorp.com/legal/privacy.html,2,3,3,2,3,3,1,2,2,2
+"Daktronics, Inc.",Y-Unicode,http://www.daktronics.com/en-us/about-us/privacy-notice,2,3,3,2,3,3,2,2,2,2
+"Harley-Davidson, Inc.",Y-Unicode,http://www.harley-davidson.com/content/h-d/en_US/footer/utility/privacy-policy.html,2,3,3,2,3,3,2,3,2,2
+Enbridge Inc,Y-Unicode,http://www.enbridge.com/PrivacyPolicy.aspx,2,3,3,2,3,3,1,2,2,2
+"TC PipeLines, LP",Y-Unicode,http://www.tcpipelineslp.com/your-privacy.html,2,3,3,2,3,3,2,2,2,2
+Buckeye Partners L.P.,Y-Unicode,http://www.buckeye.com/Inicio/tabid/133/ctl/Privacy/language/en-US/Default.aspx,2,3,3,2,3,3,2,2,2,2
+Enterprise Products Partners L.P.,Y-Unicode,http://www.enterpriseproducts.com/misc/privacyPolicy.shtm,2,3,3,2,3,3,2,2,2,2
+Daily Journal Corp. (S.C.),delete,http://www.dailyjournal.com/public/DJC%20Website%20Privacy%20Policy.htm,2,3,3,3,3,3,2,2,2,2
+"Herman Miller, Inc.",delete,http://www.hermanmiller.com/about-us/who-is-herman-miller/legal/privacy-policy.html,2,3,3,2,3,3,1,2,2,2
+"Diebold, Incorporated",Y-Unicode,http://www.diebold.com/privacy-policy,2,3,3,2,3,3,2,2,2,2
+Par Petroleum Corporation,Y-Unicode,http://www.parpacific.com/profiles/main/Disclaimer.asp?BzID=2193,2,3,3,3,3,2,2,1,1,1
+"Patterson-UTI Energy, Inc.",Y-Unicode,http://www.patenergy.com/privacy/,2,3,3,3,3,3,2,1,1,1
+"Expeditors International of Washington, Inc.",Y-Unicode,http://www.expeditors.com/privacy/index.asp,2,3,3,3,3,2,2,1,2,1
+"AGL Resources, Inc.",Y-Unicode,http://www.aglresources.com/universal/privacy_policy.aspx,2,3,3,3,3,2,2,1,1,2
+"Superior Energy Services, Inc.",Y-Unicode,http://www.superiorenergy.com/privacy/index.asp,2,3,3,3,3,3,2,1,2,1
+"National Presto Industries, Inc.",delete,http://www.gopresto.com/information/privacy.php,2,2,3,3,3,2,1,1,2,1
+"Team, Inc.",Y-Unicode,http://www.teamindustrialservices.com/privacy-policy,2,2,3,2,3,2,2,1,1,2
+Outerwall Inc.,delete,http://www.outerwall.com/privacy,1,3,3,1,1,2,2,2,2,2
+Aceto Corporation,Y-Unicode,http://www.aceto.com/privacypolicy.html,2,3,3,3,3,2,2,2,1,2
+AmerisourceBergen Corporation (Holding Co),Y-Unicode,http://www.amerisourcebergen.com/abcnew/privacy-policy.aspx,2,3,2,2,3,3,1,1,1,1
+"Staples, Inc.",duplicate,http://www.staples.com/sbd/content/help-center/policies-and-legal.html#10008_2,1,2,2,1,1,3,2,2,2,1
+"Perfumania Holdings, Inc",Y-Unicode,http://www.perfumaniaholdings.com/privacy-policy,1,3,3,1,1,3,2,1,2,1
+Lancaster Colony Corporation,Y-Unicode,http://www.lancastercolony.com/privacy-policy,2,2,3,2,3,3,2,1,2,2
+Ferro Corporation,Y-Unicode,http://www.ferro.com/Privacy+Statement/,2,3,3,3,3,3,2,2,1,1
+"Myers Industries, Inc.",Y-Unicode,http://www.myersindustries.com/Privacy-Policy.aspx,2,3,3,3,3,3,2,1,1,1
+CECO Environmental Corp.,Y-Unicode,http://www.cecoenviro.com/privacy-policy,2,3,3,3,3,3,1,1,1,1
+UNITIL Corporation,Y-Unicode,http://unitil.com/privacy,2,2,2,2,2,1,1,2,1,2
+Pan American Silver Corp.,Y-Unicode,http://www.panamericansilver.com/legal-notice/,3,3,3,3,3,1,1,1,1,2
+"Kelly Services, Inc.",Y-Unicode,http://www.kellyservices.com/Global/Privacy_Statement/,1,1,1,1,1,1,1,3,2,2
+"RCM Technologies, Inc.",Y-Unicode,http://www.rcmt.com/About-RCM/Privacy-Policy.aspx,1,1,1,1,1,1,1,2,1,2
+"On Assignment, Inc.",Y-Unicode,http://www.onassignment.com/privacy-policy,2,2,2,2,2,1,1,2,2,2
+"Baldwin & Lyons, Inc.",Y-Unicode,http://www.baldwinandlyons.com/privacy-policy,1,1,1,1,1,1,1,1,1,1
+Cincinnati Financial Corporation,delete,https://www.cinfin.com/privacy-policy,2,2,2,2,2,3,1,1,1,2
+"Selective Insurance Group, Inc.",Y-Unicode,http://www.selective.com/privacy-policy.aspx,2,2,2,2,2,3,1,3,3,1
+EMC Insurance Group Inc.,Y-Unicode,http://www.emcins.com/Misc/Privacy_Policy.aspx,2,2,2,2,2,3,3,2,3,1
+"Donegal Group, Inc.",Y-Unicode,http://www.donegalgroup.com/privacy-statement,2,2,2,2,2,1,1,1,1,1
+Marriot Vacations Worldwide Corporation,Y-Unicode,http://www.marriottvacationsworldwide.com/privacy.shtml,2,2,3,1,2,3,1,2,2,2
+"Alexander & Baldwin Holdings, Inc.",Y-Unicode,http://alexanderbaldwin.com/disclaimer-and-privacy/,2,3,3,3,3,2,3,1,2,3
+Consolidated-Tomoka Land Co.,Y-Unicode,http://www.ctlc.com/privacy-statement/,2,3,3,2,3,3,2,2,2,2
+"Maui Land & Pineapple Company, Inc.",delete,http://www.admin.mauiland.com/about/privacy-policy-legal-notices,2,3,3,2,3,2,1,2,2,2
+"Cedar Realty Trust, Inc.",Y-Unicode,http://www.cedarrealtytrust.com/privacy.aspx,2,3,3,2,3,2,1,2,2,2
+Lamar Advertising Company,Y-Unicode,http://www.lamar.com/About/PrivacyPolicy,2,3,3,2,2,3,2,2,2,1
+Johnson Outdoors Inc.,Y-Unicode,http://www.johnsonoutdoors.com/corporate/contact/PrivacyPolicy.aspx,2,3,3,2,3,2,1,2,2,2
+"Bob Evans Farms, Inc.",Y-Unicode,https://www.bobevans.com/aboutus/privacy-and-legal,2,3,3,2,3,3,1,2,2,2
+"Cracker Barrel Old Country Store, Inc.",Y-Unicode,http://www.crackerbarrel.com/privacy-policy/,2,3,3,2,2,3,1,2,2,2
+Good Times Restaurants Inc.,Y-Unicode,http://goodtimesburgers.com/legal/,2,3,3,3,3,2,1,2,2,2
+Sonic Corp.,Y-Unicode,https://www.sonicdrivein.com/privacy,1,1,3,1,1,1,1,2,1,1
+Panera Bread Company,Y-Unicode,https://www.panerabread.com/en-us/company-information/privacy-policy.html,2,2,3,2,2,3,1,3,3,2
+Starbucks Corporation,Y-Unicode,http://www.starbucks.com/about-us/company-information/online-policies/privacy-policy,2,2,3,2,3,3,1,2,2,2
+Tech Data Corporation,duplicate,http://www.techdata.com/content/visitor/abouttd/privacy.aspx,2,2,2,3,2,2,1,1,1,2
+"Washington Federal, Inc.",delete,https://www.washingtonfederal.com/privacy-and-security,2,2,2,2,2,3,1,2,2,2
+"People&#39;s United Financial, Inc.",Y-Unicode,https://www.peoples.com/peoples/Privacy-Information,2,2,2,2,3,2,1,1,2,2
+HF Financial Corp.,Y-Unicode,https://www.homefederal.com/company_information/privacy_policy/,3,2,2,2,3,1,1,1,2,1
+"Sigma Designs, Inc.",Y-Unicode,http://www.sigmadesigns.com/privacy/,3,3,3,3,3,3,1,2,1,2
+"Maxim Integrated Products, Inc.",Y-Unicode,http://www.maximintegrated.com/en/aboutus/legal/privacy-policy.html,2,3,3,2,3,3,1,3,1,2
+Altera Corporation/Intel,Y-Unicode,https://www.altera.com/about/privacy.smartphone.highResolutionDisplay.html,2,2,3,2,3,3,2,2,1,2
+"Churchill Downs, Incorporated",Y-Unicode,http://www.churchilldownsincorporated.com/our_company/privacy_policy.html,2,3,3,3,3,3,1,2,2,1
+Sigma-Aldrich Corporation,Y-Unicode,http://www.sigmaaldrich.com/help-welcome/registration/privacy-policy.html,2,3,3,2,3,3,1,2,2,2
+CorVel Corp.,Y-Unicode,http://www.corvel.com/privacy-policy/,2,3,3,2,3,3,1,2,1,1
+Sprint Corporation,Y-Unicode,http://goodworks.sprint.com/people/customers/privacy?INTNAV=Footer:Privacy,2,3,3,3,3,3,2,2,2,2
+"XG Technology, Inc",Y-Unicode,http://www.xgtechnology.com/privacy-policy/,2,3,3,2,3,3,2,2,1,1
+Cablevision Systems Corporation,Y-Unicode,https://www.optimum.net/pages/PrivacyExisting.html,2,1,3,1,1,3,1,1,2,1
+TiVo Inc.,Y-Unicode,http://www.tivo.com/legal/privacy,2,3,3,2,2,3,2,2,3,2
+"Crown Media Holdings, Inc.",Y-Unicode,http://www.hallmarkchannel.com/privacy-policy,2,3,3,2,3,3,1,1,3,1
+Time Warner Inc.,Y-Unicode,http://www.timewarner.com/legal-and-privacy,1,3,3,1,3,3,1,2,1,2
+Walt Disney Company (The),Y-Unicode,https://disneyprivacycenter.com/,2,2,3,2,2,1,1,3,3,2
+Air Methods Corporation,Y-Unicode,http://www.airmethods.com/airmethods/other/hipaa-privacy-statement#.Ve-wjmTBzGc,2,3,3,3,3,2,3,1,1,1
+"Knight Transportation, Inc.",Y-Unicode,http://www.knighttrans.com/privacy.html,2,2,2,2,3,2,2,1,2,2
+Con-way Inc.,Y-Unicode,http://www.xpologistics.com/privacy-policy,2,2,3,2,2,3,2,2,2,2
+"United Parcel Service, Inc.",Y-Unicode,http://www.ups.com/content/us/en/resources/ship/terms/privacy.html?WT.svl=Footer,2,3,3,2,3,3,2,2,2,1
+GATX Corporation,Y-Unicode,http://www.gatx.com/wps/wcm/connect/gatx/gatx_site/privacy+policy,2,3,3,2,3,3,2,2,2,2
+"J.B. Hunt Transport Services, Inc.",Y-Unicode,http://www.jbhunt.com/privacy/,2,3,3,2,3,3,1,1,1,1
+Goldfield Corporation (The),Y-Unicode,http://www.goldfieldcorp.com/Privacy_Policy-25.asp,3,3,3,1,3,3,1,1,1,1
+"Grupo Aeroportuario del Sureste, S.A. de C.V.",Y-Unicode,http://www.asur.com.mx/en/globales/privacy-notice.html,2,3,3,2,3,2,1,2,1,1
+Grupo Aeroportuario del Centro Norte S.A.B. de C.V.,Y-Unicode,http://www.oma.aero/en/privacy/,2,3,3,2,3,2,1,2,2,2
+"American Airlines Group, Inc.",Y-Unicode,http://www.aa.com/i18n/footer/privacyPolicy.jsp?anchorEvent=false&from=footer,2,2,3,2,2,3,2,2,1,1
+FedEx Corporation,Y,http://www.fedex.com/us/security/privacy-policy-us.html,2,2,3,2,2,3,2,2,1,2
+DTE Energy Company,Y-Unicode,https://www2.dteenergy.com/wps/portal/dte/PrivacyPolicy/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKNLXz8wkxD_QNdgk0sDDzdvJxcDPw9jNy9TYAKIkEK_B2Dgk2ACkIMDFwNPIPCXAI8vC2M3X3NidNvgAM4GhDS76UflZ6TnwR0arh-FEQxHreAFeCxzM8jPzdVvyA3NKIyOCAdAODbiwU!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/,2,2,2,3,3,3,1,2,2,2
+Dynegy Inc.,Y-Unicode,http://www.dynegy.com/legal/privacy-policy,3,3,3,1,3,2,2,1,2,1
+,,,,,,,,,,,,
+,,,23,219,308,99,246,253,23,37,95,36
+,,,331,180,89,250,137,116,208,271,160,308
+,,,99,54,56,104,70,83,220,141,191,100

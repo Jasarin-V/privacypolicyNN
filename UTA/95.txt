@@ -1,0 +1,78 @@
+Privacy Policy
+
+Effective May 15, 2017
+
+We at PHH Corporation (referred to as “PHH”, “We”, “Us”, or “Our”) recognize the importance of protecting the privacy of certain information collected about the Users and visitors of Our website (referred to as “User”, “You”, or “Your”) located at www.phh.com (“Website”). This Privacy Policy discloses what information We gather, how We use it, and how to correct or change it. At PHH, it is Our intention to give You an understanding about how We collect Your information and the use We make of it in the course of Our business.
+
+PHH gathers two (2) types of information about You: (1) data, including non-public personally identifiable information (“PII”), that Users provide through optional, voluntary registration on Our Website; and (2) data that PHH gathers through aggregated tracking, mainly by tallying webpages that are viewed by Users throughout Our Website.
+
+However, be assured that PHH will not disclose PII to third parties without Your consent, except as (a) may be noted in this Privacy Policy, (b) disclosed to You when the information is submitted, or (c) as otherwise required or permitted by applicable law. For the purposes of this Privacy Policy, PII includes, without limitation, (a) Your email address, (b) Your first name, (c) Your last name, (d) Your social security number, and (e) Your loan number.
+
+
+How Does PHH Corporation Collect Information?
+Optional Registration: We collect information by specifically requesting it from You. Generally this occurs when You register at the Website or request information or a service. Usually, We and Our service partners use Your information to operate the Website and to deliver value-added services to You. Our Website also uses Your information to inform You about other products or services available from Us.
+
+AGGREGATED USAGE TRACKING
+
+Aggregated usage tracking is conducted through the use of Internet Protocol (“IP”) addresses and cookies, as described below. Such information enables Us to tailor Our content to fit the needs of Our customers better and to help understand Our audience.
+
+Use of Tracking; Use of IP Addresses:
+
+An IP address is a unique number that is automatically assigned to Your computer whenever You are surfing the Internet so that Your computer can be identified by the main computers, known as “Web servers,” that “serve up” or display webpages. This allows Us to identify and gather general information and data about You, such as the webpages You view.
+
+PHH collects IP addresses for the purposes of system administration, to report on aggregated information, and to audit the use of Our site. Aggregated information is intended for PHH internal use only, and is part of Our performance tracking and diagnostic processes. When customers request pages from PHH, Our servers log the customers’ IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a customer’s session will be logged, but the customer will remain anonymous to Us. We can, and will, use IP addresses to identify You when We feel it is necessary to enforce compliance with Our Website Terms of Use Policy or to protect Our service, Website, Users, or others.
+
+Use Of Cookies:
+
+What are cookies? Cookies are small pieces of information that a Web site sends to Your computer for record-keeping purposes, which information is stored in a file on Your computer’s hard drive. Cookies make web surfing easier for You by saving Your preferences so that We can use the saved information to facilitate Your use of Our Website when You return to the Website. Cookies do not tell Us Your individual identity unless You have chosen to provide it to Us. The use of cookies is an industry standard, and as such, You will find that most major websites use them.
+
+By showing how and when Users use the Website, cookies help Us see which areas of the Website are popular and which are not. Many improvements and updates to the Website are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies.
+
+Most cookies expire after a defined period of time, or You can delete Your cookie file at any time. Most web browsers are initially set up to accept cookies. You can reset Your Web browser to refuse cookies or to indicate when a cookie is being sent. However, note that some parts of the Website will not function properly or may be considerably slower if You refuse cookies. For example, without cookies, You will not be able to set personalized preferences, and/or may have difficulty completing marketing transactions.
+
+You may occasionally get cookies from Our business partners. PHH does not control these cookies. The use of advertising cookies sent by such third party web servers is standard in the Internet industry.
+
+DISCLOSURE FOR CALIFORNIA USERS: PHH AND OTHER PARTIES NOT AFFILIATED WITH US MAY COLLECT PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOUR ONLINE ACTIVITIES OVER TIME AND ACROSS DIFFERENT WEBSITES WHEN YOU USE OUR WEBSITE OR THE SERVICES OFFERED ON OUR WEBSITE. WE DO NOT HAVE ANY PROTOCOL THAT OFFERS YOU THE CHOICE TO OPT-OUT OF INTERNET TRACKING. YOU MAY RESET YOUR WEB BROWSER TO DISABLE DO NOT TRACK SIGNALS IF YOUR WEB BROWSER SUPPORTS SUCH FUNCTIONALITY. IF YOU HAVE ANY QUESTIONS REGARDING OUR INTERNET TRACKING METHODS PLEASE EMAIL US AT digitalmedia@mortgagefamily.com.
+
+ 
+
+With Whom Does PHH Share Information?
+
+As a visitor and User of Our Website, We will not share any of Your PII with anyone outside of Our company except: (1) at Your direction and with Your consent; (2) on a “need to know” basis, as necessary under the agreements with Our vendors to perform the services as contracted by You; (3) to communicate with You about products and services, update You on new services and benefits, or to provide You with personalized promotional offers; or (4) as required or permitted by law. You may elect not to receive updates or other communications from Us by emailing Us at digitalmedia@mortgagefamily.com.
+
+Other: PHH may also disclose account information in special cases when We have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Our Terms of Use Policy, or may be causing injury to or interference (either intentionally or unintentionally) with any of PHH’s rights or property, other users, or anyone else. PHH may disclose or access account information when We believe in good faith that the law requires it and for administrative and other purposes that We deem necessary to maintain, service, and improve Our products and services.
+
+ 
+
+How Can You Control The Usage Of Information?
+
+In case You change Your mind or some PII changes (such as Your zip code or e-mail address), We will try to provide a way to correct, update or remove the PII that You give us. We also give You the opportunity to control the communications We direct to You. If a User wishes to update PII or objects to any usage provided herein for any reason, he/she may e-mail the requested change to: digitalmedia@mortgagefamily.com.
+
+ 
+
+What Happens When You Link To A Third Party Site?
+
+You should be aware that when You are on PHH’s Website You can hyperlink, or be directed to, other websites that are beyond Our control and/or outside Our service. For example, if You “click” on a banner advertisement, the “click” may transfer You off Our Website. These other websites may include sites of advertisers, sponsors, and partners that may use PHH’s logo as part of a co-branding agreement. These other websites may send their own cookies to Users, collect data, or solicit Information.
+
+PHH does not control such websites, and, therefore, is not responsible for their contents or the hyperlinks or advertising they choose to place on such websites. PHH’s inclusion of hyperlinks to these websites does not imply any endorsement of the material on such websites or any association or sponsorship with their operators. Our Privacy Policy does not extend to anything that is inherent in the operation of the Internet, which is beyond PHH’s control.
+
+Please keep in mind that whenever You give out information online (for example, via message boards, chats, or other forums) that information can be collected and used by people You do not know. While PHH strives to protect Users’ information and privacy, We cannot guarantee the security of any information You disclose online, and You disclose such information at Your own risk.
+
+ 
+
+
+Is Information Secure From Others Using THE PHH Website?
+
+The security of all information associated with Our Users is an important concern to Us. We exercise care in providing secure transmission of Your information from Your computer to Our servers. PHH uses industry standard efforts to safeguard the confidentiality of Your information. By way of example, PHH has developed a “default deny” network security strategy utilizing multiple layers of security including routers, multiple firewalls, a demilitarized zone (“DMZ”) hosting all web services with all data maintained safely on secured internal networks that is dynamically retrieved only through authorized proxy services. All Internet based communications with Us have been designed to protect the information sent to and from Our Website from unauthorized access or interception using Secure Sockets Layer (“SSL”) protocols on all webpages where any PII is provided or displayed. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while We strive to protect Your information, PHH can’t ensure or warrant the security of any information You transmit to Us or from Our online products or services, and You do so at Your own risk
+
+ 
+
+YOUR ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY
+
+By using Our Website, You signify Your agreement to PHH’s Privacy Policy. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. We reserve the right to modify this Privacy Policy at any time without notice to You. Your continued use of PHH’s Website following the posting of changes to these terms will mean You accept those changes.
+
+ 
+
+CONTACTING US
+
+We value Your opinions and suggestions. Please email Us with any questions or concerns at digitalmedia@mortgagefamily.com.

@@ -1,0 +1,124 @@
+Privacy Policy
+CONMED Corporation
+
+Website Privacy Policy
+
+EFFECTIVE DATE: June 28th, 2018
+
+The Information We Collect About You
+How We Use Your Information
+How We We Share Your Information
+International Transfers of Information
+Our Use of Cookies and Other Tracking Mechanisms
+Interest-Based Advertising
+Third-Party Links
+Security of My Personal Information
+Right to Access My Personal Information
+Marketing Choices
+Children
+Contact Us
+Changes to this Policy
+
+
+CONMED Corporation (“CONMED” “us,” or “we”) values your privacy.  In this Privacy Policy (“Policy”), we describe how we as data controller collect, use, and disclose information that we obtain about visitors to our website www.conmed.com (the “Site”) and the services available through our Site (collectively, the “Services”).
+
+By visiting the Site or using any of our Services, you agree that your information will be handled as described in this Policy. Your use of our Site, or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service, which is incorporated by reference into this Policy and includes applicable limitations on damages and the resolution of disputes.
+
+The Information We Collect About You
+
+We may collect information about you directly from you and from third parties, as well as automatically through your use of our Site or Services.
+
+Information We Collect Directly From You. You may browse our Site without registering.  However, to access certain features and view or download certain content, you may be asked to provide your name, email, other contact information, country, and other demographic information.   In addition, if you submit a “Contact Us,” “Complaint” or other form through the Site, we collect information about you and the reason you are submitting the form, including name, email, other contact information, facility, title, and other relevant information. We will indicate to you whenever it is mandatory to provide information; failure to provide mandatory information may mean that we are not able to fulfill your request or answer your complaint. We may also from time to time ask users to participate in surveys; participation is totally optional.
+
+Information We Collect Automatically. We automatically collect information about your use of our Site and Services through cookies, web beacons, and other technologies. We may combine this information with other information we collect about you. Please see the section “Cookies and Other Tracking Mechanisms” below and our Cookies Policy for more information.  For example, we may collect your domain name; your browser type and operating system type, name and version; web pages you view; links you click; your IP address (including location information); the length of time you visit our Site and use our Services; the content you download; and the referring URL, or the webpage that led you to our Site. Information we collect automatically may be linked with the information that we collect directly from you for the purposes described in this Privacy Policy.
+
+How We Use Your Information
+
+We use your information, including your personal information, for the following purposes:
+
+To respond to your requests and inquiries, to communicate with you about your use of our Site and Services, and for other customer service purposes.
+To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site or our Services.
+For marketing and promotional purposes. For example, we may use your information, such as your email address, to send you news and newsletters, promotions, or to otherwise contact you about products or information we think may interest you; if required by applicable law, we will send you marketing and promotional communications only upon your request or with your consent. 
+To determine the relative level of your use of the Site and Services.
+To better understand how users access and use our Site and Services, both on an aggregated and individualized basis, in order to improve our Site and Services and respond to user desires and preferences.
+To administer surveys and questionnaires.
+To comply with applicable legal or contract obligations, including responding to a subpoena or court order, producing evidence in court or another tribunal or conducting internal investigations.
+To protect our own rights and interests, such as to resolve any disputes, enforce our Terms of Service, or protect our intellectual and other property.
+ 
+
+When personal information that has been collected is to be used for a purpose not previously identified, we will identify the new purpose and obtain your consent before using the information for that purpose, unless the use is authorized or required by law.
+
+How We Share Your Information
+
+We may share your information, including personal information, as follows:
+
+Affiliates. We share information we collect from you with other CONMED group companies for the purposes described in this Privacy Policy; however, if we do so, their use and disclosure of your personally identifiable information will be subject to this Policy.
+Service Providers. We may disclose the information we collect from you to distributors of CONMED products, as well as to third party vendors, service providers, contractors or agents who perform functions on our behalf, for the purposes described in this Privacy Policy.
+Business Transfers. If we are acquired by or merge with another company, if any of our assets are acquired, or in the event of a merger or bankruptcy, your personal information could be one of the assets transferred. We also may disclose your information to a potential purchaser/acquirer or its advisors as part of their review of the acquisition or potential acquisition, as well as to facilitate the acquisition transaction and/or to ensure continuity in the services provided to you;
+In Response to Legal Process. We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, subpoena, court order, or other legal process, to the extent permitted under applicable law.
+To Protect Us and Others. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which CONMED is involved.
+Aggregate and De-Identified Information. We may share with third parties irrevocably anonymized information about users for marketing, advertising, research or similar purposes.
+ 
+
+International Transfers of Information
+
+CONMED is headquartered in the United States, and has affiliates, subsidiaries and service providers in the United States and worldwide.  As such, your information may be transferred to and processed in the United States and in other jurisdictions that do not have equivalent data protection as your home jurisdiction, and the governments, courts or law enforcement or regulatory agencies in those jurisdictions may be able to obtain disclosure of that personal information through the laws of the foreign jurisdiction. In accordance with local laws, we will take steps to ensure that wherever your personal information is stored, processed or transferred, it receives an adequate level of protection as required by applicable law, such as through the use of the EU standard contractual clauses approved by the European Commission, relevant national equivalents outside the EU, or other safeguards as permissible.  
+
+Our Use of Cookies and Other Tracking Mechanisms
+
+We and our third-party service providers use cookies and other tracking mechanisms to track information about your use of our Site and Services. We may combine this information with other personal information we collect from you.
+
+Cookies.  Cookies are small text files that are placed on your computer or mobile device by websites that you visit. Some cookies allow us to make it easier for you to navigate our Site and Services, while others are used to enable a faster log-in process or to allow us to track your activities at our Site and Service. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to control cookies through that browser. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function. [For more information about the types of cookies our Site uses, please review our Cookies Policy.
+
+Clear GIFs, pixel tags and other technologies. Clear GIFs (a.k.a. tracker gifs, beacons, web bugs or pixel tags) are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs to, among other things, track the activities of Site visitors and users, help us manage content, and compile statistics about Site usage. We and our third-party service providers also use clear GIFs in HTML emails to our customers, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
+
+Third Party Analytics. We use automated devices and applications, such as Sitecore analytics cookie, to evaluate usage of our Site. We also may use other analytic means to evaluate our Services. We use these tools to help us improve our Services, performance and user experiences. These entities may use cookies and other tracking technologies to perform their services.  We do not share your personal information with these third parties.
+
+Do Not Track. Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies).
+
+Interest-Based Advertising
+
+We may work with third parties such as ad network operators, who assist us and others in displaying advertisements on third party websites and evaluating the success of our advertising campaigns. These third parties may display advertisements based on your visits to our Sites as well as other websites, in order to show you more relevant ads for products and services you might be interested. These third parties’ practices are governed by their own privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Sites, as well as other aggregate or non-personally identifiable information We do not share your personal information with these third parties.
+
+You may get more information about targeted advertising, as well as opt-out of receiving targeted ads from many third-party ad networks through the following:
+
+For U.S. Users: 
+
+www.networkadvertising.org/optout_nonppii.asp  (Network Advertising Initiative)
+www.aboutads.info/choices (Digital Advertising Alliance)
+For users in the European Union:
+
+www.youronlinechoices.eu (European Interactive Digital Advertising Alliance)
+Please note that opting out of participating ad networks does not opt you out of being served advertising.  You will continue to receive generic or “contextual” ads on our website. You may also continue to receive targeted ads on other websites, from companies that do not participate in the above programs.
+
+ 
+
+Third-Party Links
+
+Our Site and Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third-party websites. We are not responsible for the information practices of such third-party websites.
+
+Security of My Personal Information
+
+We have implemented reasonable safeguards to protect the information we collect, and we will take reasonable steps, through contractual or other reasonable means, to ensure that a comparable level of protection is implemented by our suppliers and agents. Please be aware, however, that no data security measures can guarantee 100% security.
+
+Right to Access My Personal Information
+
+You may access the personal information that you have submitted to us, and request that we update or correct information that is inaccurate or incomplete by. Please note that we may maintain a copy of any personal information that you have updated for a period of time as part of our backups and business records.
+
+EU users have additional rights in respect of their personal information; for example, to access, block or erase their personal information, obtain a copy of their personal information, object to our use of it, or revoke consent to our processing.  If these rights apply to you, and you would like to exercise them, please contact us using details set out below under “Contact Us”. 
+
+Marketing Choices
+
+If required by applicable law, we will send you marketing and promotional communications only upon your request or with your consent. Otherwise, we may send periodic promotional or informational emails to you. You may opt-out of promotional communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving promotional emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us.
+
+Children
+
+Our Services are not designed for minor persons (such as children under the age of majority). If we discover that a minor has provided us with personal information, we will delete such information from our systems.
+
+Contact Us
+
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at customerservice@conmed.com. 
+
+Changes to this Policy
+
+This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.

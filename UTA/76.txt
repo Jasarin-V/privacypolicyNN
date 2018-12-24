@@ -1,0 +1,132 @@
+Privacy Policy
+Last updated: May 2018
+
+1. Overview
+
+CryoLife, Inc. and its subsidiaries, including JOTEC GmbH and On-X Life Technologies, Inc. (collectively, “CryoLife,” “we,” or “us”), are dedicated to a mission of restoring patients’ health and quality of life by delivering innovative technologies. In pursuit of this mission, CryoLife inevitably processes personal data of individuals. We take our obligations to safeguard this personal data seriously.
+
+This Privacy Notice explains our approach to processing personal data with respect to individuals who visit this website.
+
+2. What is “personal data”?
+
+“Personal data” means information that you provide to us either directly or indirectly that, either on its own or together with other information, can identify you or make you identifiable. For example, personal data includes your name, your address, your telephone number, and your email address. Information that does not identify you or make you identifiable is not personal data.
+
+3. How does CryoLife process my personal data?
+
+We collect or “process” personal data on our website both automatically and when you voluntarily submit information to us directly. We only process this personal data for the purposes described in this Privacy Notice or as otherwise permitted or required by applicable law. We will never sell this personal data to any third parties.
+
+3.1 Web Protocols
+
+When you visit our website, we may automatically collect certain information about you from your web browser for technical reasons. This information may include the following:
+
+The type of web browser that you are using;
+The name of the domain from which you access the internet;
+The internet address of the website from which you linked directly to our site;
+The date and time you accessed our site;
+The pages you visited on our site; and
+Information that has been de-identified.
+We process this information for statistical purposes as well as for optimizing our marketing endeavors, our website’s content, and our website’s layout. The legal basis for this processing is our legitimate interests in ensuring the proper functioning of our website and to improve our website services. We may also process your web server information in cooperation with your internet service provider or local authorities in the event of misuse to investigate and identify the cause of this misuse. The legal basis for this processing is our legitimate interests in protecting our website, our system, and our users.
+
+3.2 Contact Forms
+
+You can send us information about yourself through various forms on our website, like “Customer Service” or “Like to Know More?” forms. We only process this personal data for the purpose of corresponding with you. The legal basis for such processing is the provisioning of our website services to you.
+
+The personal data that we collect if you fill out such contact forms may include for example:
+
+Your name
+Address
+Email address
+Phone number
+Hospital or business name
+Other personal data included in the communication
+3.3 “Submit Your Story”
+
+You can send us your healthcare story on our website through “Submit Your Story.” We only process this personal data for the purpose of corresponding with you and for sharing your healthcare story for marketing purposes. The legal basis for this processing is your consent.
+
+The personal data that we collect through “Submit Your Story” may include:
+
+Your name
+Email address
+Phone number
+Your healthcare story
+Other personal data included in the communication
+You may withdraw your consent to our use of your story at any time on a going forward basis.
+
+3.4 Newsletter
+
+You can subscribe to our newsletter by providing your consent and information about yourself. We only process this personal data for the purpose of sending you our newsletter. The legal basis for this processing is your consent.
+
+The personal data that we collect if you register for our newsletter may include:
+
+Your name
+Email address
+You may withdraw your consent to receive our newsletter at any time on a going forward basis.
+
+3.5 Physician Finder
+
+You can participate in our physician finder service by providing your consent and information about yourself. We only process this personal data for the purpose of communicating with you and assisting potential patients with finding a physician. The legal basis for this processing is your consent.
+
+The personal data that we collect if you register for our newsletter may include:
+
+Your name
+Address
+Email address
+Phone number
+Surgical procedures information
+You may withdraw your consent to receive our newsletter at any time on a going forward basis.
+
+3.6 Cookies
+
+We, along with third parties who support our website, may collect certain personal data from you automatically by using various technologies commonly referred to as “cookies.” Cookies are small pieces of data that are sent to and stored on your computer through your web browser. We may use cookies for the necessary operation of our website, to assess the performance of our website, to enhance the functionality of our website for you, and to deliver content, including ads relevant to your interests, on our sites or on third party sites. The information that we collect using cookies is personal data that does not directly identify you.
+
+You are always free to decline our cookies if your web browser allows you to decline cookies, but some parts of our website may not work properly if you do so.
+
+The legal bases for this processing is the provisioning of our website and other services to you and our legitimate interests in marketing our products and enhancing our website experience.
+
+4. How long does CryoLife store my personal data?
+
+We will only store your personal data for as long as necessary to fulfill the purpose for which we collected your data or, where applicable law permits or requires a longer retention period, for the duration of that retention period. After that, we will delete your personal data.
+
+5. Does CryoLife share my personal data with others?
+
+We may share your personal data with our vendors who are acting as data processors on our behalf for the purposes described in this Privacy Notice. For example, we may use vendors to help us maintain this website. Any vendor that we retain must follow our data protection requirements, and they are not allowed to use your personal data for any other purpose. We may also share your personal data to comply with a legal obligation or for a legitimate interest under applicable law.
+
+6. I live in the EU; will CryoLife ever transfer my personal data outside the EU?
+
+We may transfer personal data described in this Privacy Notice to a country outside the EU. We will only do so, however, if the EU Commission has determined that this other country’s laws provide an adequate level of data protection or if we have otherwise provided appropriate safeguards, such as entering into an agreement with the recipient that includes the standard data protection clauses adopted by the EU Commission.
+
+7. I live in the EU; what are my rights under the GDPR?
+
+If you live in the EU, the General Data Protection Regulation (“GDPR”) gives you certain rights with respect to your personal data. Depending on how and why we collected your data, you could have the following rights:
+
+Right of access: You have the right to obtain from us access to your personal data.
+
+Right to rectification: You have the right to obtain from us rectification of inaccurate personal data about you.
+
+Right to erasure or restriction: You could have the right to obtain from us the erasure or restriction of processing of your personal data if, for example, there is no longer a legitimate purpose for processing the personal data and storage of the personal data is no longer required by law.
+
+Right to data portability: You could have the right to receive your personal data in a structured, commonly used, and machine-readable format or to transmit this personal data to another party.
+
+Right to object: To the extent we process your personal data on the legal basis of our legitimate interests, you may object to our processing at any time. We have given a detailed description of our processing activities and the legal basis for each above. If you object, we will no longer process your personal data unless there are compelling and prevailing legitimate grounds for the processing or the personal data is necessary for the establishment, exercise, or defense of a legal claim. If you object to such processing, please state the grounds of your objection so that we can examine the processing of your personal data and decide whether to adjust our processing accordingly.
+
+Right to withdraw your consent: If you provided consent before we collected your personal data, you have the right to withdraw your consent, understanding that this withdrawal does not affect the lawfulness of any processing undertaken before you withdrew your consent.
+
+Right to file a complaint: You have a right to file a complaint with the data protection supervising authority.
+
+8. Who can I contact about this Privacy Notice?
+
+If you have a question, concern, or request regarding your personal data, please contact CryoLife’s data protection officer at privacy[@]cryolife.com. Please note that we may ask you to verify your identity before we can act upon your request.
+
+9. What about website security?
+
+We take reasonable steps to protect your personal data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please keep in mind, however, that no internet transmission is ever completely secure or error-free. In particular, email sent to our website may not be secure.
+
+10. What about privacy on other sites?
+
+Our website contains links to websites that are not operated by CryoLife. This Privacy Notice does not apply to these websites. We provide these links for your convenience, but we do not review, control, or monitor the privacy practices of websites operated by others. CryoLife is not responsible for the performance of these sites or for your business dealings with them. Your use of any other websites is subject to the terms and conditions of those websites, including the privacy policies of those websites.
+
+11. Will CryoLife make changes to this Privacy Notice?
+
+CryoLife may change this Privacy Notice from time to time. We encourage you to review this Privacy Notice each time you visit the website or provide any personal data.
+
+Last updated: May 2018

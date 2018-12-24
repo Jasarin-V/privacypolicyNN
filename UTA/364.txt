@@ -1,0 +1,45 @@
+Enzo Biochem, Inc. (“Enzo”) respects individual privacy and values the confidence of its customers, partners, investors and employees.
+
+This Privacy Policy sets forth Enzo’s practices regarding the collection, use and disclosure of information that you may provide through this site. Please read this entire privacy policy before using this site or submitting information to Enzo through this site.
+ 
+DATA COLLECTION:
+Enzo only collects personally identifiable data such as your name, address, telephone number and email address when you voluntarily submit it to Enzo. This information may be used by Enzo personnel as a means to contact you to obtain more information, to improve this site, or it might be used to provide you with information that you have requested or additional information which Enzo believes may be of interest to you. The data will not be transferred outside the company without your prior consent, but may be used within Enzo or by a company acting as an agent of Enzo for processing and mailing purposes. Enzo may also use this information within the company for performing marketing studies or for other commercial purposes for which it may receive compensation.
+
+Enzo maintains the data collected in an electronic database of voluntarily submitted personally identifiable information. Enzo and its agents may exchange such information with each other or with you over the internet or intranet systems for the purposes of carrying out the services described above.
+
+While Enzo makes every reasonable effort to protect the information collected through its websites, please be aware that there is always some risk involved when submitting data over the Internet. We cannot guarantee that our website is 100% safe from illegal tampering or “hacking.’ Any data transmitted over the Internet may be at risk; however, once it is received at Enzo and entered into its database, it has the same protection that Enzo extends to its own confidential information.
+
+We track the total number of visitors to our website, the number of visitors to each page of the website, and the domain names of our visitors’ Internet service providers. No personally identifiable information is gathered in this process.
+ 
+UPDATING YOUR INFORMATION:
+If at any time you wish to stop receiving emails or other communications from us, or if you have submitted personally identifiable information through our website and would like to have that information deleted from our records, please notify us. You may also request access to personal data about you that Enzo holds and you may have the opportunity to request a correction or amendment to your personal data. As a reminder to you when exchanging emails, any email that you send or receive on your employer’s email system may be the property of your employer. Consequently, your employer has the ability to review your personal information sent via email.
+ 
+
+LINKS TO THIRD PARTY SITES:
+As a convenience to our visitors, our sites currently contain links to a number of other (non-Enzo) sites that we believe may offer useful information. The privacy policy presented here does not apply to those sites. You should contact these sites directly for information on their privacy policies, confidentiality agreements and data collection/distribution procedures.
+ 
+CHILDREN’S POLICY:
+Our website is not intended or designed to attract children under the age of 13. We do not collect personal information from any person we actually know is a child under the age of 13.
+
+COOKIES:
+A cookie is a small text file containing a unique identification number that a website sends to your computer’s web browser. While you visit a particular site, a cookie may be used to track the activities of your browser as well as provide you with a consistent, more efficient experience. There are two common types of cookies: persistent and non-persistent.
+ 
+PERSISTENT COOKIES:
+Persistent cookies are stored on your computer’s hard drive where they remain resident until they are either deleted or they reach a predetermined expiration date. Persistent cookies are most commonly used to provide visitors with a customized experience by recording preferences such as how a visitor prefers to have his/her web pages displayed. Additionally, cookies are commonly used to gather statistical information such as the average time spent on a particular page. This kind of information is valuable for several reasons, including providing insight on how to improve the design, content and navigation of a website.
+ 
+WHY WERE COOKIES CREATED?
+The World Wide Web uses the Hypertext Transfer Protocol (HTTP) to govern how files such as graphics, text and sound are exchanged over the Internet. This protocol treats every action (i.e. mouse clicks) independently making the nature of the Web ‘stateless’. This means that every time you click on a new page for instance, a new connection is established and all previous activity is forgotten.
+
+To provide visitors with a more uniform experience, cookies were used originally to maintain relevant information as visitors viewed various pages of a website. In effect, cookies were created to bring state and consistency to the ‘stateless’ environment of the Internet.
+ 
+HOW DO COOKIES WORK?
+The first time you visit a website, you may be sent a cookie that contains a unique identification number that can be easily retrieved during future visits. Cookies are used for different purposes such as to personalize the way you want a website to look.
+
+When you type the website address in the address bar of your browser, your browser will contact the site you have entered and request its home page. The browser will search your hard drive for a cookie that may have been sent during a previous visit. If a cookie is found, the browser will send any information gathered from a previous visit to the web server. If a cookie is not found, then the browser will know you have not visited the site before.
+The Enzo Biochem website uses persistent cookies to increase the robustness of user experience and to provide navigation that is more efficient. Cookies cannot view or retrieve data from other cookies, nor can they capture files and data stored on your computer.
+
+PRIVACY POLICY UPDATES:
+Any changes to the Enzo Internet privacy policy will be posted on this page.
+ 
+
+This privacy policy was last updated: 01/19/2005.

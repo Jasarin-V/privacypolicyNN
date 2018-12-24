@@ -1,0 +1,34 @@
+Privacy Policy
+(Updated December 12, 2007)
+GENERAL
+Reis Services, LLC (“Reis”) has created this privacy policy in order to demonstrate our firm commitment to the privacy of visitors to our website. Questions regarding Reis’s privacy policy should be directed to privacy@reis.com, or to Reis, Inc., 1185 Avenue of the Americas, 30th Floor, New York, NY 10036, Attn: Privacy/Legal.
+
+INFORMATION COLLECTED; METHODS
+The following discloses Reis’s information gathering and dissemination practices for this website (www.reis.com):
+
+Your internet protocol (IP) address may be used to help identify you and/or your purchases, and to provide you with customized or automated features.
+Our website uses cookies to keep track of your session information.
+Our website uses order forms for users to request information, products and/or services.
+We collect and store users’ contact information (such as their email addresses). Contact information from the order forms is used to send orders and/or confirmations to our users. A user’s contact information is also used to get in touch with the user when necessary.
+We collect users’ financial information (such as their account and/or credit card numbers), but do not store this information.
+Financial information that is collected is used to bill the user for products and services.
+When you enter sensitive information, including credit card numbers, in one of our order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, please visit www.verisign.com.
+
+Cookies are used on this website. A cookie is a small text file that is created for record-keeping purposes. We use both “session cookies” and “persistent cookies.” Session cookies maintain information about your current session; they make it easier for you to use our website and they permit specialized functionality. A session cookie is not stored on your computer’s hard drive and expires when you close your Internet browser.
+
+We also use persistent cookies, which remain on your computer’s hard drive for an extended period of time. A persistent cookie allows you to bypass the login requirement each time you access the website. You can remove persistent cookies by following the directions in your Internet browser’s “help” files. Additionally, we may use a persistent cookie to enable us to track and target the interests of our users to enhance the experience on our website. We do not store in persistent cookies any personally identifiable information you submit while on our website.
+
+Due to the functionality provided by our website, the use of cookies is required. If you reject cookies, our website will not perform properly.
+
+USE OF INFORMATION
+Any information collected by us is never sold, rented, loaned or otherwise distributed or transferred to any third party for any reason. A user’s contact information will be used (1) for the purpose of communicating with that user on order-related issues and (2) for occasionally contacting that user with important news regarding our website or the user’s account. In addition, users may sign up for email alerts through our website. We collect user search activity and email alert preferences for statistical, archival and business purposes. We collect financial information (such as billing address, credit card number and expiration date) for billing payment and credit card authorization purposes. However, such financial information is not retained at Reis; rather, it is immediately forwarded to our payment processor, as described below under “Payment/Credit Card Information.”
+
+Though Reis makes every effort to preserve user privacy, we may need to disclose personal information when required by law if we have a good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
+
+Please be aware that in the event that Reis merges with a third party, or in the event all or substantially all of Reis’s assets are acquired by a third party, user information, including personally identifiable information, will be shared and/or transferred to such third party. However, Reis will take reasonable steps to ensure that such information is used in a manner consistent with the Reis privacy policy under which it was collected.
+
+PAYMENT/CREDIT CARD INFORMATION
+When you enter your credit card information in one of our order forms, we encrypt that information using SSL, and provide it to our payment processor, PayPal. We do not retain any credit card information on our servers. To learn more about PayPal’s privacy policy, click on the “Privacy” link at www.paypal.com.
+
+CHANGES TO THIS PRIVACY POLICY
+We may amend this privacy policy from time to time as we add new products and services, as we improve our current offerings, and as technologies change. If we make any material or substantive changes in our treatment of information collected at this website (www.reis.com), we will notify you by posting a clear and conspicuous notice of these changes on our website and in this privacy policy.

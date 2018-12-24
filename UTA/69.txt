@@ -1,0 +1,107 @@
+Privacy Policy
+General
+We respect the privacy of every individual who visits this website and its sub-sites (together, the "Site") and are sensitive to privacy issues on the Internet.
+
+We believe it is important that you know how we treat the information we receive on the Internet about you. Therefore, this privacy policy outlines the information that we may collect from you and how we may use that information. We reserve the right to modify or amend this privacy policy in our sole discretion at any time without providing notice to you.
+
+For the purpose of the data privacy laws, the data controller is Coca-Cola Enterprises, Inc (CCE) on behalf of the CCE Group of companies. CCE can be contacted care of 2500 Windy Ridge Parkway?Atlanta, GA 30339, USA 678-260-3000.
+
+
+Personal Information
+You can visit our Site on the World Wide Web without telling us who you are or revealing any personal information about yourself. You are not required to disclose any personal data to use this site and we will not collect any such data from you, save as described below.
+
+In some cases, our web servers may automatically collect certain non-personal information about you when you connect or link to the Site. Examples of this type of non-personal information include the domain names, I.P. Addresses, the type of web browser you are using, and the type of computer operating system you are using. This information is aggregated to measure the number of visits, average time spent on the Site, pages viewed, and other similar information. We use this information to measure the use of the Site and to improve the content of the Site.
+
+There are times, however, when we may need information from you in order to communicate with you or to provide a service you have requested. This information may include your name, address, telephone number and e-mail address. We will not collect any such personal data from you unless you provide it voluntarily. Therefore, if you do not wish to provide us with your personal data, please do not submit it to us. When you provide us with personal data, we may use that information in the following ways: 
+
+we may use the information to respond to your inquiry, process your request or allow you to access specific account information; 
+we may store and process the data to better understand your needs and how we can improve our products and services; 
+we may transfer your personal data across country borders within our company; and/or 
+we may provide other third parties with aggregate, but not individual, data about visitors to, or users of, our Site. 
+
+Your personal data will be processed only for the purpose for which it was provided to us. CCE does not intend to market, sell or rent personal data about you to third parties.
+
+Your personal data will only be used by third parties where required to comply with the purpose for which you have provided it to us. For example, our Investor Relations email alerts are managed by Thomson Reuters, who will receive your personal data in order to process your request to receive mailings. The data will be used for the purposes for which it was provided only.
+
+
+Children
+We do not intend to collect any personal information from children under thirteen years of age. Where appropriate, we will explicitly instruct children not to provide such personal data on the Site and/or will take reasonable measures to obtain parental consent to such submission. We encourage parents to instruct their children to use their personal data in a safe and responsible manner while using the Internet.
+
+
+Communications
+CCE will only use the information you provide on the Site to contact you if this is what you have requested. CCE will only communicate with you for the purpose you have indicated. CCE will not use this information for any other purpose and will not communicate with you for any other reason, including direct marketing.
+
+
+Cookies
+The Site uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our Site.
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive.
+
+The cookies detailed below apply across all of the Site and the sub-sites (including careers.cokecce.com and ir.cokecce.com). Your preferences with respect to cookies will apply across all those cokecce.com sites you visit. Accordingly, any action you indicate with respect to our cookies toolbar will apply across all our sites.
+
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+Cookie name	Content	Expiry	Why We Use It
+pw_session	This cookie is used in to assign and store a user ID. The user ID is a randomly generated number that has no personally identifiable information.	Midnight 08 November 2012	This cookie is used to capture the following information and associate it to the user ID and store in the database
+
+Verify eligibility to enter the site (play the mobile game). The cookie registers the user’s acceptance that he/she is over 16 years and accepts the terms and conditions and privacy policy (a tick box on 1st screen). 
+To recognise users when they return to the site. People are limited to one session per day. To manage this and direct the user appropriately, we need cookies to register time/date of session last session.
+To save the vouchers the user has won so he/she can easily redeem them on subsequent visit. The cookie associates the user to all vouchers won and whether those vouchers are still valid, expired or have been redeemed. 
+No personal data is captured with these cookies.
+Analytical cookies
+
+Cookie name	Google Analytics	Content and purpose
+__utma	This keeps track of the number of times a visitor has been to the site, when their first visit was, and when their last visit occurred.
+__utmb	This cookie helps calculate how long a visit takes by collecting a timestamp of the exact moment in time when a visitor enters the site.
+__utmz	This keeps track of where the visitor came from, what search engine was used, what link was clicked on, what keywords used, and where in the world the site was accessed from.
+__utmc	This cookie helps calculate how long a visit takes by collecting a timestamp of the exact moment in time when a visitor leaves the site. It stays for 30 minutes for another page view to happen, and if it doesn't, it expires.
+ 
+
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. 
+
+To opt out of being tracked by Google Analytics across all websites visit http://tools.google.com/dlpage/gaoptout.
+
+
+How do we look after the information?
+CCE ensures that the data it holds is kept securely. We look after any information we collect about you in a number of ways. We will: 
+
+NOT share with, or sell your information to, any other company unless you tell us we can. 
+NEVER put information about you on our site that could let other people know where you live or exactly who you are.
+ONLY share information with our employees if they really need to have the information. 
+ALWAYS amend or remove any personal details that you give us for contacting you if you let us know, see 'How to contact us' below.
+
+We sometimes have to use other companies to help us set up, look after and hold this site. These companies have agreed to only use your information in the way we tell them and to have procedures in place to protect the information.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+
+Where is your data stored?
+Any data collected through your use of this Site is held by CCE in Atlanta, Georgia – USA. For the avoidance of doubt, the data CCE collects (without you volunteering it) is restricted to non-personal data (as described above). The data stored by CCE concerning the use of this Site is anonymous. 
+
+Please note that any data provided by you when signing-up for Investor Relations email alerts will be held by Thomson Reuters in [location, geography]. Thomson Reuters store this data securely and to the order of CCE. The terms of this privacy policy apply to this storage.
+
+Due to the location of these servers, any data that you provide us with and is collected from you will be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, marketing communications, content management and website development. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+CCE and Thomson Reuters abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU. For additional information regarding the Safe Harbor Program, see the U.S. Dept. of Commerce web site at http://www.export.gov/safeharbor. As both companies comply with the Safe Harbor Principles, CCE transfers of such data from EU countries to the United States meet the adequacy requirements of the EU Data Protection Directive. To view CCE's full Safe Harbor policy, please visit http://www.cokecce.com/system/file_resources/34/CCE_Safe_Harbor_Policy.pdf.
+
+
+Other Sites
+This Site contains several sub-sites. These sites include Investor Relations (ir.cokecce.com). This sub-site is managed on behalf of CCE by Thomson Reuters. Whilst this sub-site is subject to this privacy policy, webcasts accessed through Investor Relations are hosted outside of this Site on Thomson Reuters’ media centre. These webcasts require users to register. A separate privacy policy applies to the media centre. Please visit http://edge.media-server.com/m/player/help/privacy.php for details.
+
+This Site also links to CCE’s Careers site (careers.cokecce.com). This sub-site is also subject to its own privacy policy. Please visit http://careers.cokecce.com/en/support-pages/privacy/ for details.
+
+This Site may contain links to other websites. Whilst we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices of other sites. This privacy policy applies solely to information collected by this site. Due to the nature of the internet, CCE cannot guarantee the security of any information on or transmitted over the internet.
+
+
+Your rights
+Data privacy law gives you the right to access information held about you. Your right of access can be exercised in accordance with the applicable legislation. Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you.
+
+
+Changes to this policy
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back periodically to see changes and additions.
+
+
+How to contact us?
+If you have any questions about this site or our privacy policy, including cookie policy or, you can e-mail us at cookies@cokecce.com. You can also contact us through one of the mailing addresses found on the ‘Contact Us’ page of the Site -- http://www.cokecce.com/contact
+
+
+© Coca-Cola Enterprises, Inc. 2012

@@ -1,0 +1,186 @@
+MDC Partners Privacy Policy
+MDC Partners Privacy Policy
+
+Updated and effective as of June 14, 2018
+
+This privacy policy (the “Privacy Policy”) applies to the MDC Partners, Inc., (the “Company”, “us”, “our” or “we”) website, located at mdc-partners.com, and any other websites owned or operated by the Company (collectively, the “Website”).
+
+The purpose of this Privacy Policy is to disclose to you what information the Company may collect, how the Company may collect and use it, with whom the Company may share it, and certain other matters related to such information, including the choices you have regarding the Company’s collection of information and the Company’s use and disclosure to other parties of information the Company may have collected from you. It is important that you read this Privacy Policy together with any other privacy policy or fair processing notice we may provide on specific occasions when we are collecting or processing information about you so that you are fully aware of how and why we are using your information. This privacy policy supplements other policies and is not intended to override them.
+
+ACCEPTANCE / NOTIFICATION OF CHANGES TO THE PRIVACY POLICY
+
+By using the Website, you signify your agreement to the terms of this Privacy Policy. The Company may amend this Privacy Policy at any time. If the Company makes a material change to the way in which the Company collects, uses, and/or shares your personally identifiable information, the Company will post a notice on the Website and / or send an email to users who have provided an email address. The Company will assume that you have given your permission for your information to be used under the terms of the Privacy Policy, as modified, if you do not respond to the Company email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personally identifiable information to provide the Company with a current email address.
+
+TYPES OF INFORMATION THAT MAY BE COLLECTED
+
+Generally, you may provide us with personally identifying information through our contact pages, by registering an account with us, by email, by responding to our communications, by seeking employment with us, or some other means. Personally identifying information means information which identifies you as an individual, and may include your name, email address, telephone number, and similar information you provide.
+
+When you visit the Website, we may automatically collect certain non-identifying information about you, such as Internet Protocol (IP) address, the type of browser or device operating system you use, the domain name of the website from which you linked to us, the amount of time you spend on the Website, the pages on the Website that you view, clickstream data, downloads, anonymized demographic information such as age and gender, and other log file data and may aggregate information in a manner which does not identify any individual (“Aggregate Information”).
+
+Email Communications
+
+When you open emails from the Company, the Company may receive a confirmation notifying the Company that you opened the email, if your device supports such capabilities. The Company also may keep track of what emails the Company sends you and what emails you may be receiving from the Company’s subsidiaries and affiliates. Additionally, the Company keeps a record of what communications you have opted to receive or not to receive.
+
+HOW INFORMATION MAY BE COLLECTED
+
+The Company may collect information from you in several different areas on the Website, including but not limited to those described below:
+
+Registration
+
+You may be asked to complete an online registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer. Your decision to register is voluntary and you will have the opportunity to decide whether or not to disclose information to the Company.
+
+Cookies and Similar Technologies
+
+As with many websites, we may use “cookies” or similar types of files (such as clear gifs, web beacons, tags, and similar devices including devices that function in the mobile environment) for the purpose of facilitating and enhancing your communication and interaction with the Website. By accessing our Website you agree that we and certain third party business partners and service providers may use such cookies and similar technologies which may be used to identify your browser software used to visit the Website, and to analyze the traffic patterns on the Website. Cookies may also be used to understand how many people visit the Website and where visitors go on the Website, and the number times a user has been on certain pages. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help the Company determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. The cookies we use include session cookies, i.e., cookies that will persist only until you end your session on our Website, and persistent cookies, i.e., cookies that persist even after you end your session on our Website.
+
+We may also use and place cookies on your device from our third party service providers in connection with the Website, such as an analytics provider that helps us manage and analyze Website usage. An example of such third party is Google Analytics, which we use to collect and analyze demographic and other information, and through which Google will collect certain information to be used according to Google’s privacy practices. To opt-out of the use of Google Analytics, click here.
+
+If you do not want information collected through the use of cookies, you may stop or restrict the placement of cookies on your device or remove them from your browser by adjusting your web browser preferences. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+ 
+
+Cookie	Name	Purpose	More information*
+Google Analytics Session Tracking Cookie	__utma	Used to distinguish users and sessions.	https://developers.google.com/analytics/
+devguides/collection/gtagjs/cookie-usage
+Google Analytics Source Tracking Cookie	__utmz	Stores the traffic source or campaign that explains how the user reached your site.	https://developers.google.com/analytics/
+devguides/collection/gtagjs/cookie-usage
+Google Universal Analytics Identification Cookie
+ 
+
+_ga	This cookie is used to collect information about how visitors use the site. It distinguishes users by assigning a randomly generated number as a client identifier, so subsequent visits to the same site can be associated with the same user. By default, the expiration of this cookie is 2 years.	https://developers.google.com/analytics/
+devguides/collection/gtagjs/cookie-usage
+Google Universal Analytics Identification Cookie	_gid	This cookie is used to collect information about how visitors use the site. It distinguishes users by assigning a randomly generated number as a client identifier, so subsequent visits to the same site can be associated with the same user. By default, the expiration of this cookie is 24 hours.	https://developers.google.com/analytics/
+devguides/collection/gtagjs/cookie-usage
+ 
+
+ 
+
+Web Beacons and Other Tracking Technology.
+
+The Website may use a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of web sites. We also use these technical methods to analyze the traffic patterns on the Website, such as the frequency with which the Company users visit various parts of the Website. These technical methods may involve the transmission of information either directly to the Company or to another party authorized by the Company to collect information on the Company’s behalf. The Company also uses these technical methods in HTML e-mails that the Company sends the Company’s guests to determine whether the Company’s guests have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable.
+
+IP Addresses and Clickstream Data.
+
+The Company may collect IP addresses and/or clickstream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. At times, the Company also uses IP addresses for purposes of system administration and to report aggregate information, for example regarding the frequency with which the Company guests visit various parts of the Website. The Company may combine this information with personally identifiable information you provide or that the Company otherwise obtains from you directly on the Website.
+
+As you use the Internet, a trail of electronic information is left at each website you visit. This information, which is sometimes referred to as “clickstream data,” can be collected and stored by a website’s server. Clickstream data may include such information as the page served, the time, the source of the request, the type of device and browser software you use, the address of the website from which you linked to the Website, and other such non-personally identifiable information. When analyzed, this data helps the Company analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like. This information will be used to improve our Website and our services. Any collection or use of clickstream data will be anonymous, and will not intentionally contain any personally identifiable information.
+
+Surveys / Questionnaires / Contests.
+
+The Company may request information from users on the Website via surveys, questionnaires or contests. Participation in these surveys or contests is completely voluntary. You are not required to participate or disclose any information for a survey or contest. In cases where the Company uses a third party to conduct these surveys and contests, the third party may not use your personally identifiable information for any secondary purpose.
+
+HOW THE COMPANY USES THE INFORMATION COLLECTED
+
+The Company owns the information collected on or through the Website. As applicable, the information you provide to the Company, including your personally identifiable information, may be used to: contact you about the Website or the Company or its subsidiaries and affiliates; contact you relating to your registration status; monitor or improve the use of the Website; customize the content you see; monitor compliance with the Company’s terms and conditions of use of the Website; to operate the Website and provide you with information or services that you have requested e.g. a newsletter, bulletins; to add you to our mailing lists and to send you emails from time to time; to respond to specific queries you may raise regarding the Company and/or its affiliates; to process and consider your job application; to administer surveys, questionnaires, contest or similar promotions.
+
+Your personally identifiable information will not be used for third party marketing or commercial purposes, other than as set forth herein. We may, to the extent permitted by applicable law, retain the right to use and disclose Aggregate Information in any manner permitted by law.
+
+WITH WHOM THE INFORMATION MAY BE SHARED
+
+The Company may share your information, including your personally identifiable information, as described below:
+
+We may also share your information with the Company’s agents, vendors, or other entities or individuals that perform functions on the Company behalf (including, without limitation, sending e-mails, analysis of the Website, and analyzing data). These agents or vendors may have access to personally identifiable information needed to perform their functions, but may not use or disclose it for other purposes, like sending you marketing offers about their products.
+We may disclose your information as required by law or legal process.
+We may disclose your information to investigate suspected fraud, harassment or other violations of any law, rule or regulation, or the policies for the Website.
+We may transfer your information in connection with a bankruptcy proceeding or the sale, merger or change of control of Company or the division responsible for the services with which your information is associated.
+When you submit a resume or job application through our Website, we may share those documents and the information therein with our third party service providers that help us manage personnel matters. They may only access and use such records in connection with performing services for us. They are not authorized by us to use the information for their own benefit.
+Finally, please note that if you specifically consent to additional uses or disclosures of your information, either at the time the information is collected or through some other form of consent from you or notification to you, we may use or disclose your information in a manner consistent with that consent.
+
+GROUNDS FOR USING YOUR PERSONALLY IDENTIFIABLE INFORMATION
+
+We rely on the following legal bases to process your personally identifiable information:
+
+It may be necessary for us to use and disclose your personally identifiable information for the performance and fulfillment of the contract between us and to provide you with our services;
+We may use and disclose your personally identifiable information where it is necessary for our legitimate interests (or those of a third party) and your interest and fundamental rights do not override those interests;
+If you specifically consent to certain uses of your personally identifiable information, we may use your personally identifiable information in a manner consistent with that consent; and
+We will also process, transfer, disclose and preserve personally identifiable information when we have a good faith belief that doing so is necessary.
+YOUR CHOICES, RIGHTS AND OPT-OUT PROCESS
+
+To opt-out of future promotional emails from us, you should unsubscribe using the unsubscribe link included in the email. We will process your request within a reasonable time after receipt. However, we are not responsible for removing your personally identifiable information from the lists of any third party who has previously been provided with your information in accordance with this Privacy Policy or your consent.
+
+As noted above, you may opt-out of or restrict the placement of cookies on your device or remove them from your browser by adjusting your web browser preferences or device settings. To opt-out of the use of Google Analytics, click here.
+
+Subject to local law, you may also have certain rights regarding information that we have collected and that is related to you. If you are located in the European Union with rights under the General Data Protection Regulation (“GDPR”), you have the right to withdraw previously provided consent for our processing of your personally identifiable information by contacting us at mgendel@mdc-partners.com. Such individuals also have the following rights:
+
+o Right to access – This right allows individuals to obtain confirmation that his or her personally identifiable information is being process and allows individuals to request details of the processing of his or her personally identifiable information, including, without limitation, categories of recipients to whom the personally identifiable information have been or will be disclosed and purposes of processing.
+
+o Right to rectify – This right allows individuals to rectify any inaccurate personally identifiable information about him or her.
+
+o Right to restrict processing – This right allows individuals to block or suppress processing of personally identifiable information under certain circumstances.
+
+o Right to be forgotten – This right is also known as the “right to erasure.” It is an individual’s right to have personally identifiable information erased or to prevent processing in specific circumstances.
+
+o Right of data portability – This right allows individuals to move, copy or transfer personally identifiable information from one place to another in a secure manner without interrupting the integrity and usability of the information.
+
+o Right to object to processing – This right allows individuals to object to certain types of processing, including direct marketing, profiling and providing for purposes of scientific or historical research and statistics.
+
+To exercise any of the following rights, you may contact us at mgendel@mdc-partners.com.
+
+DO NOT TRACK
+
+Please note that we do not respond to or honor “do not track” (a/k/a/ DNT) signals or similar mechanisms transmitted by web browsers.
+
+LINKS TO OTHER WEBSITES
+
+You should be aware that when you are on the Website you could be directed to other websites beyond the Company control. These other websites may send their own cookies to you, independently collect data or solicit personally identifiable information and may or may not have their own published privacy policies. If you visit a website that is linked to the Website, you should consult that website’s privacy policy before providing any personally identifiable information.
+
+SECURITY
+
+The Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personally identifiable information that the Company may collect and the Company has put into place reasonable precautions to protect such information from loss, misuse and alteration. However, due to the inherent open nature of the Internet, Company cannot ensure or warrant the security of any information provided online. The Company’s security policies are reviewed periodically and revised as required (as determined by Company). We retain your personally identifiable information, if provided by you through the Website, for as long as your inquiry is active (as determined by us) and for a reasonable time thereafter, or if applicable, for as long as you remain on our marketing list. This may include, but is not limited to, retaining such information to comply with our legal obligations, to resolve disputes, and to enforce our agreements. Even if we delete some or all of your Personal Information, we may continue to retain and use Aggregate Information previously collected. Please note that we will not be liable for disclosures of your data due to errors or unauthorized acts of third parties.
+
+CHILDREN’S PRIVACY
+
+The Website is a general audience website and is not intended for children under the age of 13. On the Website, the Company does not knowingly collect information from children under the age of thirteen.
+
+QUESTIONS ABOUT THIS PRIVACY POLICY
+
+If you have any questions about this Privacy Policy or the privacy practices of this Website, please contact the Company by email at mgendel@mdc-partners.com or:
+
+The MDC Innovation Center
+
+745 5th Avenue, 19th Fl
+
+New York, NY 10151
+
+ 
+
+You may also request access to your personally identifiable information (if you have provided such information to us through the Website) and information about our collection, use and disclosure of that information by using the contact information provided above. You will be given reasonable access to your personally identifiable information, and may seek to challenge the accuracy and completeness of the information, and have it amended as is appropriate. You can help us maintain the accuracy of your information by notifying us of any changes to your personally identifiable information.
+
+If you are located in the European Union with rights under the GDPR and have any complaints regarding our privacy practices, you have the right to complain to a supervisory authority.
+
+TERMS OF USE
+
+Please also visit the Company’s Terms of Use, which explain other terms governing the use of the Website. Your use, or access, of the Website constitutes your agreement to be bound by these provisions. If you do not agree to these Terms of Use you may not access or otherwise use the Website.
+
+CROSS BORDER TRANSFERS
+
+By using the Website, you authorize the export of your information to the USA and its storage and use as specified in this policy. You understand that data stored in the USA may be subject to lawful requests by the courts or law enforcement authorities in the USA. You understand that data stored in the USA may be subject to lawful requests by the courts or law enforcement authorities in the USA. We may transfer personally identifiable information from the European Economic Area and Switzerland to the USA and other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. Personally identifiable information of individuals located in the European Union will be transferred in compliance with the requirements of the GDPR.
+
+ 
+
+ 
+
+cookie-policy
+COOKIE POLICY
+
+Last Updated and Effective as of: June 14, 2018
+
+Our Website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. BY CONTINUING TO BROWSE THE WEBSITE, YOU ARE AGREEING TO OUR USE OF COOKIES.
+
+As with many websites, we may use “cookies” for the purpose of facilitating and enhancing your communication and interaction with the Website. By accessing our Website you agree that we and certain third party business partners and service providers may use such cookies to identify the browser software used to visit the Website and to analyze the traffic patterns on the Website. Cookies may also be used to understand how many people visit the Website, where visitors go on the Website and the number times a user has been on certain pages. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help the Company determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. The cookies we use include session cookies, i.e., cookies that will persist only until you end your session on our Website, and persistent cookies, i.e., cookies that persist even after you end your session on our Website.
+
+We may also use and place cookies on your device from our third party service providers in connection with the Website, such as an analytics provider that helps us manage and analyze Website usage. An example of such third party is Google Analytics, which we use to collect and analyze demographic and other information, and through which Google will collect certain information to be used according to Google’s privacy practices. To opt-out of the use of Google Analytics, click here.
+
+If you do not want information collected through the use of cookies, you may stop or restrict the placement of cookies on your device or remove them from your browser by adjusting your web browser preferences. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+ 
+
+Cookie	Name	Purpose	More information*
+Google Analytics Session Tracking Cookie	__utma	Used to distinguish users and sessions.	https://developers.google.com/analytics/
+devguides/collection/gtagjs/cookie-usage
+Google Analytics Source Tracking Cookie	__utmz	Stores the traffic source or campaign that explains how the user reached your site.	https://developers.google.com/analytics/
+devguides/collection/gtagjs/cookie-usage
+Google Universal Analytics Identification Cookie	_ga	This cookie is used to collect information about how visitors use the site. It distinguishes users by assigning a randomly generated number as a client identifier, so subsequent visits to the same site can be associated with the same user. By default, the expiration of this cookie is 2 years.	https://developers.google.com/analytics/
+devguides/collection/gtagjs/cookie-usage
+Google Universal Analytics Identification Cookie	_gid	This cookie is used to collect information about how visitors use the site. It distinguishes users by assigning a randomly generated number as a client identifier, so subsequent visits to the same site can be associated with the same user. By default, the expiration of this cookie is 24 hours.	https://developers.google.com/analytics/
+devguides/collection/gtagjs/cookie-usage

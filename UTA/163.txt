@@ -1,0 +1,84 @@
+PRIVACY AND SECURITY
+
+Privacy
+Security
+Privacy Disclosure
+Download PDF here.
+
+YOUR PERSONAL INFORMATION IS SAFE WITH US
+
+First Bank is committed to protecting the privacy of both current and potential customers. Employee access to customer financial information is authorized for business purposes only. Our internal policies and training of employees has always stressed the importance of maintaining the confidentiality and integrity of your financial and personal information. Violation of the Bank's Code of Confidentiality will be addressed immediately by senior management and will result in disciplinary action, including termination under egregious circumstances.
+
+You provide important information about yourself to a variety of businesses and organizations. In fact, when you do business with our financial institution, you’re asked to provide us with personal information. This information is important because it helps us get a better picture of your needs, provide better service, and complete your transactions more effectively.
+
+We take every measure to safeguard the information you give us. We have no intention of selling that personal information to third-party businesses. The following policies outline how we use and safeguard the information you give us. For this reason, we ask you to please read them carefully.
+
+Notice of Your Financial Privacy Rights
+We, our, and us, when used in this notice, mean First Bank. This is our privacy notice for our customers. When we use the words “you” and “your” we mean the following types of customer: All of our consumer customers who have a continuing relationship with us, such as:
+
+Deposit account
+Loan account
+Safe deposit box
+Retail installment contract we hold and service
+Individual Retirement Account where we act as custodian
+We will tell you the sources for nonpublic personal information we collect on our customers. We will tell you the measures we take to secure that information.
+
+We first define some terms.
+
+Nonpublic personal information means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.
+
+An affiliate is a company we own or control, a company that owns or controls us, or a company that is owned or controlled by the same company that owns or controls us. Ownership does not mean complete ownership, but means owning enough to have control.
+
+A nonaffiliated third party is a company that is not an affiliate of ours.
+
+The Information That We Collect
+We collect nonpublic personal information about you from the following sources:
+
+Information we receive from you on applications or other forms
+Information about your transactions with us
+Information about your transactions with nonaffiliated third parties
+Information from a consumer reporting agency
+Information We Disclose About You
+We do NOT disclose any nonpublic personal information about you to anyone, except as permitted by law.
+
+THE CONFIDENTIALITY, SECURITY AND INTEGRITY OF YOUR NONPUBLIC PERSONAL INFORMATION
+
+We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
+
+Nonpublic Personal Information and Former Customers
+We do not disclose nonpublic personal information about former customers, except as permitted by law.
+
+Protect Yourself Against Identity Theft
+Identity theft is a serious crime. It occurs when your personal information is stolen and used without your knowledge to commit fraud or other crimes. The Federal Trade Commission offers services and programs to help protect your personal information and prevent identity theft. Go to http://ftc.gov/idtheft
+
+ONLINE BANKING SECURITY
+Browser Recommendations
+To ensure optimal security and access to all features in our online banking product, we recommend using one of the following browsers:
+•	Internet Explorer (IE) 11 & Microsoft Edge
+•	Firefox
+•	Safari Apple/Mac Users only
+•	Google Chrome
+
+How do I tell if the site I am on is secure?
+Once you get to the site, the Web address will begin with https: ("s" for secure).
+
+Each browser listed above has a visual method of identifying whether or not communication with a site is encrypted. For example, Internet Explorer has a “lock” icon that indicates the communication between this browser and the site is secured. Check with your browser FAQ page for further information on encryption notifications./p>
+
+About Security
+At First Bank, we recognize security concerns and we are serious about security issues. In addition to our high security standards offline, we incorporate many security tiers into the First Bank Internet Banking system. Every possible effort is made to ensure that your account information is protected from unauthorized access. For questions regarding security issues, please call (877)821-2265 and ask for Customer Service.
+
+First Bank Internet Banking is accessed through a Secure Socket Layer (or SSL). This means that all data transmitted to or from First Bank’s computer system is encrypted to protect your money and privacy. Several layers of security prevent unauthorized access to the system and to ensure your information is accessible only by using a correct Internet Banking ID and Internet Banking PIN.
+
+Protecting Your Online Information
+It is very important that only you know your User ID and Password. This is the only way your account may be accessed. Three (3) unsuccessful attempts will lock out the User from accessing their account. If a user becomes locked out, they must call the First Bank Customer Service Department at (877)821-2265.
+
+Email Solicitation
+First Bank does not solicit information (Social Security Number, account numbers, credit card numbers, passwords, etc) by means of email. If you receive an email requesting confidential information from someone claiming to represent First Bank, do not respond to the email. Please call (877)821-2265 to report any solicitation of this kind that you receive.
+
+Automatic Log Off
+After a period of inactivity, the system will automatically log you off and force you to re-enter your User ID and Password.
+
+Your Role in Security
+Choose a good PIN! You should carefully select a PIN that is hard to guess and never use a word that can be found in the dictionary. Memorize your PIN! Even the best PIN is worthless if it's written on a note attached to your computer or an entry in your checkbook. Do not share your Internet Banking PIN with anyone else. Your PIN is designed to protect the privacy of your banking information, but it will only work if you keep it to yourself. If you think your PIN has been compromised, change it immediately online and immediately contact the Bank. Call us at (877)821-2265 or send us a note using the tab labeled Contact Us near the top of our web page. Change your Login ID and PIN as often as you wish. (We recommend changing your PIN at least once each month.) Don't leave your computer unattended during an Online Banking session - click on "exit" to end your session. Once you have finished conducting your banking on the Internet, always sign off before visiting other Internet sites. If anyone else has access to your computer, clear your browser's cache in order to eliminate copies of Web pages that have been stored on your hard drive. Avoid using Public Internet Access Terminals when conducting your Internet Banking.
+
+Welcome Home to First Bank.

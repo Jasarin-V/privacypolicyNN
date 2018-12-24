@@ -1,0 +1,141 @@
+Nuance Privacy Statement
+This Privacy Statement (“Statement”) describes the personal data that Nuance collects, how we use it, and when we share it, as we interact with you, deliver our products and services, and conduct our business operations.
+
+This Statement applies to Nuance Communications, Inc., its affiliates and any wholly owned subsidiaries worldwide, referred to in this Statement as “Nuance.” When we refer to Nuance products, we mean all Nuance products and services.
+
+For the purposes of applicable data privacy legislation, the Nuance affiliate or subsidiary responsible for the collection and use of your personal data is either the affiliate or subsidiary with which you contract or engage, or the affiliate or subsidiary located in the country in which you reside. You may contact us at privacy@nuance.com if you wish to confirm the identity of the responsible Nuance affiliate.
+
+What Personal Data Do We Collect?
+Nuance collects personal data when we deliver our products, conduct marketing, and run our business operations. The personal data we collect varies based upon whether the data is collected (i) through our websites or applications, including www.nuance.com and shop.nuance.com and their local variations (“Sites”) or (ii) through our products and services, including but not limited to our software, support services, voice recognition technology, and medical information products (“Products”).
+
+We may collect personal data directly in the following situations:
+
+When you purchase, download, or register Nuance software, or use our software support services, we may collect contact information such as your name, email address, physical address, telephone number, and financial and payment details, together with information on the Nuance Products you buy, download, or register.
+If you engage with Nuance for marketing purposes, such as by expressing interest in Nuance Products through a web form, participating in a promotion, or attending a Nuance or other marketing event, we will collect the information you submit to us, such as your contact details (including name, email address, phone number, organization and job title) and the Nuance Products that interest you.
+When you submit an employment application, we collect the personal data disclosed by your application, such as your name, email address, phone number, and employment and education history.
+We may also collect other electronic data from your use of our Sites automatically. This data may include your IP address, date/time stamp, data about your interaction with our Sites and data collected from our use of cookies and similar tracking tools.
+Through our Products, we may collect personal data directly in the following situations:
+
+When you use Nuance voice recognition technology, whether by using Nuance’s own Products or by using third party products that employ Nuance voice recognition technology, we may capture your voice and the words that you speak into the product. As outlined in our terms provided with the products that employ Nuance voice recognition technology, we collect and use your data in a non- personally identifiable and aggregate manner because we have no practical way to correlate the data back to a specific individual.
+If you use a Nuance medical information sharing Product, such as PowerShare, we will collect the personal data and healthcare images you submit.
+If you use Swype and permit us to collect your usage data, we collect information about the software and how you use it, including settings changes, device location, language selection, character trace paths, custom words, total number of characters tapped or swiped, speed of text entry, and similar data.
+We may also collect other electronic data derived from your use of our Products. This data may include your IP address, usage data, and data showing your registration, installation and use of Nuance software Products. Except for IP address and unique device identifiers, we generally collect this data on an aggregate and non-identifying basis.
+Nuance may collect personal data indirectly in certain situations, in particular:
+
+We provide medical voice recognition, medical imaging, transcription, and clinical documentation Products to hospitals and medical providers. To deliver these Products, we may collect patient data both directly from our healthcare customers as well as from vendors serving our healthcare customers such as individual doctors, imaging and laboratory services providers, and electronic health record service providers. This patient data may include name, address, birthdate, medical record number, diagnosis, image, and treatment information. Where consent is required for the collection and use of medical information, we will obtain consent if we interact directly with patients. However, if we are processing personal data on behalf of a third party that has direct patient access, it will be the third party’s responsibility to obtain the consent.
+We provide voice recognition, text input, document management, and communications products to corporate customers, and we may collect personal data processed in those products, including voice recordings, text, names, or phone numbers.
+We obtain marketing contact information, including name, email address, phone number, organization, and job title, from our resellers and distributors, from public sources, and from third-party mailing lists.
+We collect personal data, including employment and education history, from third parties to conduct background and reference checks for employment applications and for applications to establish reseller and distributor relationships with Nuance, subject to your consent where consent is required by law.
+Cookies
+Nuance and its partners use cookies and similar tracking tools to distinguish you from other users as described in our Cookie statement.
+
+How We Use Personal Data
+General Business Operations 
+We use contact information to market, sell, and service Nuance Products, subject to your consent where required by law. We allow recipients of marketing messages and collateral to opt out of receiving further communications from Nuance at any time without detriment.
+
+We use your financial or payment information, and your contact details, to support, establish, and conduct customer relationships as necessary for the performance of our terms of service with you (including, for example, completing purchase transactions, fulfillment of an order, order confirmations, responding to requests for information about products and services, and the provision of purchased products and services). If you fail to provide the personal data we need, we may be unable to complete your transaction.
+
+We use personal data from employment applications where necessary to support our legitimate interest in processing your application and to contact you if future opportunities arise.
+
+We use personal data of individuals associated with proposed resellers and distributors to conduct reference and background checks ahead of entering into a contract and as necessary for compliance with legal obligations to which we are subject.
+
+Data Processed Within Our Products 
+We use the personal data that is processed within our Products, such as voice data within voice recognition products, medical data within medical data products, personal data processed in communications products, and any personal data contained within product usage data we collect, to deliver our Products under applicable terms and for our legitimate interests in tuning, maintaining, enhancing, and developing Products. We never use this data, referred to as “Product Personal Data,” for marketing purposes and we never sell or transfer your data to third parties for the third party’s marketing purposes.
+
+We use aggregated, non-identifying, electronic data collected from use of our Sites and Products to operate, analyze, improve, and develop our Sites and Products. This information is not used to inform decisions about specific individuals; rather, it is processed to understand how different categories of users interact with our Sites and Products so that we can consistently improve our Products.
+
+When We Share Personal Data
+We may share Product Personal Data in the following situations:
+
+With our affiliates and subsidiaries and with vendors acting on our behalf to support the Sites or the delivery of Products;
+With the customer on whose behalf and at whose direction we are processing the data; and
+When we have your consent to use your Personal Data for a specific purpose.
+We may share your information with our affiliates, subsidiaries, resellers, suppliers, sub-contractors, and distributors, and with vendors acting on our and their behalf, to service our customers and perform any contract we enter with you (including, for example, with resellers who support our management of potential clients and vendors who conduct transcription in connection with our products and services).
+
+We may share aggregated, anonymous, or non-identifiable electronic data with our affiliates and with vendors acting on our behalf.
+
+We may share personal data derived from Site usage (excluding Product Personal Data), with analytics and search engine providers that assist us in the improvement of our Sites, subject to the cookie section of this Privacy Statement. Our Sites may use Google Analytics. The way Google collects and processes data when delivering Google Analytics is described here: www.google.com/policies/privacy/partners/.
+
+We may share personal data from employment applications with vendors acting on our behalf who help us in recruitment, background check and human resources matters.
+
+If we share your personal data (including Product Personal Data) with affiliates or with vendors acting on our behalf, we do so under binding agreements that require the third party to use and protect the personal data in accordance with the principles described in this Privacy Statement. These third parties are authorized to use your personal data only as necessary to provide these services to us.
+
+We may also share personal data to comply with law and legal process, to respond to governmental inquiries and lawful requests from by public authorities (including to meet national security or law enforcement requirements), and to protect life, property, or the security of Nuance or its customers. If Nuance enters any merger, acquisition, or asset sale of all or any part of its business, personal data held by Nuance may be transferred to a buyer or successor entity.
+
+Control Of Your Personal Data
+You can change your preferences to opt out of marketing communications at any time by contacting us at privacy@nuance.com. Alternatively, please follow the opt-out instructions in the relevant communication. If you opt out, we will retain your email address to confirm that we do not send you further communications.
+
+If you have submitted an employment application to Nuance or if your personal data has been collected by Nuance to review a proposed reseller or distributor relationship, you may contact us at privacy@nuance.com to request deletion of your data. We will respond to your request within a reasonable timeframe.
+
+If you wish to access, correct, or request deletion your Product Personal Data, you may contact us at privacy@nuance.com. Nuance generally processes Product Personal Data on behalf of our healthcare, enterprise, and corporate customers. If you contact us, we may direct your inquiry to our customer on whose behalf the Product Personal Data is being processed. In almost all cases, Nuance has, by design, no practical method of tracing Product Personal Data back to a specific individual, but we will make reasonable efforts to delete your Product Personal Data upon your request within a reasonable timeframe. Nuance may refuse your request to access, request or delete Product Personal Data where entitled to do so under applicable law. Nuance may refuse your request to access, request or delete Product Personal Data where entitled to do so under applicable law.
+
+If you have submitted Product Personal Data to Nuance using your own user account which allows you to control your own data, you may delete the data you submitted by logging into your account and following the guidelines in the help system.
+
+Location Of Processing and Cross-Border Transfers
+Nuance operates in over 35 countries. We may transfer personal data across international borders and may process personal data in jurisdictions other than the jurisdiction of original collection.
+
+We may transfer personal data that we collect to other Nuance affiliates or other companies performing support functions on our behalf (each as described above) based in other countries including to the United States, India or the Philippines or other countries outside the European Economic Area or your country of residence and this personal data may be stored and/or processed in such countries.
+
+Whether your personal data is processed within your country of residence or beyond, we will take steps to ensure that your data is subject to appropriate safeguards required of us under the Privacy Statement, applicable data protection laws, and appropriate legally recognized data transfer adequacy mechanisms. Personal data that is transferred outside your country of residence may be subject to lawful access by courts, law enforcement and other governmental authorities in accordance with the laws of the foreign jurisdiction.
+
+EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+Nuance participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List.
+
+Nuance is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Nuance complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Nuance is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+Under certain conditions, more fully described on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Storage and Security
+We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once it is received. Information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using current PCI-DSS standards. If Nuance has issued you a password, you are responsible for keeping the password confidential. If you have any questions about the security of your personal data, you can contact us at privacy@nuance.com.
+
+We retain personal data to the extent necessary to provide Products to our customers, employees, and prospective employees. Generally, we retain personal data for as long as you remain an active customer or user of our Sites and Services and for 3 years afterwards, or otherwise as required for our business operations or by applicable laws. Longer retention may be necessary under contractual terms with the data controller for whom we provide services, for fraud prevention, to identify technical problems, or to resolve legal proceedings. Images added to PowerShare are automatically deleted after 45 days.
+
+We may retain non-personally identifiable aggregate information beyond this time for research purposes and to help us improve and further develop our Products. You cannot be identified from aggregate information retained or used for these purposes. Any record of a stated objection by you to receiving marketing communications will be retained by us so that we respect your wishes by not contacting you further.
+
+Children
+If a Nuance customer puts Nuance voice recognition Product technology in a customer product, Nuance may receive speech data from product users to provide voice recognition to the user. This is a function of how Nuance’s voice technology works. This means that if the user is under the age of 13, Nuance may receive personal data from children under the age of 13. It is the responsibility of the Nuance customer to obtain any consents required under applicable law, including under the Children’s Online Privacy Protection Act and relevant data protection laws, for the collection of such personal data.
+
+Except as described in the preceding paragraph, Nuance does not knowingly collect personal data from children under the age of 13. No child under 13 should submit personal data to Nuance. If you become aware that a child under the age of 13 has submitted personal data to Nuance, contact us at privacy@nuance.com and we will promptly delete the data.
+
+Your Rights
+Where reasonable and feasible, you may have the right under applicable laws in certain circumstances to:
+
+ask for access to details of the personal data held by us about you, free of charge;
+to request the rectification, restriction or erasure of your personal data held by us;
+to object to the processing your data;
+to request that any personal data provided by you, be transferred to a third party.
+Nuance never sells or transfers your data to third parties for the third party’s marketing purposes. You can object to receiving further marketing from Nuance at any time without detriment.
+
+Nuance partners with a third party to display advertising on our website or to manage our advertising on other sites. Our third-party partner may use cookies and similar tracking tools in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click here [or if located in the European Union click here]. Please note you will continue to receive generic ads.
+
+You can also exercise the rights listed above, or write to us with any complaints, at any time by contacting us at:
+
+privacy@nuance.com or by mail (Worldwide) at:
+
+Chief Privacy Officer
+Nuance Communications, Inc.
+1 Wayside Road
+Burlington MA 01803
+USA
+
+Or by contacting our representative in the EU at:
+
+Chief Privacy Officer
+Nuance Communications Ireland, Ltd
+20 Merrion Road
+Ballsbridge, Dublin 4
+IRELAND
+
+If your request or concern is not satisfactorily resolved by us, you may approach your local data protection authority.
+
+Nuance Employees and Contingent Workers
+This Privacy Statement does not cover Nuance’s collection of personal data from employees and contingent workers, which is described in a separate HR Privacy Statement made available to Nuance personnel.
+
+Changes To This Privacy Statement
+We may update this Privacy Statement from time to time by publishing an updated version on Nuance's Sites. Each updated version will include the date the statement was last updated. Please review the latest version of this Privacy Statement periodically to keep current with Nuance’s use of personal data. If we make material changes in the way Nuance uses or shares personal data, we will publish notice on our Sites and notify you by email to tell you of the proposed change. Any such material changes will only apply to personal data collected after the revised Privacy Statement takes effect.
+
+Updated: July 9th, 2018.

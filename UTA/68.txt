@@ -1,0 +1,380 @@
+ARCHER DANIELS MIDLAND
+Online Privacy Policy
+A. GENERAL INFORMATION
+1. Overview
+At Archer Daniels Midland Company “ADM” (“we” “our” or “us”), we are committed to protecting the confidentiality,
+accuracy and integrity of any personal data you provide to us. We always strive to safeguard such data from
+misappropriation, loss, misuse, unauthorized access, disclosure and/or alteration. We only collect personal data that is
+relevant for our described purposes.
+2. Scope
+This Online Privacy Notice has been created for all website users, suppliers and customers to provide relevant
+information and demonstrate that your personal data is processed in a legal and responsible manner.
+However, information in grey is only applicable only where Regulation EU 2016/679 (GDPR) applies to you. The GDPR
+applies to you where the processing of your personal data is done in the context of the activities of a relevant
+establishment in the Union, or where the offering of goods or services, or the monitoring of your behaviour, has occurred
+and you are in the Union.
+3. Controller
+Below are the contact details of the ‘Controller’ of your data - that is, the entity responsible - and also the contact details
+of our Data Protection Officer.
+Controller EU Data Protection Officer
+ADM Group
+4666 Faries Parkway, Decatur, IL, 62526
+United States
+Telephone: +1 217 451 6194
+Email: dataprivacy@adm.com
+Our EU representative & Global Privacy Lead:
+Global Privacy Lead
+c/o ADM Germany GmbH
+Ferdinandstraße 5
+20095 Hamburg
+Germany
+EU Data Protection Officer
+c/o ADM Germany GmbH
+Ferdinandstraße 5
+20095 Hamburg
+Germany
+Telephone: 0049 (0) 40 3013 774
+Email: privacyeu@adm.com
+You can contact the Data Protection Officer in relation to any
+questions, comments or complaints you have regarding your
+personal data.
+B. INFORMATION FOR WEBUSERS
+1. Purpose and Legal Basis
+Below you will find information about how we process your personal data, the purpose for our processing of your
+personal data and the legal basis for our processing of your personal data according to the GDPR if applicable.
+Website visitor (this data is always collected and processed by us when you visit out site)
+Purpose of the processing Legal basis for our processing (EU)
+(i) Personalised advertising;
+(ii) Technical provision & optimisation of
+our site;
+(iii) Understand your interests;
+(iv) Provide information, products and
+services.
+Article 6(1)(f): Our legitimate interest is:
+(i) To provide you with personalised advertising for ADM when
+you leave our site;
+(ii) The successful technical provision of our website, the IT
+security and its continued optimisation by utilising user data;
+(iii) To understand what parts of our website you visit, and
+which of our products do you seek information;
+
+(iv) To provide you with information about our company and our
+products and services.
+Communications, Contact & Downloads
+Purpose of the processing Legal basis for our processing (EU)
+(i) To make contact with you where you
+have so requested (primarily for investor
+communications and annual reports);
+(ii) To send you a quote;
+(iii) Allow you to contact us;
+(iv) To allow you to download materials
+relevant to your interests;
+(v) To send you promotional material from
+time to time.
+Article 6(1)(f): Our legitimate interest is:
+(i) To make contact with you where you so request;
+(ii) To send you a quote where you so request;
+(iii) To allow you to contact us where you so wish;
+(iv) To allow you to download relevant materials:
+Article 6(1)(a): Consent.
+(v)
+Your consent is entirely voluntary and can be withdrawn at any time.
+‘ADM Delivers’ & Logistics
+Purpose of the processing Legal basis for our processing (EU)
+(i) To provide you with a quote from our
+logistics team;
+(ii) The provision of our ADM Delivers
+portal;
+Article 6(1)(b)
+The provision of the personal data for these purposes is not mandatory by
+law or contract however, achieving the planned purpose for the processing
+will be considerably restricted.
+Careers
+Purpose of the processing Legal basis for our processing (EU)
+(i) The provision of our ADM job board
+‘ADM Global Link’;
+(ii) Facilitating your job application;
+(iii) Assessing your job application;
+(iv) Contacting you further.
+Article 6(1)(b)
+The provision of the personal data for these purposes is not mandatory
+by law or contract however, achieving the planned purpose for the
+processing will be considerably restricted.
+(i)
+ADMFarmview (e-ADM)
+Purpose of the processing Legal basis for our processing (EU)
+(i) The provision of our ADMFarmview
+portal and software.
+Article 6(1)(b)
+The provision of the personal data for these purposes is not mandatory
+by law or contract however, achieving the planned purpose for the
+processing will be considerably restricted.
+.
+Credit (e-ADM)
+Purpose of the processing Legal basis for our processing (EU)
+(i) Provision of our ADM credit service;
+(ii) Process your credit application;
+(iii) Process invoices and trading
+information;
+(iv) Manage ADM account information;
+(v) Security and/or fraud prevention.
+Article 6(1)(b)
+The provision of the personal data for these purposes is not mandatory
+by law or contract however, achieving the planned purpose for the
+processing will be considerably restricted.
+Help Desk (e-ADM)
+Purpose of the processing Legal basis for our processing
+(i) Provision of our helpdesk service;
+(ii) Provide you with assistance where you
+request it.
+Article 6(1)(b)
+The provision of the personal data for these purposes is not mandatory
+by law or contract however, achieving the planned purpose for the
+processing will be considerably restricted.
+
+Futures & Options (e-ADM)
+Purpose of the processing Legal basis for our processing
+(i) Provide our futures, commodities and
+options service/portal
+(ii) Allow you to run reports based on your
+interest in this area
+Article 6(1)(b)
+The provision of the personal data for these purposes is not mandatory
+by law or contract however, achieving the planned purpose for the
+processing will be considerably restricted.
+e-ARTCO Barge Management System (e-ADM)
+Purpose of the processing Legal basis for our processing
+(i) Provision of our e-ARTCO Barge
+Management system/portal
+Article 6(1)(b)
+The provision of the personal data for these purposes is not mandatory by
+law or contract however, achieving the planned purpose for the processing
+will be considerably restricted.
+2. Recipients of your Personal Data
+Here you will find information about recipients to whom we may need to share your personal data. We only share your
+personal data where it is necessary. We will never share your personal data without a valid reason or interest connected
+to the above stated purpose.
+Recipient Function
+ADM Group ADM may share your personal information with subsidiaries and affiliated companies
+to provide the services you have requested. These subsidiaries and affiliated
+companies will handle your personal data in accordance with this Notice.
+Unaffiliated third parties 1. ADM may share your personal data with unaffiliated third parties who perform
+administrative, marketing, professional or technological support functions;
+2. ADM may share your personal data with unaffiliated third parties with whom we
+enter into joint venture agreements, branding agreements or other strategic alliances,
+or in the event of a sale, merger, reorganization, liquidation or other similar event;
+3. ADM may share your personal data with unaffiliated third parties who help us
+to process your requests to do business with ADM, such as processing a credit
+application, performing a background check based on reference information, managing
+ADM account information, facilitating trading and processing payments;
+4. ADM may share your personal data with third parties who assist us with our job
+boards, or with whom we have agreements.
+Authoritative bodies ADM may be required to disclose personal data by law or legal process, for the
+administration of justice, for investigation of breaches, for interacting with governmental
+anti-fraud databases, to protect the security or integrity of our databases or this website,
+to protect and defend the rights or property of ADM, to protect the personal safety of
+ADM website users, to take precautions against legal liability, to protect your or our
+legal claims and interests, defend against litigation and to comply with a government
+organization. We reserve the right to contact appropriate authorities when activities that
+are illegal or violate our policies occur on an ADM website.
+3. Transfer to third countries and/or international organisations
+If you are located in the European Union, personal data collected will be processed in a country where the adequacy of
+that countries data protection laws have not been approved by an adequacy decision of the European Commission.
+ADM is a US based company and therefore personal data processing occurs in the USA, but also some of the service
+providers are based outside the EU. Where we transfer personal data in this manner, ADM will ensure that any such
+agreements involving the processing of your personal data will be concluded so that your personal information is
+protected to an acceptable EU standard under standard EU contractual clauses for the transfer of data, which provide
+you and your personal data with adequate safeguards. If you would like more information as to how we protect your
+personal data in these circumstances, please contact your Data Protection Officer with the contact details that we
+provided above.
+
+4. Storage of your Personal Data
+We only store your personal data for a period reasonable for our purposes of processing and/or for a period of time that
+is required of us by the laws applicable in your local area. We do not process your data any longer than we need to.
+If you would like more information about our retention periods, please contact our Data Protection Officer with the contact
+details that we provided above.
+5. Website Cookies
+Our website uses cookies. Cookies are small text files that are stored on your device when you visit our website. Each
+time you visit, this cookie information is returned to us. This allows us to recognize you, for example, or to help you
+navigate by using the information in the cookies. Cookies cannot be used to launch programs or to transfer viruses to a
+computer. The reading of cookies is only possible through the web server from which they originated.
+You can also view our website without cookies. To prevent the use of cookies, you may disable the use of cookies
+through the settings of your internet browser. The help functions of your Internet browser will generally tell you how to
+deactivate and/or delete cookies. Please note that disabling and/or deleting cookies may cause certain features on our
+site to stop functioning as expected.
+Cookies that we use for certain functions include:
+(1) Cookies that store certain user preferences (e.g. search or language settings);
+(2) Cookies that store data to ensure trouble-free playback of video or audio content;
+(3) Cookies that temporarily store certain user entries;
+(4) Cookies used to identify or authenticate our users.
+We store this cookie data until the end of the term of a particular cookie or until the cookies are deleted by you.
+These processing operations are based on Article 6(1)(f) of the GDPR. Our interest is the ongoing optimization and
+usability of our website.
+6. Third Party Cookies
+This website uses Third Party Cookies & Analytics. You can find specific information about these below:
+Google Inc.
+This website uses cookies managed by Google Inc. (“Google”) for the purpose of analysing internet and website usage,
+and often also for advertising. Personal data processed in this context is your IP address (which will entail your location
+data) and further information produced by your movements on the internet in connection with that IP address.
+This data is fully pseudonymised. The IP address sent by your browser as part of Google Analytics is not combined with
+other data held by Google. In some cases, the truncating of your IP address occurs so swiftly that no personal data is
+stored by Google for these purposes. This means in those circumstances, the information collected by Google is entirely
+anonymised. Some processing by Google will only occur in the European Union. For some cookies, the processing will
+occur on servers located in the United States. Safeguards for your personal data where this occurs are that Google Inc.
+is Privacy Shield certified, meaning your personal data is processed to a standard acceptable under EU expectations.
+Below you will find information about the sort of Google cookies used by this website. You are able to manage the way
+Google uses your information and/or the way Google cookies track you on this site. All Google cookies preferences can
+be managed at the following link: https://policies.google.com/technologies/managing?hl=en
+Cookies used in this context on this site are:
+a) Google Analytics: Google Analytics is a web analysis service provided by Google. Google uses this information
+on behalf of the website operator to evaluate the way you use the website, to collate reports on website activities
+and to provide the website operator other services related to website and Internet use.
+b) Google Tag Manager: Google Tag Manager is a tag management service. It is a service provided by Google
+that facilitates the updating of tags for conversion tracking, site analytics and other Google cookie management.
+c) Doubleclick: Doubleclick is an advertisement management and bidding service tha
+
+d) Doubleclick Floodlight: Doubleclick Floodlight is a system used in conjunction with Doubleclick to track and report
+conversions.
+By using our webpages, you agree to the processing of the data collected about you by Google in the manner described
+above. You can prevent the storage of such cookies by ensuring your settings are set accordingly in your internet
+browser, including by using the link provided above. Please note, your use of our website may be affected where you
+block or ban tracking cookies. If you would like further information about Google’s Privacy Policy, that information can
+be found here: https://policies.google.com/privacy?hl=en.
+These processing operations are based on Article 6(1)(f) of the GDPR. Our interest is the ongoing optimization and
+usability of our website.
+Other
+For users based in the US, we may engage third parties to process or otherwise analyze other web-tracking
+technologies used by ADM. This may include cookies, pixels, beacons, or other technologies that track the amount of
+time spent on our sites or social media and whether or not certain content, such as video was viewed. Third parties
+who will access this information are generally our direct marketing partners. ADM may also engage in interest-based
+advertising, meaning that you may see advertising on our website tailored to how you browse or shop, or you may see
+advertising for ADM on other websites based on your general web-browsing behavior.
+7. Location Targeted Advertising & Tracking
+For individuals located in the United States of America, we may use targeted advertising technologies that are able to
+identify your mobile device based on your location. Where your device is intercepted in a relevant location, your IP
+address and location will be processed in order to provide specific advertising relating to ADM. This occurs at specific
+events where ADM is present, including fairs. When such processing occurs, you will be presented with ADM advertising
+when you open an internet browser on your device.
+You can opt-out of receiving interest-based ads from third parties who are members of the Network Advertising Initiative
+(NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by
+visiting the opt-out pages on the NAI website and DAA website. (http://www.networkadvertising.org/choices/) and
+(http://www.aboutads.info/choices/).
+8. External Links
+This website may provide links to external websites. When you click on one of these links, you will be transferred from
+this website and connected to the website of the organization or company that you have selected. Even if an affiliation
+exists between ADM and such a website, ADM may not exercise any control over linked sites and we do not imply any
+endorsement of the activities of these websites. Unless specifically stated, this Policy does not govern the data
+collection and use practices of those websites and we cannot ensure they are compliant with the data protection
+standards contained in this Policy.
+If you visit a website that is linked from this website, you should familiarize yourself with that site’s privacy practices
+before providing any personal information.
+C. INFORMATION FOR CUSTOMERS, SUPPLIERS, LOGISTICS PARTNERS & PUBLIC
+1. Purposes and Legal Basis
+Below you will find information relevant in the instance that ADM processes personal data about you where you are a
+customer, supplier, a member of the general public or logistics partner.
+Managing contractual relationship
+Purpose of the processing Legal basis for our processing (EU)
+(i) Management of contact persons;
+(ii) Facilitate the performance of the
+contractual relationship and fulfilment
+of contractual rights and obligations
+Article 6(1)(f): Our legitimate interest is:
+(i) Managing contact persons for communication and customer
+care;
+(ii) Carrying out of the contractual relationship and related rights
+and obligations;
+
+and related services, including the
+optimization of processes;
+(iii) Facilitate communications;
+(iv) Manage and facilitate the information
+flow.
+(iii) Facilitate communications relevant to the contractual
+relationship;
+(iv) Process information relevant to the contractual relationship.
+Where this is a direct contractual relationship:
+Article 6(1)(b)
+The provision of the personal data for these purposes is not mandatory by
+law or contract however, achieving the planned purpose for the processing
+will be considerably restricted.
+Marketing
+Purpose of the processing Legal basis for our processing (EU)
+(i) Send you marketing material such as
+emails and/or newsletters, allow you to
+participate in prize competitions or other
+promotional offers, or send you technical
+information and/or legal updates.
+Article 6(1)(a): Consent
+Where we explicitly ask for your consent; your consent is entirely voluntary
+and can be withdrawn at any time.
+Where you enter into a contractual relationship with us:
+Article 6(1)(b)
+The provision of the personal data for these purposes is not mandatory by
+law or contract, however, achieving the planned purpose for the processing
+will be considerably restricted.
+Article 6 (1) (f): Our legitimate interest is:
+Where your electronic contact details have been collected in the context of
+the sale of a product or service, such contact details may be used for our
+interest of direct marketing of similar products and/or services; you can
+object to the processing at any time.
+2. Storage of your personal data
+The personal data noted above shall be deleted after the expiry of the purpose for which they were collected, insofar as
+no legal archiving rights, obligations or warranty periods justify a storage or retention of the personal data for other legal
+reasons.
+3. Recipients of your Personal Data
+Generally, your personal data will not be transmitted to third parties, unless there is a relevant need in conjunction with
+the above stated purposes, as outlined below:
+Recipient Function
+ADM Group ADM may share your personal information with subsidiaries and affiliated companies
+to provide the services you have requested. These subsidiaries and affiliated
+companies will handle your personal data in accordance with this Notice.
+Unaffiliated third parties 1. Insofar as your personal data is maintained in a CRM system, your personal
+data will be shared with the companies who provide such services and will be physically
+processed by them accordingly;
+2. Where we engage external service providers to support us in promotional
+and/or advertising activities, your personal data will be shared accordingly.
+3. Where it is necessary for the carrying out of a contractual relationship, we will
+share your data with partners, customers and suppliers (including logistics partners).
+4. Transfer to third countries and/or international organisations
+If you are located in the European Union, personal data collected will be processed in a country where the adequacy of
+that countries data protection laws have not been approved by an adequacy decision of the European Commission,
+especially as ADM is a US based company and therefore personal data processing occurs in the USA. Where we
+transfer personal data in this manner, ADM will ensure that any such agreements involving the processing of your
+personal data will be concluded so that your personal information is protected to an acceptable EU standard under
+standard EU contractual clauses for the transfer of data, which provide you and your personal data with adequate
+safeguards. If you would like more information as to how we protect your personal data in these circumstances, please
+contact your Data Protection Officer with the contact details that we provided above.
+
+D. Personal Data Rights
+1. Your rights
+You have many actions available to you in relation to our processing of your data. You may use the contact information
+below to request:
+a. Access to your data, pursuant to Article 15 GDPR: You have the right to request information as to whether we
+are processing personal data concerning you, and subsequent access to this personal data.
+b. Rectification of your data, pursuant to Article 16 GDPR: You have the right to the rectification of your personal
+data that is inaccurate or incomplete, this includes by means of a supplementary statement.
+c. Erasure of your data, pursuant to Article 17 GDPR: You have the right to ask us for the erasure of your personal
+data, where no exemption for retaining the personal data applies.
+d. Restriction of our processing of your data, pursuant to Article 18 GDPR: You have the right to request a
+restriction on the processing of your personal data in particular circumstances.
+e. Data Portability, pursuant Article 20 GDPR: In some circumstances, you may be entitled to request that your
+personal data be provided to you in machine readable format. This is applicable where the processing of your personal
+data is based on consent (Article 6(1)(a)), where special categories of personal data are being processed based on
+consent (Article 9(2)(a)), or where your personal data is processed on the basis of Article 6(1)(b). This right to data
+portability includes the right to have your personal data transferred directly to another controller.
+If you wish to exercise these rights, please contact our DPO at privacyeu@adm.com.
+f. Objection to our processing of your data, pursuant to Article 21 GDPR: Where your personal data is
+processed for the purpose of performing tasks carried out in the public interest (Article 6(1)(e)), for the purpose
+of legitimate interests of the controller (Article 6(1)(f)), or for the purpose of direct marketing and profiling
+related to this (Article 21(2)), you are able, based on the grounds relating to your particular situation, to object
+to the processing of your personal data.
+(Where the processing of your personal data is based on your consent, you are not able to object to this
+processing pursuant to Article 21 of the GDPR. However, you do have the right to withdraw your consent based
+on Article 7(3) of the GDPR. This shall have the same practical effect as objecting to the processing, should
+you wish to do so).
+2. Complaints
+You may submit a general complaint regarding your personal information to a supervisory authority regarding our
+processing of your personal data.
+Comments
+All comments relating to this Notice and/or regarding your personal data should be directed to our Data Privacy Team
+at dataprivacy@adm.com.

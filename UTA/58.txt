@@ -1,0 +1,503 @@
+EASTMAN CHEMICAL COMPANY
+WEBSITE FAIR PROCESSING NOTICE
+1. What is this document and why should you read it?
+This fair processing notice explains how and why Eastman Chemical Company including each of its operating
+entities (also referred to as “Eastman”, “we”, “our” and “us”) uses personal data about those individuals who
+purchase goods or services from us, supplies goods or services to us, visits our website at www.eastman.com (the
+“Website”), or otherwise communicates or engages with us (referred to as “you”).
+You should read this notice, so that you know what we are doing with your personal data. Please also read any other
+privacy notices that we give to you, that might apply to our use of your personal data in specific circumstances in
+the future.
+2. Eastman’s data protection responsibilities
+“Personal data” is any information that relates to an identifiable natural person. Your name, address and contact
+details are all examples of your personal data, if they identify you.
+The term “process” means any activity relating to personal data, including, by way of example, collection, storage,
+use, consultation and transmission.
+Eastman is a so-called "controller" of your personal data. This means that we make decisions about how and why
+we process your personal data and, because of this, we are responsible for making sure it is used in accordance
+with data protection laws.
+3. What types of personal data do we collect and where do we get it from?
+We collect different types of personal data about you when you visit our Website, purchase something from us or
+otherwise communicate or engage with us. We also obtain some personal data from other sources, and create some
+personal data ourselves.
+If any of the personal information you have given to us changes, such as your contact details, please inform us
+without delay by
+(a) Employees, go to Benefits, Health, and Money on MyEastman (US Only) or contact your local Human
+Resource representative;
+(b) Customers, contact your customer service representative or account manager;
+(c) Suppliers, contact your purchasing representatives.
+You can also inform us by contacting the Chief Privacy Office at privacy@eastman.com.
+We collect your personal information from various sources. The table below sets out the different types of personal
+information that we collect and the sources we collect it from.
+2
+Category Type of personal data Collected from
+Contact Information   Name
+  Address
+  Telephone number
+  Email address
+  Organization details (e.g. your place of work, job
+title and organization contact information)
+  Your marketing preferences
+  You
+Background and
+Identity Check
+Information
+  Contact Information (see above)
+  Date of birth
+  Passport
+  Proof of address
+  Tax ID
+  Curriculum Vitae (CV) or resume
+  Nationality
+  You
+  Third-party systems
+used for our identity
+checks
+Customer/Supplier
+Information
+  Contact Information (see above)
+  Individual Reference Number
+  Digital signature
+  Order information for goods and services
+purchased or sold by you (or your organization)
+  Payment information
+  You/your organization’s banking details
+  Fraud checks or flags raised about your
+transactions, payment card refusals
+  Delivery details
+  Communications we may have with you, whether
+relating to a transaction or not (please note that
+we record calls to our customer services team)
+  Any additional information that you provide to us
+voluntarily or for account security, including (for
+example) date of birth or mother’s maiden name
+  Responses to surveys or competition entries
+  Sensitive Information (see sub-categories below)
+  You
+  Third-party fraud
+checking service
+  Your/your
+organization’s bank
+Website
+Information
+  Contact Information (see above)
+  IP address and other online identifiers/web
+beacons
+  User names and other log-in information
+  Details of your online browsing activities on our
+Website, such as the pages, products or areas of
+our Website that you visit
+  Your account settings including any default
+preferences, any preferences we have observed,
+such as the types of offers that interest you, or
+the areas of our Website that you visit
+  Device used to access
+the Website
+  Our Website
+Sensitive
+Information
+  Racial or ethnic origin (including your nationality
+and passport information)
+  Information relating to actual or suspected
+criminal convictions and offences (pursuant to
+anti-money laundering and identity checks)
+  You
+  Third-party systems
+used for our identity
+checks
+4. What do we do with your personal data and why?
+We process your personal data for particular purposes in connect
+3
+Please note that where we have indicated in the table that our processing of your personal data is either:
+(a) necessary for us to comply with a legal obligation; or
+(b) necessary for us to take steps, at your request, to potentially enter into a contract with you, or to perform
+it,
+if you choose not to provide the relevant personal data to us, we may not be able to enter into or continue our
+contract or engagement with you.
+Purposes of processing
+Lawful basis
+Your
+consent
+To perform a
+contract with
+you
+To comply
+with a legal
+obligation
+For our legitimate
+interests
+Contact Information
+a) Responding to your enquiries
+and/or complaints  
+ 
+(It’s important that we
+can respond to you in
+relation to such matters)
+b) Confirming and processing orders
+for goods or services that you may
+make with us (either as customer
+or supplier)
+ 
+c) Sending you information (including
+direct marketing) as set out in the
+section “How do we communicate
+with you?”, below
+ 
+ 
+(It is important to keep
+you updated of orders
+made with us and notified
+of factual updates to our
+engagement with you)
+Background and Identity Check Information
+d) Performing anti-bribery, anticorruption,
+and trade and export
+risk
+ 
+ 
+(We need to ensure
+compliance with
+regulatory requirements)
+e) Performing identity and credit
+checks
+ 
+ 
+(We need to ensure that
+the identity and credit
+worthiness of our
+customers/suppliers is
+verified)
+Website Information
+f) Ensure the operation and
+performance of the Website
+(Please also see the Cookies
+section below)
+ 
+(We need to ensure the
+Website functions
+correctly)
+g) To improve the functionality of the
+Website
+ 
+(It is in our interest to
+keep the Website up to
+date and improve its
+functionality for the
+benefit of users)
+h) To enable you to create accounts
+and log-in to them via the Website
+ 
+ 
+(It is in our interests to
+grant you access to a
+private log-in where you
+can access information
+relevant to you and your
+investment)
+i) To use targeted cookies in relation
+to advertising
+ 
+ 
+(We need to ensure
+accurate and relevant
+content for the benefit of
+users)
+4
+Purposes of processing
+Lawful basis
+Your
+consent
+To perform a
+contract with
+you
+To comply
+with a legal
+obligation
+For our legitimate
+interests
+Customer/Supplier Information
+j) To take payment and deliver your
+goods to you or the recipient you
+indicate, to deal with any
+complaints or any after sales
+services, including for warranty
+purposes
+ 
+k) To make payments and receive
+goods from you, to deal with any
+complaints or any after sales
+services, including for warranty
+purposes
+ 
+l) To protect customers, suppliers,
+and our business from fraud to
+minimize the risk of false details
+being used, and abuse of card
+details by fraudsters
+ 
+ 
+(It is important that we
+seek to limit incidents of
+fraud)
+All categories
+m) Establishing and enforcing our legal
+rights and obligations and
+monitoring to identify and record
+fraudulent activity
+ 
+n) Complying with instructions from
+law enforcement agencies, any
+court or otherwise as required by
+law
+ 
+o) For our general record-keeping and
+customer/supplier relationship
+management  
+ 
+(We need to store
+customer/supplier related
+information so we can
+refer to it)
+p) Managing the proposed sale,
+restructuring or merging of any or
+all part(s) of our business,
+including to respond to queries
+from the prospective buyer or
+merging organization
+ 
+ 
+(We have a legitimate
+interest in being able to
+sell any part of our
+business)
+q) To keep records required by law or
+to evidence our compliance with
+laws, including tax laws, consumer
+protection laws and data protection
+laws
+
+5
+5. Sensitive Information
+Some of the processing described in the above table will include the processing of ‘special categories of personal
+data’ and/or sensitive personal data (together, “Sensitive Information” – as set out in the table at paragraph 3,
+above). This refers to sensitive or special categories of personal data which we are required to process with more
+care, according to applicable laws.
+The table below sets out the different purposes for which we process your Sensitive Information and the relevant
+lawful basis on which we rely for that processing. For some processing activities, we consider that more than one
+lawful basis may be relevant – depending on the circumstances.
+Purposes of
+processing
+Sensitive Information - lawful basis
+You have given
+your explicit
+consent to the
+processing
+It is necessary to
+protect somebody’s
+vital interests or
+they are incapable
+of giving consent
+It is necessary for
+the establishment,
+exercise or
+defence of legal
+claims
+It is necessary for
+reasons of
+substantial public
+interest
+Performing antibribery,
+anticorruption,
+and
+trade and export
+risk checks
+   
+Performing identity
+and credit checks
+   
+6. Who do we share your personal data with, and why?
+Sometimes we need to disclose your personal data to other people.
+Inside Eastman’s Group:
+We are part of the Eastman group, which includes a number of companies and operations globally. Therefore, we
+will need to share your personal data with other companies in the Eastman group for our general business
+management purposes and, in some cases, to meet our customer needs where providing services across
+branches/locations and/or for authorisations/approvals with relevant decision makers, reporting and where systems
+and services are provided on a shared basis.
+Access rights between members of the Eastman group are limited and granted only on a need to know basis,
+depending on job functions and roles.
+Where any Eastman group companies process your personal data on our behalf (as our processor), we will make
+sure that they have appropriate security standards in place to make sure your personal data is protected.
+Outside Eastman’s Group:
+From time to time we may ask third parties to carry out certain business functions for us, such as the administration
+of our Website and IT support. These third parties will process your personal data on our behalf (as our processor).
+We will disclose your personal data to these parties so that they can perform those functions. Before we disclose
+your personal data to these third parties, we will seek to ensure that they have appropriate security standards in
+place to protect your personal data. Examples of these third-party service providers include our outsourced IT
+systems software and maintenance, back up, and server hosting providers.
+6
+In certain circumstances, we will also disclose your personal data to third parties who will receive it as controllers
+of your personal data in their own right for the purposes set out above, where the relevant disclosure is in relation
+to:
+a) services provided to you or us by a third party acting independently to Eastman but which has a relationship
+with Eastman, for example certain payment fraud checking services;
+b) the purchase or sale of our business (or part of it) in connection with a share or asset sale, for which we
+may disclose or transfer your personal data to the prospective seller or buyer and their advisors; and
+c) the disclosure of your personal data in order to comply with a legal obligation, to enforce a contract or to
+protect the rights, property or safety of our employees, customers or others.
+We have set out below a list of the categories of recipients with whom we are likely to share your personal data:
+a) IT support, Website and data hosting providers and administrators;
+b) payment processors in relation to purchases you make with us;
+c) consultants and professional advisors including legal advisors and accountants;
+d) courts, court-appointed persons/entities, receivers and liquidators;
+e) business partners and joint ventures;
+f) insurers; and
+g) governmental departments, statutory and regulatory bodies.
+7. Where in the world is your personal data transferred to?
+As part of a global organization, Eastman may transfer your personal data to recipients (either internally or
+externally, as set out above) that are established in jurisdictions other than your own. Please be aware that the
+data protection laws in some jurisdictions may not provide the same level of protection to your personal data as is
+provided to it under the laws in your jurisdiction.
+If any disclosures of personal data referred to above requires your personal data to be transferred, we will only
+make that transfer if:
+a) the country to which the personal data is to be transferred ensures an adequate level of protection for
+personal data;
+b) we have put in place appropriate safeguards to protect your personal data, such as an appropriate contract
+with the recipient;
+c) the transfer is necessary for one of the reasons specified in data protection legislation, such as the
+performance of a contract between us and you; or
+d) you explicitly consent to the transfer.
+8. How do we keep your personal data secure?
+We will take specific steps (as required by applicable data protection laws) to ensure we take appropriate security
+measures to protect your personal data from unlawful or unauthorized processing and accidental loss, destruction
+or damage. 
+7
+9. How long do we keep your personal data for?
+We will only retain your personal data for a limited period of time and for no longer than is necessary for the
+purposes for which we are processing it for. This will depend on a number of factors, including:
+a) any laws or regulations that we are required to follow;
+b) whether we are in a legal or other type of dispute with each other or any third party;
+c) the type of information that we hold about you; and
+d) whether we are asked by you or a regulatory authority to keep your personal data for a valid reason.
+10. How do we communicate with you?
+We will use your personal data to communicate with you:
+a) in relation to any purchases you make with us;
+b) to administer our relationship with you;
+c) to respond to any questions or complaints that you may have; and
+d) to invite you to take part in market research or request feedback on our products and services.
+From time to time and with your opt-in consent (if required), we will provide you with information about our
+products, services, promotions and/or offers which may be of interest to you. Such communications will be sent
+either by email, text, post or telephone.
+If you do not wish to receive such communications, you can opt-out at any time by either following the instructions
+within the communication or contacting
+a) Employees, go to Benefits, Health, and Money on MyEastman (US Only) or contact your local Human
+Resource representative;
+b) Customers, contact your customer service representative or account manager;
+c) Suppliers, contact your purchasing representatives.
+You can also inform us by contacting the Chief Privacy Office at privacy@eastman.com.
+11. Cookies
+When you visit the Website, we generate one or more “cookies”, which we deploy with your consent (if required).
+If you do not agree to our use of cookies, you should set your browser settings accordingly or not use the Website.
+Please be aware that if you disable the cookies that we use, this may impact your user experience while using the
+Website.
+The table below summarizes the different types of cookies we use on the Website, together with their respective
+purpose and duration (i.e. how long each cookie will remain on your device).
+Two types of cookies may be used on the Website - "session cookies" and "persistent cookies". Session cookies are
+temporary cookies that remain on your device until you leave the Website. A persistent cookie remains on your
+device for much longer or until you manually delete it (how long the cookie remains on your device will depend on
+the duration or "lifetime" of the specific cookie and your browser settings).
+8
+Cookies used on the Website:
+Type of
+Cookie What do they do? Do these cookies collect my
+personal data/identify me?
+Necessary Cookies that are essential to making
+the Website work correctly. They
+enable visitors to move around our
+Website and use our features.
+Examples include remembering
+previous actions (e.g. entered text)
+when navigating back to a page in
+the same session.
+These cookies do not identify you
+as an individual.
+If you do not accept these
+cookies, it may affect the
+performance of our Website.
+Performance Cookies that help us understand how
+visitors interact with our web
+properties by providing information
+about the areas visited, the time
+spent on the Website and any issues
+encountered, such as error
+messages. They help us improve the
+performance of our Websites, alert of
+any concerns and more.
+These cookies don’t identify you
+as an individual. All data is
+collected and aggregated
+anonymously.
+Functionality Cookies that allow our web properties
+to remember the choices you make
+(such as your user name, interests,
+demographics, and web behavior on
+our sites) to provide a more
+personalized online experience.
+The information these cookies
+collect may include personally
+identifiable information that you
+have disclosed, such as a
+username, for example. We shall
+always be transparent with you
+about what information we collect,
+what we do with it and with whom
+we share it.
+If you do not accept these
+cookies, it may affect Website
+performance and functionality and
+may restrict access to web
+content.
+What are Cookies?
+Cookies are files or pieces of information that may be stored on your computer (or other internet-enabled devices,
+such as a smartphone or tablet) when you visit the Website. A cookie will usually contain the name of the website
+from which the cookie has come from, the "lifetime" of the cookie (i.e. how long it will remain on your device) and
+a value, which is usually a randomly generated unique number.
+We use cookies to make the Website easier to use and to better tailor our web presence and products to your
+interests and needs. Cookies may also be used to help speed up your future activities and experience on the Website.
+We also use cookies to compile anonymous, aggregated statistics that allow us to understand how people use our
+web properties and to help us improve web structure and content. We cannot identify you personally from this
+information.
+Most internet browsers are initially set up to automatically accept cookies. You can change the settings to block
+cookies or to alert you when cookies are being sent to your device. There are a number of ways to manage cookies.
+Please refer to your browser instructions or help screen to learn more about how to adjust or modify your browser
+settings.
+If you disable the cookies that we use, this may impact your experience while on the Website. For example, you
+may not be able to visit certain areas of the Website.
+If you use different devices to view and access the Website (e.g. your computer, smartphone, tablet etc.), you will
+need to ensure that each browser on each device is adjusted to suit your cookie preferences.
+9
+12. What are your rights in relation to your personal data and how can you exercise them?
+Where our processing of your personal data is based on your consent (please see the tables above), you have the
+right to withdraw your consent at any time. If you do decide to withdraw your consent we will stop processing your
+personal data for that purpose, unless there is another lawful basis we can rely on – in which case, we will let you
+know.
+Where our processing of your personal data is based on the legitimate interests (please see the tables above),
+you can object to this processing at any time. If you do this, we will need to show either a compelling reason why
+our processing should continue, which overrides your interests, rights and freedoms or that the processing is
+necessary for us to establish, exercise or defend a legal claim.
+Where we are processing your personal data for direct marketing purposes, you have the right to object to that
+processing.
+You have the right to (subject to applicable laws and certain limitations):
+a) access your personal data and to be provided with certain information in relation to it, such as the purpose
+for which it is processed, the persons to whom it is disclosed and the period for which it will be stored;
+b) require us to correct any inaccuracies in your personal data without undue delay;
+c) require us to erase your personal data;
+d) require us to restrict processing of your personal data;
+e) receive the personal data which you have provided to us, in a machine readable format, where we are
+processing it on the basis of your consent or because it is necessary for your contract with us (please see
+the tables above) and where the processing is automated.
+13. Updates to this notice
+We may update this notice from time to time to reflect changes to the type of personal data that we process and/or
+the way in which it is processed. We encourage you to check this notice on a regular basis.
+14. Where can you find out more?
+If you want more information about any of the subjects covered in this privacy notice or if you would like to discuss
+any issues or concerns with us, you can contact the Chief Privacy Office at privacy@eastman.com.

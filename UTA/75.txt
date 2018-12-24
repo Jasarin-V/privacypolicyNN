@@ -1,0 +1,46 @@
+Privacy Policy
+NantKwest, Inc. (“Company”) recognizes the importance of protecting the privacy of information we may receive from visitors to our web site (this “Website”). You may visit our Website without telling us anything about yourself, and our Website only collects such technical information as disclosed in this Privacy Policy. If you contact us and choose to provide personally identifiable information or other personal data, we will utilize it to respond to your inquiry. We do not collect or maintain personally identifiable information for resale purposes, or share your information with any other company or organization.
+
+Notification of Changes to This Policy
+
+Company is continually improving and adding new functionality and features to our Website and improving and adding to our existing product line, services and programs. Because of these ongoing changes, changes in the law and the changing nature of technology, the Company data practices will change from time to time. If and when our data practices change, Company will post the changes on this page of our website in order to notify you of such changes. These changes to the Privacy Policy will become effective when posted. Unless stated otherwise, our current Privacy Notice applies to all personal data that we have about you. We stand behind the promises we make, however, and will not materially change our policies and practices to make them less protective of personal data collected in the past without the consent of affected individuals. We encourage you to check this page frequently by clicking on the Privacy Policy link on any page of our website.
+
+Personal Data Collected Through the Website
+
+The only personal data Company currently collects through this Website is the information you send to us when you contact Company with your direct questions and comments through the Contact Us page on this Website.
+
+Security
+
+Company takes certain precautions to protect our users’ information and to limit the risk that it will be accessed without authorization, including use of certain industry standard technologies and practices. We cannot, however, ensure or warrant the security of any information you transmit to Company, and you do so at your own risk. If Company learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Company may post a notice on the Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach, or if you have any questions about the security of the Website, please contact us at info@NantKwest.com
+
+Unsecured Email Warning
+
+Please note that any information you send to Company via email is sent via an unsecured email link. Due to the nature of the Internet, there is a possibility that unsecured (unencrypted) email could be intercepted and read by third parties. Company assumes no responsibility for interception of confidential information (including in a resume or CV) that you send in an unsecured (unencrypted) email message.
+
+Use of Personal Data Collected Through This Website
+
+Company does not sell, trade, or rent your personal data to others. Company uses the information you provide to respond to your e-mail, answer your question or resolve your problem. Company and our affiliates also use this information to help us improve the content and functionality of our Website, to better understand our customers and markets, and to improve our products and services. Company and our affiliates may use this information to contact you in the future to tell you about products or services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “opt-out” of receiving future communications.
+
+Anonymous Data Collected Through This Website
+
+In addition to the information you provide when you use our Website, Company uses technology to collect anonymous information about the use of our Website. For example, we use technology to track how many visitors access our Website, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which Web browsers our visitors use and the address from which they accessed our site (for example, if they connected to this Website by clicking on our link from another website). This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our Website. Company and our affiliates use this anonymous data and share it with third parties to improve the content and functionality of our Website, to better understand our customers and markets, and to improve our products and services.
+
+Cookies
+
+In order to collect the anonymous data described in the preceding paragraph, Company may use temporary “cookies” that collect the first level domain name of the user (for example, if your email address is “fred@123.com,” the cookie collects the “123.com” portion of your email address) and the date and time you accessed this Website. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies keep track of non-personal information such as the URL that you came from and go to next, your navigation through the Website (for example, the advertisements that you click on), the browser and operating system that you use, and your IP address. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the website of its manufacturer. At the present time, Company only uses temporary or “session” cookies. These cookies expire when your browser window is closed.
+
+Disclosure of Your Personal Data
+
+Company may share some or all of the personal data collected through this Website with our affiliates, who will only use this data in accordance with this Privacy Policy. Both Company and our affiliates may share personal data collected through this website with third-party vendors who act for or on behalf of Company or our affiliates, for example, companies that provide support services to us, including data processing services, or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose. In addition, there may be some other, limited circumstances in which Company or our affiliates may share or transfer the personal data in our databases, for example, to comply with a legal requirement, to enforce the Terms and Conditions governing the use of this Website, to protect your interests, or in the event of a corporate sale, merger, reorganization, dissolution or similar event.
+
+Link to Other Sites
+
+This Privacy Policy applies only to Company. Company and our affiliates operate many different types of websites for different purposes and in different countries where different laws may apply. If you visit one of our affiliates’ Website, please take a moment to review the privacy policy posted on that site to learn what personal data may be collected through that site and how it is processed. This Website contains hyperlinks to websites that are not operated by Company or one of our affiliates. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party Websites or any association with their operators. Company does not control these Websites and is not responsible for their data practices. We urge you to review the privacy policy posted on any Website you visit before using the site or providing any personal data about yourself.
+
+Governing Law
+
+This Privacy Policy forms part of our Website Terms and Conditions and as such shall be governed by and construed in accordance with the laws of the State of Delaware as further provided in the Terms and Conditions.
+
+Questions About Our Privacy Policy
+
+If you have any questions about this Privacy Policy or concerns about the way Company processes your personal data, please contact us at info@NantKwest.com

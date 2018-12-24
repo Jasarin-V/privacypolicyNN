@@ -1,0 +1,347 @@
+Privacy and Cookies Policy
+At Aberdeen Asset Management PLC and all of its affiliates (hereinafter referred to as “Aberdeen”, “we” or “us”) aim to protect the privacy of every current, former and prospective client as far as possible. This Privacy and Cookies Policy (the “Policy”) describes the type of personal information we may collect, the purposes for which we use the information, the circumstances in which we may share the information and the steps we take to safeguard the information to protect your privacy.
+
+1. The personal information we collect and how we use it
+
+We may collect information about you and use it in the following ways:
+
+We may collect personal information about you from applications or forms you may complete, agreements you enter into with us or in the course of your establishing or maintaining a client relationship with us regarding an investment product or vehicle including your name, postal and email address, debit card details, ongoing statements and other related information. This is to allow us to complete your transaction and also to provide confirmation of the transaction to you.
+We also use cookies (see paragraph five below for further details).
+When you browse the website we will store information as to how you use the website in order to improve the quality of service provided to you. For example, it will allow us to decide the most appropriate site layout and navigation.
+We may collect information concerning the attachments you open with newsletters that are sent to you electronically.
+We also use the information we collect in order to inform you about changes to the website and, subject to any applicable local laws, other information that we think may be of interest and/or useful to you including our products and services.
+Of course, you are not required to supply any of the personal information that we may request. However, failure to do so may result in us not being able to provide services offered by Aberdeen to you.
+
+2. Who we disclose the personal information to
+
+Aberdeen does not disclose your personal information to third parties, except as described in this Policy.
+
+Third party disclosures may include sharing such information with non-affiliated companies who perform support services on our behalf including those that provide professional, legal or accounting advice to Aberdeen. These companies are required to ensure appropriate security measures are in place and maintain the confidentiality of such information to the extent they receive it, and to use your personal information only in the course of providing such services and only for the purposes that Aberdeen dictates.
+
+These non-affiliated companies, however, may be based in countries where privacy laws do not exist or provide less protection than the laws in the EU.
+
+We may also disclose your personal information to fulfil your instructions or pursuant to your express consent.
+
+Finally, under limited circumstances, your personal information may be disclosed to third parties as permitted by, or to comply with, applicable laws and regulations, for instance, when responding to proceedings of a court of law or similar legal process, to protect against fraud, and to otherwise cooperate with law enforcement or regulatory authorities.
+
+You should know that Aberdeen does not sell your personal information.
+
+3. Accessing and updating your personal information
+
+You have the right to access your personal information at any time to check whether it is accurate and up-to-date and should contact our Data Protection Officer on dataprotectionofficer@aberdeen-asset.com. if you wish to do so.
+
+4. Timely processing of the information
+
+We will retain your personal information in accordance with applicable laws for so long as it is needed.
+
+5. Cookies Policy
+
+Cookies are small text files, which often include a unique identifier that is sent by a web server to your computer, mobile phone or any other internet enabled device (“device”) when you visit a website. Cookies are widely used in order to make websites work efficiently and help provide us with business and marketing information to enable us to make informed decisions on the development of our websites. We may collect information about your computer, including your IP address, operating system and browser type, for system administration and in order to create reports. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+
+We use three main types of cookies: (1) ‘Performance’ cookies (2) ‘Identification’ cookies (3) ‘Targeting’ cookies
+
+‘Performance’ cookies are used to help us see how you use our website e.g. which pages you visit. These cookies don't collect any information that could identify you – all the information collected is anonymous and is only used to help us improve the performance of our website, understand what interests our users and measure how effective our advertising is. We use performance cookies to analyse the performance of our website, to help us improve the website by measuring any errors that occur and to see how effective our adverts are (this isn’t shared with 3rd parties). Sometimes cookies are managed for us by third parties, but we don’t allow the third party to use the cookies for any purpose other than those listed above. By using our site, you accept the use of ‘Performance’ cookies.
+
+‘Identification’ cookies are used to help us customize website content based upon your selections. We use identification cookies to remember choices you have made such as identifying yourself as an IFA or Adviser, to show you when you’re logged in to the website and to target you with adverts on other websites. You can control whether or not these cookies are used, but preventing them may mean you are unable to access certain features or services. Preventing these cookies may stop us remembering that you didn't want a specific feature or service. By using our site you accept the use of 'Identification' cookies.
+
+‘Targeting’ cookies are used to send you relevant information and see which content you use. We use targeting cookies to send you customised news content via email, to track which content you use and to target you with adverts on other websites. By using our site you accept the use of 'Targeting' cookies.
+
+There a number of third parties which provide Aberdeen with content and functions on our website, some of these providers will use cookies to ensure the particular areas on the site work.
+
+The site also has Social Interaction links (such as Facebook or YouTube). Aberdeen does not control any cookies that may be sent when using these external websites. For more information on these it is advised to check their cookie policies.
+
+Opting out
+
+At any point, you have the right to request that we do not process your personal information for any marketing purposes.
+
+You can opt-out of the Google Display Advertising Features and customise Google Display Network ads using the Ad Settings. As an added privacy measure, you can also use the Google Analytics opt-out browser add on. However, please note that if you do this you may not be able to use the full functionality of this website.
+
+To remove other cookies from your PC, you can use these guides:
+
+Internet Explorer: https://support.microsoft.com/en-us/kb/278835#/en-us/kb/278835
+
+Chrome?: https://support.google.com/chrome/answer/95647?hl=en
+
+Safari: https://support.apple.com/kb/PH17191?locale=en_GB
+
+Firefox: https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored
+
+Further information:
+
+Cookie Directive: http://www.ico.gov.uk
+
+Information about cookies: http://www.allaboutcookies.org
+
+Internet Advertising Bureau: http://www.youronlinechoices.eu
+
+International Chamber of Commerce United Kingdom: http://www.iccwbo.uk/pages/privacy
+
+We utilise a number of different cookie variations that serve a number of different functions. These tables identify the types of cookies that we use and why we use them.
+
+Google Analytics Premium
+
+This website uses Google? Analytics Premium, a web analytics service provided by Google Ireland Limited (“Google”). Google Analytics Premium uses “cookies”, which are text files placed on your computer, to help the website interact how users use the site. On behalf of the operator of this website Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet usage to the website operator. The IP address collected through Google Analytics will not be associated with any other data held by Google.
+
+Google is a registered trademark of Google, Inc. Google, Inc. is not affiliated with Aberdeen Asset Management PLC, nor does it sponsor or endorse Aberdeen Asset Management PLC products or services.
+
+Uses of Google Analytics Premium
+
+In order to improve our users’ experience, we may use Google Analytics features such as Remarketing, DoubleClick Campaign Manager Integration, Google Display Network Impression Reporting and/or Google Analytics Demographics and Interest Reporting (Google Display Advertising Features).
+
+Information collected by our cookies will not personally identify you. It does, however, identify your computer and connection to the Internet. We only collect general information about your computer settings, connection to the Internet (e.g. operating system and platform), IP address, browsing patterns, and interactions within our site.
+
+We may use information captured within Google Analytics and our marketing automation system to deliver adverts online. Third party vendors, including Google, LinkedIn and Facebook, may show our adverts on various sites across the internet. They may also use cookies set by the Google Display Advertising Features and Eloqua third party cookies to inform, optimise and determine which adverts you see on our website and third party websites, including ads based on previous visits to our website.
+
+They may also use cookies set by the Google Display Advertising Features to inform, optimise and determine which ads you see on our Website, including ads based on previous visits to our Website.
+
+With regards to the Google Display Network Impression Reporting and the DoubleClick Campaign Manager integration, we and any third party vendors, including Google, may use cookies set by the Google Display Advertising Features to analyse and report on ads used within our site including, but not limited to, impressions created by the ads and how these interact with other ad features and services.
+
+With regards to Google Analytics Demographics and Interest Reporting, we may use data from Google's Interest-based advertising and/or third party audience data (e.g. age, gender and interests) with Google Analytics to target and optimise our marketing campaigns, strategies and our site content.
+
+Google Analytics
+
+doubleclick.net
+
+id
+
+Analytics - DoubleClick’s integrated and open platform lets you bring all your audience insights together in one place. With a complete, real-time view of your audience, you can engage the people you care about most to maximize the impact of your advertising dollars. Channel ID - purpose is for local storage. id - This cookie is used for re-targeting, optimisation, reporting and attribution of online adverts.
+
+accounts.google.com
+
+GAPS
+
+GAPS = Google calendar. Google set a number of cookies on any page that includes a Google Calendar. While we have no control over the cookies set by Google, they appear to include a mixture of pieces of information to measure the number and behaviour of Google Calendar users, as well as information about which calendar you are viewing, and which tab you are currently on. Also, Google uses these cookies to improve your user experience.
+
+Country Site
+
+_ga
+
+_ga - This cookie is used to distinguishes unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports. By default it is set to expire after 2 years, although this is customisable by website owners.
+
+_gat
+
+_gat - This cookie name is associated with Google Universal Analytics, according to documentation it is used to throttle the request rate - limiting the collection of data on high traffic sites. It expires after 10 minutes.
+
+_utma
+
+These cookies are used to collect information about how people use the website. This allows us to make sure the website is meeting your needs, and help us understand what we could improve. See the Google Analytics Privacy Policy for more details.
+
+_utmb
+
+_utmc
+
+_utmz
+
+Cookie Compliance
+
+Where applicable
+
+app-decibel-compliance-cookieacceptance
+
+This cookie is used to record the types of cookies a user is willing to accept on this web site.
+
+Browser cookie
+
+bam.nr-data.net
+
+JSESSIONID
+
+Session based cookie used by the Browser you are using e.g. Chrome or Internet Explorer
+
+
+3rd party cookies
+
+adnxs.com
+
+anj
+
+The term "third-party" indicates that rather than having a direct relationship with a user, a company has a relationship with one or more of the websites that a user visits. For example, if a user visits aberdeen-asset.com directly, that website is the "first party." If aberdeen-asset.com partners with an advertising network, platform, or exchange to place ads, the network, platform, or exchange is the "third party." The advertising network uses cookies when the user visits aberdeen-asset.com to help it select and serve the best ad. These cookies are considered "third-party cookies." First parties partner with third parties in this way because third parties have technology and expertise to enable more efficient ad placement across websites. Working with brands, publishers and websites, use third-party cookies to make advertising more engaging and relevant to users and more valuable to publishers and advertisers.
+
+sess
+
+uuid2
+
+casalemedia.com
+
+CMDD
+
+CMID
+
+CMPS
+
+CMRUM3
+
+CMSC
+
+CMST
+
+liverail.com
+
+lr_uds
+
+lr_uid
+
+eloqua.com
+
+ELOQUA
+
+ELQSTATUS
+
+exelator.com
+
+ud
+
+vmmpxl.com
+
+VMM_ID_J12
+
+liverail.com
+
+lr_uds
+
+lr_uid
+
+openx.net
+
+i
+
+pubmatic.com
+
+KRTBCOOKIE_18
+
+PUBMDCID
+
+rfihub.com
+
+ac
+
+b
+
+CMDD
+
+euds
+
+rud
+
+ruds
+
+eud
+
+rubiconproject.com
+
+khaos
+
+put_2596
+
+rpb
+
+pixel.rubiconproject.com
+
+c
+
+rpx
+
+am-uk.s3ae.com
+
+_pk_uid
+
+1st party cookies
+
+Aberdeen Country Sites
+
+AamAllowCookie_AAM
+
+Acceptance of the Cookie policy
+
+BIGipServerPOOL-95.138.136.238-80
+
+Acceptance of the audience type disclaimer
+
+UKInstitutional_TC
+
+Acceptance of the site terms and conditions (Where applicable)
+
+metrics.aberdeen-asset.com
+
+s_vi
+
+Aberdeen-asset.co.uk
+
+civicCookieControl
+
+This cookie is used to remember a user’s choice about cookies on this website. Where users have previously indicated a preference, that user’s preference will be stored in this cookie.
+
+ 
+
+1st party cookies
+
+Aberdeen Country Sites
+
+AamAllowCookie_AAM
+
+Acceptance of the Cookie policy
+
+ 	
+BIGipServerPOOL-95.138.136.238-80
+
+Acceptance of the audience type disclaimer
+
+ 	
+UKInstitutional_TC
+
+Acceptance of the site terms and conditions (Where applicable)
+
+metrics.aberdeen-asset.com
+
+s_vi
+
+ 
+Aberdeen-asset.co.uk
+
+civicCookieControl
+
+This cookie is used to remember a user’s choice about cookies on this website. Where users have previously indicated a preference, that user’s preference will be stored in this cookie.
+
+ 
+
+6. Privacy and the Internet
+
+Aberdeen is committed to ensuring that your personal information is secure. In order to prevent unauthorised access or disclosure, we have in place appropriate physical, electronic and managerial procedures to protect and secure your personal information.
+
+(a) How we secure information transferring to our web server
+
+All forms containing sensitive personal information, such as payment or bank details, are transmitted, after we authenticate your details, to the web server using a 'secure form' in which your details are encrypted using the most secure encryption level available.
+
+You should notify us immediately if you have any reason to suspect that someone else may be using your details.
+
+An encryption certificate can be viewed by double clicking on the padlock icon displayed within the web browser window when you are on a secure page.
+
+(b) How we hold your personal information on our web server
+
+In most cases your personal information is passed immediately to our customer service centre without any personal information being stored on the web server at all.
+
+Where it is necessary to store personal information temporarily, any sensitive personal information is securely encrypted and stored away from publicly-accessible areas of our web server.
+
+(c) How we transmit your personal information to our customer service centre
+
+Once we have received your personal information, the web server, located in a secure area of the network, immediately passes your personal information through an additional firewall into an application server and onto a server to allow us to execute your order within the customer service centre. The personal information is itself protected so that only authorised staff can access the personal information.
+
+7. Personal information and marketing purposes
+
+If you want Aberdeen to not use or cease using your personal information for marketing purposes, please contact our Data Protection Officer on dataprotectionofficer@aberdeen-asset.com.
+
+8. Changes to the Policy
+
+Please be aware that this Policy may be updated at any time. As such, please ensure that you regularly read the latest version of this page.
+
+9. Questions
+
+If you have any questions or complaints relating to the Policy or how we use the personal information we have about you, please contact our Data Protection Officer on dataprotectionofficer@aberdeen-asset.com. who will try to respond to you promptly.
+
+10. Glossary
+
+A cookie is information that a web server stores on your hard disk so that it allows a web site to store your preferences on your machine and later retrieve it.
+
+An IP address is a 32-binary digit number that identifies each sender or receiver of information that is sent in packets across the Internet.
+
+A session is a series of interactions between two communication end points that occur during the span of a single connection and is related to a particular session number.

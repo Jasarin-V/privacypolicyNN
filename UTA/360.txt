@@ -1,0 +1,42 @@
+PRIVACY POLICY
+This privacy policy applies to our website. If you have questions about our clinical trial privacy practices, please read our Clinical Trials Privacy Policy.
+
+ImmunoGen respects the privacy of visitors to our web site. If you visit this site and choose to provide us with personally identifiable information, we will use the information for its intended purpose, such as to send you an investor kit or to consider your qualifications for a position at the Company. We do not collect or maintain personally identifiable information for resale purposes or share this information with other organizations. Our uses of personally identifiable information comply with with all applicable laws of the United States of America. By submitting personally identifiable information to this website, you waive any rights you may have under any law of any other country or region. Please note that any information transmitted through the Internet has a risk of interception, and you transmit personally identifiable information to us at your own risk.
+
+Some pages on this web site may use “cookies.” These files are used for site registration and customization the next time you visit us. Your web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not. By not accepting cookies, some pages may not fully function.
+
+As a convenience to its visitors, this web site contains links to other sites that we believe contain useful information. The policies and procedures posted on those sites, and not the policies and procedures described here, apply to those sites.
+
+ImmunoGen may revise this Privacy Policy by updating this posting. Data will be handled in accordance with the policy in effect at the time the data is collected.
+
+If you have any questions about this privacy policy, please contact info@immunogen.com.
+
+IMMUNOGEN COOKIE POLICY
+About Cookies
+
+Cookies are information packets sent by web servers to web browsers, and stored by the web browsers. The information is then sent back to the server each time the browser requests a page from the server. This enables a web server to identify and track web browsers. There are two main kinds of cookies: session cookies and persistent cookies. Session cookies are deleted from your computer when you close your browser, whereas persistent cookies remain stored on your computer until deleted, or until they reach their expiry date. Persistent cookies can be used to collect identifying information about the user, such as Web surfing behavior or user preferences for a specific Web site. ImmunoGen.com uses the following cookies, for the following purposes:
+
+Google Analytics Cookies
+
+_utma
+_utmb
+_utmc
+_utmz
+
+ImmunoGen.com uses Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.
+
+Refusing Cookies
+
+Most browsers allow you to refuse to accept cookies.
+
+In Internet Explorer, you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.
+
+In Firefox, you can adjust your cookies settings by clicking “Tools”, “Options” and “Privacy”.
+
+In Chrome, you can access cookie settings and opt to block cookies by clicking “Options”, “Under the Hood”, and toggling the settings in the “Cookies” section.
+
+In Safari, cookies can be managed by clicking “Preferences”, “Security”, then toggling in the “Accept cookies” section. Blocking cookies will have a negative impact upon the usability of some websites.
+
+Cookie Tools
+
+For Firefox users, the add-on Lightbeam allows you to see which sites are storing cookies to track you. Chrome offers a “Keep My Opt-Outs,” a tool which allows users to permanently opt your browser out of online ad personalization via cookies.

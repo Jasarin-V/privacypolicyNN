@@ -1,0 +1,31 @@
+Web Privacy & Security
+The Texas Animal Health Commission (TAHC) has established this privacy policy in order to demonstrate TAHC's commitment to respecting the privacy of its web site visitors. The following discloses the agency's information collection practices for the TAHC web site.
+
+Collection of Personal Information
+TAHC does not collect or track personal information from visitors to its web site. Personal information is defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains.
+
+If and when visitors choose to submit personal information to TAHC by submitting online forms or by sending email to TAHC, any information disclosed may become public information under Texas state law. All visitors to the TAHC web site should exercise caution when making a decision to disclose personal information.
+
+Collection of Generic Information
+Generic information from server logs and/or statistical tracking software is collected and analyzed for the limited purpose of improving the TAHC web site. Generic information includes data such as the number and frequency of visitors to the TAHC site and traffic patterns within the TAHC web site. Generic information does not reveal the identity of the visitor.
+
+External Sites
+The TAHC web site contains links to other sites at which personal information may be collected. The collection and use of your personal information by these external sites will be governed by the privacy policies in place at those sites. TAHC is not responsible for the privacy policies, or lack of policies, in place at any site outside the domain of "www.tahc.texas.gov".
+
+Accessibility Policy
+The Texas Animal Health Commission is committed to making its Web site accessible to all users.
+
+To improve the accessibility of our Web site we utilize screen readers and web site validation tools to assess how well our website meets and accommodates accessibility criteria.
+
+If you are using assistive technology and the format of any of the material presented on our Web site interferes with your ability to access the information, please contact us at web-tahc@tahc.texas.gov. Please include the nature of your accessibility problem, the preferred format in which you would prefer to receive the material, the Web address of the requested material, and your contact information.
+
+More information on the accessibility standards of the State of Texas is available from the Department of Information Resources.
+
+Additional information about accessibility programs in Texas is available from the Governor's Committee on People with Disabilities.
+
+Link Policy
+The Texas Animal Health Commission follows the guidelines outlined in the State Web Site Link and Privacy Policy regarding policies for linking to, the use of, or copying information from State of Texas agency Web sites and protecting the personal information of members of the public who access state agency information through a state agency Web site.
+
+For more information on the State Web Site Link and Privacy Policy, please visit the Department of Information Resources site.
+
+Please direct all questions regarding the TAHC web site to: web-tahc@tahc.texas.gov.

@@ -1,0 +1,82 @@
+GATX Corporation
+Privacy Policy
+Copyright © 2002-2017, GATX Corporation
+ALL RIGHTS RESERVED.
+
+Welcome to the GATX Corporation (“Company,” “we” or “us”) website.  Because your privacy is very important to us, we want you to understand our practices with regard to collecting and using your information both online and offline and the steps we take to safeguard it.  When this Privacy Policy uses the term “Personally Identifiable Information” it refers to information that lets us know the specifics of who you are and can be used to identify, contact or locate you.  Personally Identifiable Information might include your name, mailing address, telephone number, mobile phone number, email address, and other identification and contact information.  We may also collect certain other information; whenever we do so, we will attempt to provide a link to this Policy so that you can confirm how this information will be used.
+
+“Non-Personally Identifiable Information” refers to information that does not identify a specific individual by itself or in combination with other information.  We may gather certain information about you such as age and gender, as well as the portions of GATX that you visit.  This information may be compiled and analyzed on both a personal and aggregated basis.  This information may include the Uniform Resource Locator (“URL”) of the website from which you just came, which URL you next go to, what browser you are using, and your Internet Protocol (“IP”) address.  A URL is the global address of sites and other resources on the Internet.  An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (“TCP/IP”) network, such as the Internet.  Networks use the TCP/IP protocol to route information based on the IP address of the destination.  In other words, an IP address is a number that is automatically assigned to your computer whenever you are navigating the Internet, allowing Internet servers to locate and identify your computer.  Computers require IP addresses in order for users to communicate on the Internet and to browse.
+
+We welcome any and all questions and feedback.  For privacy-related issues, please contact us at:
+
+GATX Corporation
+222 West Adams Street
+Chicago, IL 60606
+Attention: Legal Department
+Email:  contactgatx@gatx.com
+
+ 1.  Information We Collect
+
+a. Personally Identifiable Information.  We may collect Personally Identifiable Information when you:
+
+Inquire about the operation of GATX;
+Create your Access Codes on MyGATXRail;
+Correspond with us;
+Request information about our railcars; or
+Otherwise volunteer information to us.
+ 
+b. Non-Personally Identifiable Information.
+This website collects some non-personal information about you using clickstream technology, so it may not be readily apparent to you that it is being collected.  Non-Personally Identifiable Information is not combined with Personally Identifiable Information.
+
+2. Use of Data We Collect.
+
+a. Personally Identifiable Information.
+
+Your email address will not be shared with any third parties except as otherwise provided in this Privacy Policy.
+
+b. Non-Personally Identifiable Information.
+We use the Non-Personally Identifiable Information that we collect from you in a manner that does not personally identify any individual.  We use Non-Personally Identifiable Information to make this website more useful to you.  We also track the pages or documents accessed within this website.  This information is collected for systems administration and for analyzing and improving the value of the material available on this website.
+
+Cookies: Like many other commercial sites, GATX utilizes standard technologies called “cookies” to collect information about how this website is used.  A cookie is a small data text file, that a website stores on your computer’s hard drive (if your web browser permits) that can later be retrieved to identify you to us.  Cookies are designed to help a website recognize a user’s browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site.  A cookie cannot be read by a website other than the one that set the cookie.  Cookies can securely store a visitor’s email address or identify which parts of the website you have visited.  A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your email address.  We send a cookie to your hard drive when you register for this website.  No Personally Identifiable Information is recorded in a cookie.
+ 
+3. Information We Share with Others.
+
+
+a.Our Contractors.
+We contract with other companies (such as website developers) to provide certain services to GATX to create this website.  In some instances, these contractors may have access to Personally Identifiable Information, but they are contractually obligated to maintain the confidentiality of the information and to use it only for purposes of carrying out the business of GATX.
+
+These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than GATX.
+
+ 
+b. Third Parties.
+Your Personally Identifiable Information is never shared with any third party (except as described above to our contractors who use it ONLY to carry out GATX business.)
+
+4. Disclosure Exceptions.
+Notwithstanding the above policies, we may disclose your personal information to appropriate third parties if we are required to do so by law or we believe that such action is necessary:
+
+To comply with a legal process such as a search warrant, subpoena or court order;
+To protect the Company’s rights and property;
+To investigate reports of fraud or of users sending material using a false email address or users sending harassing, threatening, or abusive messages;
+To protect against misuse or unauthorized use of this website; or
+During emergencies, such as when we believe someone’s physical safety is or may be at risk
+
+In the unlikely event that GATX ever becomes insolvent and seeks protection under bankruptcy or insolvency laws, or if GATX plans to merge or be acquired by another business entity, GATX may share or sell your personal information and non-personal information with a third party that acquires the business of GATX.
+
+5. Email Use.
+When you provide us your email address, we may send you emails necessary to respond to a request.  Instructions on how to unsubscribe are included in each promotional email or newsletter.  Your email address will be used only as described above and will not be shared with any third parties except as we have already disclosed to you.
+
+6. Security.
+It is our intent to protect against the loss, misuse, or alteration of information that we have collected from you.  We employ reasonable security measures to protect the security of the information you submit to us.  We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities.  When you create an account on this website, your transactional information is transmitted in a safe, encrypted format.  We maintain the data you provide in a secure database.  We also encourage our partners and service providers to adopt and follow stringent consumer privacy policies.
+
+7. Children.
+Portions of this website may be of special interest to children but GATX does not seek through this website to gather personal information from persons under the age of 13.  If we ever determine that we have collected any personal information from persons under the age of 13, we will promptly delete it.
+
+8. Policy Changes.
+The Company may at any time modify this Privacy Policy in our discretion without notice.  Your use of this website will be conditioned upon the Privacy Policy that is posted on our site at the time of your use.  Please be sure to review our Terms of Use before proceeding to use this website.
+
+ 
+Questions or Comments?
+
+For questions, comments or assistance, we invite you to contact us at our physical or email address at the beginning of this Policy.
+
+ 

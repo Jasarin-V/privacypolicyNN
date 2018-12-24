@@ -1,0 +1,121 @@
+Website Linking Policies
+Information Collected and Stored Automatically
+We do collect some technical information. For example, when you browse, read pages, or download information on the Board's website, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:
+
+The Internet protocol (IP) address of the domain from which you access the internet (for example, "xcompany.com" if you use a private Internet access account) and IP address from which you access our website (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web);
+The type of browser (for example, Internet Explorer, Firefox) and operating system used to access our site;
+The date and time you access our site;
+The pages you visit;
+The action that you perform (for example, download a document) and whether or not you were successful; and
+If you linked to the Board's website from another website, the address of that website.
+The Board does not use this information to track the browsing of individuals who access the site. This information is primarily collected for statistical analysis and technical improvements to the site and to make it more useful for you. This information is used as a source of anonymous statistical data and is retained for a period of five years; it is shared only when required for law enforcement purposes.
+
+Website Measurement and Customization Technologies (e.g., cookies)
+When you visit some websites, their web servers generate pieces of information known as cookies. A cookie is an entry placed in a file on your hard drive by a website that allows it to monitor your use of the website, usually without your knowledge. Some cookies collect personal information to recognize your computer in the future.
+
+The Board's website may use cookies; however, cookies set by or on behalf of the Board do not collect personal information about you, but only your browser "session." The Board generally uses non-persistent "session" cookies. Session cookies are stored temporarily to your computer and last only as long as your web browser is open. Session cookies serve technical purposes like providing seamless navigation through the Board's website. Session cookies do not permanently record data and they are not stored on your computer's hard drive; rather, they are stored in memory and are only available during an active browser session. These cookies do not collect personal information on users, and they are erased as soon as you leave our website. Users that wish to opt-out of the use of these session cookies may do so by changing the settings in their web browser. Instructions on how to make such changes are available at http://www.usa.gov/optout_instructions.shtml
+
+The Board's website uses a "persistent" cookie in very limited situations. A persistent cookie allows you to create and save customized reports or preference settings for future visits. Persistent cookies store information on your computer for longer periods. This type of cookie will remain on your hard drive until it reaches its expiration date or is deleted by you. The Board uses a persistent cookie in connection with the following Board webpage:
+
+GovDelivery e-mail subscription, which maintains e-mail addresses that are voluntarily submitted by users so that they will be notified of public events organized by the Federal Reserve. The submitted e-mail address is maintained until it is deleted by the user.
+Visiting Official Board Pages/Sites on Third-Party Websites
+The Board of Governors of the Federal Reserve System uses certain third-party social media sites as additional means of reaching the public and directing people to www.federalreserve.gov, which is the primary source of information for the Board of Governors of the Federal Reserve System. The Board maintains an official page or presence on Facebook, Twitter, YouTube, Flickr and LinkedIn. Updates to these pages are generally made during official business hours.
+
+You can access the Board's official pages on Facebook, Twitter, YouTube, Flickr, and LinkedIn without having an account or subscribing to services. The Board does not collect any personal information about you, such as your name, address, or online profile, when you access these websites.
+
+As noted above, the Board's privacy policy does not apply on these third party websites and therefore you should familiarize yourself with the privacy policies of the social media site you use. You may access the privacy policy of the social media sites used by the Board at:
+
+YouTube | YouTube privacy
+
+Facebook  | Facebook privacy
+
+Twitter | Twitter privacy
+
+Flickr | Flickr privacy
+
+LinkedIn | LinkedIn privacy
+
+Security
+The Board's website is part of a Federal computer system used to accomplish Federal functions. Computer software programs as well as other surveillance methods are used to monitor network traffic on the Board's website for security purposes. By accessing this website, you are expressly consenting to these monitoring activities.
+
+For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
+Unauthorized attempts to defeat or circumvent security features; to use the system for other than intended purposes; to deny service to authorized users; to access, obtain, alter, damage, or destroy information; or to otherwise interfere with the system or its operation are strictly prohibited. Evidence of such acts may be disclosed to law enforcement authorities and may result in criminal prosecution under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996, as codified at Section 1030 of Title 18 of the United States Code, or other applicable criminal laws.
+Links to External Websites or Other Party-Party Websites
+The site also provides links to other non-federal government third-party websites as a public service. By linking to these external sites, the Board does not imply endorsement of the site's sponsor.
+
+Before linking to an external third-party website, we consider the following criteria:
+
+The site clearly relates to and complements existing information, products, and services on the Board's website.
+The site contains relevant and useful content that will benefit our users.
+The site contains accurate and timely information.
+The site provides information at no cost. We do not link to sites whose primary purpose is to sell products or services, except as part of an approved agreement with the Board. (Hotel reservations for Board conferences, for example).
+Disclaimer of Endorsement
+For convenience and informational purposes only, the Board's website provides links to non-government websites. These sites may contain information that is copyrighted with restrictions on reuse. Permission to use copyrighted materials must be obtained from the original source and cannot be obtained from the Board.
+
+The Board is not responsible for the content of external websites linked to or referenced from its website. The Board neither endorses the information, content, presentation, or accuracy nor makes any warranty, express or implied, regarding these external websites. Users should be aware that when they select a link on the Board's website to an external website, they are leaving the Board's site. When users select a link to an outside website, they are leaving the Board's site and are subject to the privacy and security policies of the external website.
+
+The Board does not control or guarantee the accuracy, relevance, timeliness, or completeness of information contained on a linked website.
+The Board does not endorse the organizations sponsoring linked websites and does not endorse the views they express or the products/services they offer.
+The Board is not responsible for transmissions users receive from linked websites.
+The Board does not guarantee that external websites comply with Section 508 (accessibility requirements) of the Rehabilitation Act.
+Prohibitions
+The Board's website will not link to any website that exhibits hate, bias, or discrimination. Furthermore, the Board's website reserves the right to deny or remove any link that contains misleading information or Unsubstantiated claims, or is determined to be in conflict with the website's mission or policies.
+
+Related Content
+Privacy Program
+Back to Top
+Last Update: April 20, 2017
+
+The Board is committed to protecting your privacy and securing the personal information made available to us. The Board limits its collection of personal information to that which is necessary to carry out its missions and responsibilities. The Board protects the security and confidentiality of personal information through various methods including security technologies and access controls.
+
+The Board follows the requirements of the Privacy Act, which protects personal information that the Board maintains in a system of records. A system of records is a group of records under the control of the agency from which information about individuals is retrieved by name of the individual or some identifier assigned to the individual. The Board's System of Records Notices identify systems of records maintained by the Board and describe how the information is stored, used, and safeguarded. The Board also uses Privacy Impact Assessments as a key tool to ensure that privacy issues and protections are addressed within information technology systems that manage personal information in identifiable form.
+
+The Board's Privacy program is led by the Senior Agency Official for Privacy (SAOP), who is responsible for establishing the security controls for personal information and for developing, maintaining, and overseeing the Privacy program. The Board's SAOP is Raymond Romero.
+
+Questions or comments about privacy matters or complaints of violations in connection with the Board's handling of personal information may be directed to the Board Privacy program staff via email at: privacy.comments@frb.gov. Complaints of privacy violations may also be submitted by clicking Contact Us and providing the requested information.
+
+How to Make a Privacy Act Request
+Requesting Access to Records
+The Privacy Act allows you the right to access records maintained about you in a Board system of records (meaning a group of records under the control of the Board from which information about you is retrieved by your name or some identifier assigned to you).
+
+Your request for access must:
+
+Contain a statement that it is made pursuant to the Privacy Act of 1974;
+Provide either the name of the Board system of records expected to contain the record requested or a concise description of the system of records;
+Provide the necessary information to verify your identity; and
+Provide any other information that may assist in the rapid identification of the record for which you are requesting access.
+Current or former Board employees may make a request for access by contacting the Board office that maintains the record.
+
+Requesting Amendment of Records
+The Privacy Act also allows you to seek amendment of information that is erroneous, irrelevant, untimely, or incomplete and is maintained in a system of records about you. To request an amendment to your record, you should clearly mark the request as a "Privacy Act Amendment Request."
+
+Your request for amendment must:
+
+Provide the name of the specific Board system of records containing the record you seek to amend;
+Identify the specific portion of the record that you seek to amend;
+Describe the nature of and reasons for each requested amendment;
+Explain why you believe the record is not accurate, relevant, timely, or complete; and
+Unless you have already done so in a Privacy Act request for access, provide the necessary information to verify your identity.
+Submitting Your Privacy Act Request
+You may submit your Privacy Act request to the:
+
+Secretary of the Board
+Board of Governors of the Federal Reserve System
+20th Street and Constitution Avenue N.W.
+Washington, D.C. 20551
+
+If your request is for records maintained by the Board's Office of Inspector General, submit your request to the:
+
+Inspector General
+Board of Governors of the Federal Reserve System
+20th Street and Constitution Avenue N.W.
+Washington, D.C. 20551
+
+You may also submit your Privacy Act request electronically through the Board's FOIA "Electronic Request Form" 
+
+Additional Information
+The Board handles all Privacy Act requests as both a Privacy Act request and as a Freedom of Information Act request. The Board does not charge fees to a requester seeking to access or amend his/her Privacy Act records.
+
+For further information, see the Board's Privacy Act Rule at 12 C.F.R. §§261a.5-261a.10 
+
